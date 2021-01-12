@@ -13,6 +13,8 @@ Strains included in this project:
 
 See: [dickeya_pecto_db_setup.md](dickeya_pecto_db_setup.md)
 
+Raw data included in [dickeya\_pecto\_db/](dickeya_pecto_db/)
+
 ### Mapping barcoded *mariner* transposon libraries in these strains
 
 See: [lib_mapping.md](lib_mapping.md)
