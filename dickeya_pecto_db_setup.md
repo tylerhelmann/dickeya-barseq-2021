@@ -17,14 +17,14 @@ python3
 
 Ortholog database to construct: "dickeya\_pecto_db"
 
-#### Download RefSeq NCBI assemblies for 3937, ME23, 67-19, and WPP14. 
+#### Download RefSeq NCBI assemblies for *Dickeya* 3937, ME23, 67-19, and *Pectobacterium* WPP14. 
 
 (Note: Check that these locusIds are compatible with BarSeq output.)
 
-- 3937 = GCF_000147055.1
-- ME23 = GCF_003403135.1
-- 67-19 = GCF_014893095.1
-- WPP14 = GCF_013488025.1
+- Dda3937 = GCF_000147055.1
+- DdiaME23 = GCF_003403135.1
+- Ddia67-19 = GCF_014893095.1
+- PcWPP14 = GCF_013488025.1
 
 Copy protein sequence files for both strains.  
 Create PyParanoid strainlist.
