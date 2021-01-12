@@ -1,6 +1,7 @@
 ### PyParanoid "Dickeya/Pecto" database.
 
-Run: 1/12/2021
+Run: 1/12/2021  
+System: macOS Catalina (10.15.7)
 
 #### Set up PyParanoid directory within working directory
 
