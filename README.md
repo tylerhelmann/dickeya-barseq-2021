@@ -9,11 +9,11 @@ Strains included in this project:
 - *Dickeya dianthicola* 67-19
 - *Pectobacterium carotovorum* WPP14
 
-### Generating a PyParanoid ortholog database.
+### Generating a PyParanoid ortholog database
 
 See: [dickeya_pecto_db_setup.md](dickeya_pecto_db_setup.md)
 
-### Mapping barcoded *mariner* transposon libraries in these strains.
+### Mapping barcoded *mariner* transposon libraries in these strains
 
 See: [lib_mapping.md](lib_mapping.md)
 
