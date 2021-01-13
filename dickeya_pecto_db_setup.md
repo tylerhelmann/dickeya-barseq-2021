@@ -3,11 +3,34 @@
 Run: 1/12/2021  
 System: macOS Catalina (10.15.7)
 
-#### Set up PyParanoid directory within working directory
-
 PyParanoid citation: 
 
 Melnyk, R.A., Hossain, S.S. & Haney, C.H. Convergent gain and loss of genomic islands drive lifestyle changes in plant-associated Pseudomonas. ISME J 13, 1575–1588 (2019). https://doi.org/10.1038/s41396-019-0372-5
+
+##### Dependencies
+
+For OSX, install using Homebrew.
+
+~~~ bash
+brew tap brewsci/bio
+brew install diamond
+brew install hmmer
+brew install mcl
+brew install cd-hit
+brew install muscle
+~~~
+
+Versions used here:
+
+- cd-hit 4.8.1_1
+- diamond 0.9.36
+- hmmer 3.3.1
+- mcl 14-137
+- muscle 3.8.1551
+
+--
+
+#### Set up PyParanoid directory within working directory
 
 ~~~ bash
 git clone https://github.com/ryanmelnyk/PyParanoid
@@ -20,9 +43,7 @@ python3
 >>>exit()
 ~~~
 
-Ortholog database to construct: "dickeya\_pecto_db"
-
-#### Download RefSeq NCBI assemblies for *Dickeya* 3937, ME23, 67-19, and *Pectobacterium* WPP14. 
+#### Download RefSeq NCBI assemblies for *Dickeya dadantii* 3937, *D. dianthicola* ME23, *D. dianthicola* 67-19, and *Pectobacterium carotovorum* WPP14. 
 
 (Note: Check that these locusIds are compatible with BarSeq output.)
 
@@ -31,11 +52,8 @@ Ortholog database to construct: "dickeya\_pecto_db"
 - Ddia67-19 = GCF_014893095.1
 - PcWPP14 = GCF_013488025.1
 
-Copy protein sequence files for both strains.  
-Create PyParanoid strainlist.
-
 ~~~ bash
-# For dickeya_pecto_db:
+# Copy protein sequence files for both strains.  
 cp data_raw/assemblies/GCF_000147055.1*protein.faa \
 genomedb/pep/Dickeya_dadantii_3937.pep.fa
 cp data_raw/assemblies/GCF_003403135.1*protein.faa \
@@ -45,6 +63,7 @@ genomedb/pep/Dickeya_dianthicola_67-19.pep.fa
 cp data_raw/assemblies/GCF_013488025.1*protein.faa \
 genomedb/pep/Pectobacterium_carotovorum_WPP14.pep.fa
 
+# Create PyParanoid strainlist.
 ls genomedb/pep > genomedb/strainlist.txt
 ~~~
 
