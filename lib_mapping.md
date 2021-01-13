@@ -1,6 +1,6 @@
 ## Mapping barcoded *Mariner* transposon libraries
 
-System: Linux CentOS 7.6
+System: Linux CentOS 7.6 (40 core)
 
 #### Strains:
 
@@ -16,7 +16,7 @@ Sequencing data:
 | Strain | Machine | Zipped output size | Total sequences
 | --- | --- | --- | ---
 | *Dda* 3937 | NextSeq | 
-| *Ddia* ME23 | NextSeq | 38 Gb | 21084010
+| *Ddia* ME23 | NextSeq | 38 Gb | 481396760
 | *Ddia* 67-19 | MiSeq | 
 | *Pc* WPP14 | MiSeq |
 
@@ -74,32 +74,49 @@ Set up strains for FEBA pipeline.
 ~~~ bash
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 ./feba/bin/SetupOrg.pl -gbk ${lib}.gbff \
--out ${lib}_data/ 2>&1 | tee ${lib}_setup.log
+-out ${lib}_data/ \
+2>&1 | tee ${lib}_setup.log
 done
 ~~~
 
 [DdiaME23_setup.log](library_mapping/DdiaME23_setup.log)
 
-Map reads. (Need to split to multiplex?)
+#### Map reads.
 
-Fastq file names = \${lib}_reads.fastq
+Split fastq files to multiplex.  
+Total lines / 40 cores.  
+(Needs to be a multiple of 4 because reads in fastq files are in groups of 4 lines.)
 
 ~~~ bash
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
-./feba/bin/MapTnSeq.pl -genome ${lib}_data/genome.fna \
+# Split fastq files.
+split -l 48139676 -d DdiaME23.fastq DdiaME23- &
+
+# Map reads in parallel.
+
+# Map DdiaME23
+for i in DdiaME23-{00..39}; do
+./feba/bin/MapTnSeq.pl \
+-genome DdiaME23_data/genome.fna \
 -model feba/primers/model_pKMW3.2 \
--first ${lib}_reads.fastq \
-> ${lib}_data/${lib}_mapped.txt
+-first ${i} > DdiaME23_data/split/${i}-mapped.txt \
+2> DdiaME23_data/split/${i}_log.txt &
 done
+
+# Combine all data.
+cat DdiaME23_data/split/DdiaME23*-mapped.txt > \
+DdiaME23_data/DdiaME23-mapped.txt
 ~~~
 
 Construct barcode Pool. Output = pools and stats files.
 
 ~~~ bash
+# Fix feba/lib/PoolStats.R shebang line. 
+# For me needs to be: #!/usr/bin/env Rscript
+
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 ./feba/bin/DesignRandomPool.pl -minN 10 \
 -genes ${lib}_data/genes.tab \
--pool ${lib}.pool ${lib}_data/${lib}_mapped.txt \
+-pool ${lib}.pool ${lib}_data/${lib}-mapped.txt \
 2>&1 | tee ${lib}.stats
 done
 ~~~
