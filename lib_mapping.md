@@ -78,6 +78,8 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 done
 ~~~
 
+[DdiaME23_setup.log](library_mapping/DdiaME23_setup.log)
+
 Map reads. (Need to split to multiplex?)
 
 Fastq file names = \${lib}_reads.fastq
