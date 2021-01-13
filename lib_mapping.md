@@ -19,24 +19,6 @@ Sequencing data:
 | *Ddia* ME23 | NextSeq | 38 Gb | 481396760
 | *Ddia* 67-19 | MiSeq | 
 | *Pc* WPP14 | MiSeq |
-
-FastQC summaries of sequencing runs:
-
-~~~ bash
-export PATH=/programs/FastQC-0.11.8:$PATH
-
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
-fastqc ${lib}.fastq &
-done
-~~~
-
-Results:
-
-- [Dda3937_fastqc.html](library_mapping/Dda3937_fastqc.html)
-- [DdiaME23_fastqc.html](library_mapping/DdiaME23_fastqc.html)
-- [Ddia67-19_fastqc.html](library_mapping/Ddia67-19_fastqc.html)
-- [PcWPP14_fastqc.html](library_mapping/PcWPP14_fastqc.html)
-
 --
 
 #### Mapping protocol
