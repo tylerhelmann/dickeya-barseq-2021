@@ -107,10 +107,9 @@ cat DdiaME23_data/split/DdiaME23*-mapped.txt > \
 DdiaME23_data/DdiaME23-mapped.txt
 ~~~
 
-Construct barcode Pool. Output = pools and mapping logs.  
 - [DdiaME23 logs](library_mapping/DdiaME23_split_logs/)
 
-
+Construct barcode Pool 
 
 ~~~ bash
 # Fix feba/lib/PoolStats.R shebang line. 
@@ -124,12 +123,16 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 done
 ~~~
 
+Library mapping stats
+
+- [DdiaME23](library_mapping/DdiaME23.stats)
+
 #### Summary of all libraries
 
-| Library | Total Mutant Strains | Central Insertion Strains |  Genes with Central Insertions (Total) | Strains per Hit Protein |
+| Library | Insertions in Genome | Central Insertion Strains |  Genes with Central Insertions (Total) | Median Strains per Hit Protein |
 | --- | --- | --- | --- | ---
 | *Dda* 3937 | |
-| *Ddia* ME23 | 
+| *Ddia* ME23 | 540176 |320479 |3804 (4182) | 62
 | *Ddia* 67-19 |
 | *Pc* WPP14 | 
 
