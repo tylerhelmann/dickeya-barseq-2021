@@ -19,7 +19,7 @@ Sequencing data:
 | *Ddia* ME23 | NextSeq | 38 Gb | 481396760
 | *Ddia* 67-19 | MiSeq | 
 | *Pc* WPP14 | MiSeq |
---
+
 
 #### Mapping protocol
 
@@ -121,10 +121,13 @@ Library mapping stats
 #### Calculate gene essentiality predictions using Essentiality.pl
 
 ~~~ bash
-./feba/bin/Essentiality.pl -out data/ess \
--genome data/genome.fna \
--genes data/genes.tab data/B728a-all-mapped.txt \
+for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+./feba/bin/Essentiality.pl -out ${lib}_data/ess \
+-genome ${lib}_data/genome.fna \
+-genes ${lib}_data/genes.tab \
+${lib}_data/${lib}-mapped.txt \
 $blatShow
+done
 ~~~
 
 Output files = 
@@ -135,21 +138,28 @@ Output files =
 
 #### To generate ess predictions, use comb.R
 
-Open R shell and add input files.
-
-~~~ 
+~~~ bash
+# Open R shell and add input files.
 R
-> source("feba/lib/comb.R")
-> genes.GC <- read.delim(file = "data/genes.GC")
-> ess.genes <- read.delim(file = "data/ess.genes")
+source("feba/lib/comb.R")
+genes.GC <- read.delim(file = "DdiaME23_data/genes.GC")
+ess.genes <- read.delim(file = "DdiaME23_data/ess.genes")
+
+# Run Essentials() and save output.
+ess <- Essentials(genes.GC, ess.genes, "")
+write.table(ess, file="DdiaME23_data/ess", sep="\t", row.names=F)
+# Quit R shell.
+q()
 ~~~
 
-Run Essentials() and save output.
+Note minimum gene length from Essentials()
 
 ~~~
-> ess <- Essentials(genes.GC, ess.genes, "")
-> write.table(ess, file="data/ess", sep="\t", row.names=F)
-> # Quit R shell
-> q()
+# DdiaME23:
+# Chose length  150 minimum fp rate 0.01136051 
 ~~~
+
+Predicted essential genes:
+
+- [DdiaME23](library_mapping/DdiaME23.ess)
 
