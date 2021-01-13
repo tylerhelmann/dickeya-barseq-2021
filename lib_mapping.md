@@ -1,8 +1,8 @@
 ## Mapping barcoded *Mariner* transposon libraries
 
-System: Linux CentOS 7.6 (40 core)
+System: Linux CentOS 7.6 (40 core server)
 
-#### Strains:
+#### Strains
 
 | Strain | RefSeq accession | RefSeq assembly and GenBank assembly identical
 |---|---|---|
@@ -11,9 +11,9 @@ System: Linux CentOS 7.6 (40 core)
 |*Dickeya dianthicola* 67-19 | GCF_014893095.1 | yes
 |*Pectobacterium carotovorum* WPP14 | GCF_013488025.1 | yes
 
-Sequencing data:
+##### Sequence data
 
-| Strain | Machine | Zipped output size | Total sequences
+| Strain | Machine | Zipped file size | Total sequences
 | --- | --- | --- | ---
 | *Dda* 3937 | NextSeq | 
 | *Ddia* ME23 | NextSeq | 38 Gb | 481396760
@@ -21,7 +21,7 @@ Sequencing data:
 | *Pc* WPP14 | MiSeq |
 
 
-#### Mapping protocol
+### Mapping protocol
 
 Import RefSeq gbk files for all strains.
 
@@ -63,9 +63,9 @@ done
 
 [DdiaME23_setup.log](library_mapping/DdiaME23_setup.log)
 
-#### Map reads.
+#### Map reads
 
-Split fastq files to multiplex.  
+Split fastq files to use all cores.  
 Total lines / 40 cores.  
 (Needs to be a multiple of 4 because reads in fastq files are in groups of 4 lines.)
 
@@ -84,14 +84,14 @@ for i in DdiaME23-{00..39}; do
 2> DdiaME23_data/split/${i}_log.txt &
 done
 
-# Combine all data.
+# Combine mapped reads.
 cat DdiaME23_data/split/DdiaME23*-mapped.txt > \
 DdiaME23_data/DdiaME23-mapped.txt
 ~~~
 
 - [DdiaME23 logs](library_mapping/DdiaME23_split_logs/)
 
-Construct barcode Pool 
+#### Construct barcode "pools"
 
 ~~~ bash
 # Fix feba/lib/PoolStats.R shebang line. 
@@ -107,18 +107,22 @@ done
 
 Library mapping stats
 
-- [DdiaME23](library_mapping/DdiaME23.stats)
+- [DdiaME23.stats](library_mapping/DdiaME23.stats)
 
-#### Summary of all libraries
+Pools
 
-| Library | Insertions in Genome | Central Insertion Strains |  Genes with Central Insertions (Total) | Median Strains per Hit Protein |
+- [DdiaME23.pool](library_mapping/DdiaME23.pool)
+
+#### Library summaries
+
+| Library | Insertions in genome | Central insertion strains |  Genes with central insertions (Total) | Median strains per hit protein |
 | --- | --- | --- | --- | ---
 | *Dda* 3937 | |
 | *Ddia* ME23 | 540176 |320479 |3804 (4182) | 62
 | *Ddia* 67-19 |
 | *Pc* WPP14 | 
 
-#### Calculate gene essentiality predictions using Essentiality.pl
+#### Essential gene predictions
 
 ~~~ bash
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
@@ -135,8 +139,6 @@ Output files =
 - ess.genes
 - ess.pos 
 - ess.regions
-
-#### To generate ess predictions, use comb.R
 
 ~~~ bash
 # Open R shell and add input files.
