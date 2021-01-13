@@ -107,7 +107,10 @@ cat DdiaME23_data/split/DdiaME23*-mapped.txt > \
 DdiaME23_data/DdiaME23-mapped.txt
 ~~~
 
-Construct barcode Pool. Output = pools and [stats files](library_mapping/DdiaME23_split_logs/).
+Construct barcode Pool. Output = pools and mapping logs.  
+- [DdiaME23 logs](library_mapping/DdiaME23_split_logs/)
+
+
 
 ~~~ bash
 # Fix feba/lib/PoolStats.R shebang line. 
