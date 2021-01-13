@@ -19,6 +19,8 @@ Raw data included in [dickeya\_pecto\_db/](dickeya_pecto_db/)
 
 See: [lib_mapping.md](lib_mapping.md)
 
+Data included in [library\_mapping/](library_mapping/)
+
 ### Measuring genome-wide fitness with BarSeq *in vitro* and *in planta*
 
 See: [barseq_analysis.md](barseq_analysis.md)
