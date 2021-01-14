@@ -27,7 +27,7 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 
 ### Mapping protocol
 
-#### Import RefSeq gbk files for all strains.
+#### Import RefSeq gbk files for all strains
 
 ~~~ bash
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/055/GCF_000147055.1_ASM14705v1/GCF_000147055.1_ASM14705v1_genomic.gbff.gz \
@@ -55,7 +55,8 @@ rm feba/bin/genbank2gff.pl
 cp genbank2gff.pl feba/bin/genbank2gff.pl
 ~~~
 
-#### Set up strains for FEBA pipeline.  
+#### Set up strains for FEBA pipeline
+
 (Save "genes.tab" files for BarSeq.)
 
 ~~~ bash
@@ -78,15 +79,24 @@ done
 
 #### Map reads
 
-Split fastq files to use all cores.  
-Total lines / 40 cores.  
+Split fastq files to use all cores. Total lines / 40 cores.  
 (Needs to be a multiple of 4 because reads in fastq files are in groups of 4 lines.)
 
 ~~~ bash
 # Split fastq files.
+split -l N -d Dda3937.fastq Dda3937- &
 split -l 48139676 -d DdiaME23.fastq DdiaME23- &
 
 # Map reads in parallel.
+
+# Map Dda3937
+for i in Dda3937-{00..39}; do
+./feba/bin/MapTnSeq.pl \
+-genome Dda3937_data/genome.fna \
+-model feba/primers/model_pKMW3.2 \
+-first ${i} > Dda3937_data/split/${i}-mapped.txt \
+2> Dda3937_data/split/${i}_log.txt &
+done
 
 # Map DdiaME23
 for i in DdiaME23-{00..39}; do
@@ -98,10 +108,13 @@ for i in DdiaME23-{00..39}; do
 done
 
 # Combine mapped reads.
+cat Dda3937_data/split/Dda3937*-mapped.txt > \
+Dda3937_data/Dda3937-mapped.txt
 cat DdiaME23_data/split/DdiaME23*-mapped.txt > \
 DdiaME23_data/DdiaME23-mapped.txt
 ~~~
 
+- [Dda3937 logs](library_mapping/Dda3937_split_logs/)
 - [DdiaME23 logs](library_mapping/DdiaME23_split_logs/)
 
 #### Construct barcode "pools"
@@ -118,12 +131,14 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 done
 ~~~
 
-Library mapping stats
+Library mapping stats:
 
+- [Dda3937.stats](library_mapping/Dda3937.stats)
 - [DdiaME23.stats](library_mapping/DdiaME23.stats)
 
-Pools
+Pools:
 
+- [Dda3937.pool](library_mapping/Dda3937.pool)
 - [DdiaME23.pool](library_mapping/DdiaME23.pool)
 
 #### Library summaries
@@ -137,6 +152,8 @@ Pools
 
 #### Essential gene predictions
 
+Calculate insertion frequencies using Essentiality.pl.
+
 ~~~ bash
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 ./feba/bin/Essentiality.pl -out ${lib}_data/ess \
@@ -147,7 +164,7 @@ $blatShow
 done
 ~~~
 
-Intermediate output files = 
+Intermediate output files: 
 
 - ess.genes
 - ess.pos 
@@ -157,24 +174,35 @@ Intermediate output files =
 # Open R shell and add input files.
 R
 source("feba/lib/comb.R")
-genes.GC <- read.delim(file = "DdiaME23_data/genes.GC")
-ess.genes <- read.delim(file = "DdiaME23_data/ess.genes")
 
-# Run Essentials() and save output.
-ess <- Essentials(genes.GC, ess.genes, "")
-write.table(ess, file="DdiaME23_data/ess", sep="\t", row.names=F)
+Dda3937_genes.GC <- read.delim(file = "Dda3937_data/genes.GC")
+Dda3937_ess.genes <- read.delim(file = "Dda3937_data/ess.genes")
+DdiaME23_genes.GC <- read.delim(file = "DdiaME23_data/genes.GC")
+DdiaME23_ess.genes <- read.delim(file = "DdiaME23_data/ess.genes")
+
+# Run Essentials() to predict gene essentiality.
+Dda3937_ess <- Essentials(Dda3937_genes.GC, Dda3937_ess.genes, "")
+DdiaME23_ess <- Essentials(DdiaME23_genes.GC, DdiaME23_ess.genes, "")
+
+# Save output.
+write.table(Dda3937_ess, file="Dda3937_data/Dda3937.ess", sep="\t", row.names=F)
+write.table(DdiaME23_ess, file="DdiaME23_data/DdiaME23.ess", sep="\t", row.names=F)
+
 # Quit R shell.
 q()
 ~~~
 
-Note minimum gene length from Essentials()
+Note minimum gene length from Essentials().
 
 ~~~
+# Dda3937:
+# fixme
 # DdiaME23:
 # Chose length  150 minimum fp rate 0.01136051 
 ~~~
 
 Predicted essential genes:
 
+- [Dda3937](library_mapping/Dda3937.ess)
 - [DdiaME23](library_mapping/DdiaME23.ess)
 
