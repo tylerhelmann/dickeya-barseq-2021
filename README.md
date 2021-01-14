@@ -24,3 +24,5 @@ Data included in [library\_mapping/](library_mapping/)
 ### Measuring genome-wide fitness with BarSeq *in vitro* and *in planta*
 
 See: [barseq_analysis.md](barseq_analysis.md)
+
+Data included in [barseq\_inputs/](barseq\_inputs/) and [barseq_out/](barseq_out/)
