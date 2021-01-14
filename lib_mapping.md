@@ -71,10 +71,10 @@ done
 [Ddia6719_setup.log](library_mapping/Ddia6719_setup.log)  
 [PcWPP14_setup.log](library_mapping/PcWPP14_setup.log)  
 
-[Dda3937_genes.tab](BarSeq_inputs/Dda3937_genes.tab)  
-[DdiaME23_genes.tab](BarSeq_inputs/DdiaME23_genes.tab)  
-[Ddia6719_genes.tab](BarSeq_inputs/Ddia6719_genes.tab)  
-[PcWPP14_genes.tab](BarSeq_inputs/PcWPP14_genes.tab)  
+[Dda3937_genes.tab](barseq_inputs/Dda3937_genes.tab)  
+[DdiaME23_genes.tab](barseq_inputs/DdiaME23_genes.tab)  
+[Ddia6719_genes.tab](barseq_inputs/Ddia6719_genes.tab)  
+[PcWPP14_genes.tab](barseq_inputs/PcWPP14_genes.tab)  
 
 #### Map reads
 
