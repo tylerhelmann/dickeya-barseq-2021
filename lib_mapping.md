@@ -17,7 +17,7 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 
 ##### Sequence data
 
-| Strain | Machine | Zipped file size | Total sequences
+| Strain | Sequencer | Zipped file size | Total sequences
 | --- | --- | --- | ---
 | *Dda* 3937 | NextSeq | 
 | *Ddia* ME23 | NextSeq | 38 Gb | 481396760
@@ -51,11 +51,12 @@ git clone -q https://bitbucket.org/berkeleylab/feba.git
 # Delete the link and replace the file with:
 # https://github.com/ihh/gfftools/blob/master/genbank2gff.pl
 
-rm -f feba/bin/genbank2gff.pl
+rm feba/bin/genbank2gff.pl
 cp genbank2gff.pl feba/bin/genbank2gff.pl
 ~~~
 
-Set up strains for FEBA pipeline.
+Set up strains for FEBA pipeline.  
+(Save "genes.tab" files for BarSeq.)
 
 ~~~ bash
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
@@ -65,7 +66,15 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 done
 ~~~
 
-[DdiaME23_setup.log](library_mapping/DdiaME23_setup.log)
+[Dda3937_setup.log](library_mapping/Dda3937_setup.log)  
+[DdiaME23_setup.log](library_mapping/DdiaME23_setup.log)  
+[Ddia6719_setup.log](library_mapping/Ddia6719_setup.log)  
+[PcWPP14_setup.log](library_mapping/PcWPP14_setup.log)  
+
+[Dda3937_genes.tab](BarSeq_inputs/Dda3937_genes.tab)  
+[DdiaME23_genes.tab](BarSeq_inputs/DdiaME23_genes.tab)  
+[Ddia6719_genes.tab](BarSeq_inputs/Ddia6719_genes.tab)  
+[PcWPP14_genes.tab](BarSeq_inputs/PcWPP14_genes.tab)  
 
 #### Map reads
 
@@ -138,7 +147,7 @@ $blatShow
 done
 ~~~
 
-Output files = 
+Intermediate output files = 
 
 - ess.genes
 - ess.pos 
