@@ -42,7 +42,7 @@ python3
 >>>exit()
 ~~~
 
-#### Download RefSeq NCBI assemblies for *Dickeya dadantii* 3937, *D. dianthicola* ME23, *D. dianthicola* 67-19, and *Pectobacterium carotovorum* WPP14. 
+#### Download NCBI RefSeq protein sequences for *Dickeya dadantii* 3937, *D. dianthicola* ME23, *D. dianthicola* 67-19, and *Pectobacterium carotovorum* WPP14. 
 
 (Note: Check that these locusIds are compatible with BarSeq output.)
 
@@ -52,15 +52,18 @@ python3
 - PcWPP14 = GCF_013488025.1
 
 ~~~ bash
-# Copy protein sequence files for both strains.  
-cp data_raw/assemblies/GCF_000147055.1*protein.faa \
-genomedb/pep/Dickeya_dadantii_3937.pep.fa
-cp data_raw/assemblies/GCF_003403135.1*protein.faa \
-genomedb/pep/Dickeya_dianthicola_ME23.pep.fa
-cp data_raw/assemblies/GCF_014893095.1*protein.faa \
-genomedb/pep/Dickeya_dianthicola_67-19.pep.fa
-cp data_raw/assemblies/GCF_013488025.1*protein.faa \
-genomedb/pep/Pectobacterium_carotovorum_WPP14.pep.fa
+# Download protein sequence files for all strains. 
+# Need to be in genomedb/pep/ folder. 
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/055/GCF_000147055.1_ASM14705v1/GCF_000147055.1_ASM14705v1_protein.faa.gz \
+-O genomedb/pep/Dickeya_dadantii_3937.pep.fa.gz
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/403/135/GCF_003403135.1_ASM340313v1/GCF_003403135.1_ASM340313v1_protein.faa.gz \
+-O genomedb/pep/Dickeya_dianthicola_ME23.pep.fa.gz
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/893/095/GCF_014893095.1_ASM1489309v1/GCF_014893095.1_ASM1489309v1_protein.faa.gz \
+-O genomedb/pep/Dickeya_dianthicola_67-19.pep.fa.gz
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_ASM1348802v1/GCF_013488025.1_ASM1348802v1_protein.faa.gz \
+-O genomedb/pep/Pectobacterium_carotovorum_WPP14.pep.fa.gz
+
+gunzip genomedb/pep/*pep.fa.gz
 
 # Create PyParanoid strainlist.
 ls genomedb/pep > genomedb/strainlist.txt

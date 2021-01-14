@@ -27,7 +27,7 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 
 ### Mapping protocol
 
-Import RefSeq gbk files for all strains.
+#### Import RefSeq gbk files for all strains.
 
 ~~~ bash
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/055/GCF_000147055.1_ASM14705v1/GCF_000147055.1_ASM14705v1_genomic.gbff.gz \
@@ -42,7 +42,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_AS
 gunzip *gbff.gz
 ~~~
 
-Download FEBA repository.
+#### Download FEBA repository
 
 ~~~ bash
 git clone -q https://bitbucket.org/berkeleylab/feba.git
@@ -55,7 +55,7 @@ rm feba/bin/genbank2gff.pl
 cp genbank2gff.pl feba/bin/genbank2gff.pl
 ~~~
 
-Set up strains for FEBA pipeline.  
+#### Set up strains for FEBA pipeline.  
 (Save "genes.tab" files for BarSeq.)
 
 ~~~ bash
