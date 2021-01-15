@@ -1,0 +1,24 @@
+Reading mapping files:
+Dda3937_data/Dda3937-mapped.txt
+Read 285716301 mapped reads for 3857682 distinct barcodes
+(Skipped 745974 reads with qBeg > 3)
+425594 barcodes seen 10 or more times, map 355351 (minFrac 0.75 minRatio 8)
+FewGood	12289	0.0289
+LoRatio	11785	0.0277
+NoCons	33874	0.0796
+PastEnd	12295	0.0289
+Usable	355351	0.8350
+Masked 19459 off-by-1 barcodes (909777 reads) leaving 337241 barcodes
+Reads for those barcodes: 218985691 of 285716301 (76.6%)
+Chao2 estimate of #barcodes present (may be inflated for sequencing error): 13382533
+337241 insertions in genome are at 133187 different locations
+Found 193562 insertions (76837 distinct locations) in central 10-90% of genes
+Found central insertions for 3883 of 4213 protein-coding genes
+Hit rate in (crude) likely essentials: 0.35 other 0.92
+Wrote proteins of 300nt or more with no good insertions to Dda3937.pool.unhit
+Wrote 30 genes with surprising insertions in central 10-90% to Dda3937.pool.surprise
+Wrote read and strain counts for hit genes to Dda3937.pool.hit
+Strains per hit protein: median 37 mean 48.5
+Gene and transposon on same strand: 50.6%
+Reads per hit protein: median 21027 mean 31227.7 bias (ratio) 1.49
+Reads per million for hit proteins: median 73.59 mean 109.30
