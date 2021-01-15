@@ -71,6 +71,8 @@ ls genomedb/pep > genomedb/strainlist.txt
 
 Remove ".pep.fa" from strainlist.txt. (Use text editor.)
 
+[strainlist.txt](strainlist.txt)  
+
 #### Build genome database: dickeya\_pecto_db.
 
 ~~~ bash
@@ -190,3 +192,8 @@ Cleaning up /Users/tylerhelmann/Documents/USDA/Projects/Tuber_TnSeq/dickeya_pect
 Cleaning up /Users/tylerhelmann/Documents/USDA/Projects/Tuber_TnSeq/dickeya_pecto_db/mcl
 
 ~~~
+
+- [clusterstats.out](clusterstats.out)  
+- [Homolog matrix](homolog_matrix.txt)  
+- [Locustag matrix](locustag_matrix.txt)  
+
