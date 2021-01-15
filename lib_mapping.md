@@ -19,8 +19,8 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 
 | Strain | Sequencer | Zipped file size | Total sequences
 | --- | --- | --- | ---
-| *Dda* 3937 | NextSeq | 
-| *Ddia* ME23 | NextSeq | 38 Gb | 481396760
+| *Dda* 3937 | NextSeq | 34 Gb | 453,403,106
+| *Ddia* ME23 | NextSeq | 38 Gb | 481,396,760
 | *Ddia* 67-19 | MiSeq | 
 | *Pc* WPP14 | MiSeq |
 
@@ -57,7 +57,7 @@ cp genbank2gff.pl feba/bin/genbank2gff.pl
 
 #### Set up strains for FEBA pipeline
 
-(Save "genes.tab" files for BarSeq.)
+(Will use "genes.tab" files for BarSeq.)
 
 ~~~ bash
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
@@ -84,7 +84,7 @@ Split fastq files to use all cores. Total lines / 40 cores.
 
 ~~~ bash
 # Split fastq files.
-split -l N -d Dda3937.fastq Dda3937- &
+split -l 45340312 -d Dda3937.fastq Dda3937- &
 split -l 48139676 -d DdiaME23.fastq DdiaME23- &
 
 # Map reads in parallel.
@@ -94,8 +94,8 @@ for i in Dda3937-{00..39}; do
 ./feba/bin/MapTnSeq.pl \
 -genome Dda3937_data/genome.fna \
 -model feba/primers/model_pKMW3.2 \
--first ${i} > Dda3937_data/split/${i}-mapped.txt \
-2> Dda3937_data/split/${i}_log.txt &
+-first ${i} > Dda3937_data/${i}-mapped.txt \
+2> Dda3937_data/${i}_log.txt &
 done
 
 # Map DdiaME23
@@ -103,14 +103,14 @@ for i in DdiaME23-{00..39}; do
 ./feba/bin/MapTnSeq.pl \
 -genome DdiaME23_data/genome.fna \
 -model feba/primers/model_pKMW3.2 \
--first ${i} > DdiaME23_data/split/${i}-mapped.txt \
-2> DdiaME23_data/split/${i}_log.txt &
+-first ${i} > DdiaME23_data/${i}-mapped.txt \
+2> DdiaME23_data/${i}_log.txt &
 done
 
 # Combine mapped reads.
-cat Dda3937_data/split/Dda3937*-mapped.txt > \
+cat Dda3937_data/Dda3937*-mapped.txt > \
 Dda3937_data/Dda3937-mapped.txt
-cat DdiaME23_data/split/DdiaME23*-mapped.txt > \
+cat DdiaME23_data/DdiaME23*-mapped.txt > \
 DdiaME23_data/DdiaME23-mapped.txt
 ~~~
 
@@ -143,10 +143,12 @@ Pools:
 
 #### Library summaries
 
+Central insertions refer to insertions within the central 10-90% of a gene. 
+
 | Library | Insertions in genome | Central insertion strains |  Genes with central insertions (Total) | Median strains per hit protein |
 | --- | --- | --- | --- | ---
-| *Dda* 3937 | |
-| *Ddia* ME23 | 540176 |320479 |3804 (4182) | 62
+| *Dda* 3937 | 337241 | 193562 | 3883 (4213) | 37
+| *Ddia* ME23 | 540176 | 320479 | 3804 (4182) | 62
 | *Ddia* 67-19 |
 | *Pc* WPP14 | 
 
@@ -196,7 +198,7 @@ Note minimum gene length from Essentials().
 
 ~~~
 # Dda3937:
-# fixme
+# Chose length  175 minimum fp rate 0.01239619 
 # DdiaME23:
 # Chose length  150 minimum fp rate 0.01136051 
 ~~~
