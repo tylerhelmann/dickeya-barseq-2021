@@ -147,8 +147,8 @@ Central insertions refer to insertions within the central 10-90% of a gene.
 
 | Library | Insertions in genome | Central insertion strains |  Genes with central insertions (Total) | Median strains per hit protein |
 | --- | --- | --- | --- | ---
-| *Dda* 3937 | 337241 | 193562 | 3883 (4213) | 37
-| *Ddia* ME23 | 540176 | 320479 | 3804 (4182) | 62
+| *Dda* 3937 | 337,241 | 193,562 | 3,883 (4,213) | 37
+| *Ddia* ME23 | 540,176 | 320,479 | 3,804 (4,182) | 62
 | *Ddia* 67-19 |
 | *Pc* WPP14 | 
 
