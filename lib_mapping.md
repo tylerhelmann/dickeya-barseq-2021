@@ -21,8 +21,8 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 | --- | --- | --- | ---
 | *Dda* 3937 | NextSeq | 34 Gb | 453,403,106
 | *Ddia* ME23 | NextSeq | 38 Gb | 481,396,760
-| *Ddia* 67-19 | MiSeq | 
-| *Pc* WPP14 | MiSeq |
+| *Ddia* 67-19 | MiSeq | 1.4 Gb | 20,468,022
+| *Pc* WPP14 | MiSeq | 1.3 Gb | 21,434,359
 
 
 ### Mapping protocol
@@ -79,7 +79,7 @@ done
 
 #### Map reads
 
-Split fastq files to use all cores. Total lines / 40 cores.  
+Split fastq files to use all cores for NextSeq reads. Total lines / 40 cores.  
 (Needs to be a multiple of 4 because reads in fastq files are in groups of 4 lines.)
 
 ~~~ bash
@@ -89,7 +89,7 @@ split -l 48139676 -d DdiaME23.fastq DdiaME23- &
 
 # Map reads in parallel.
 
-# Map Dda3937
+# Map Dda3937.
 for i in Dda3937-{00..39}; do
 ./feba/bin/MapTnSeq.pl \
 -genome Dda3937_data/genome.fna \
@@ -98,7 +98,7 @@ for i in Dda3937-{00..39}; do
 2> Dda3937_data/${i}_log.txt &
 done
 
-# Map DdiaME23
+# Map DdiaME23.
 for i in DdiaME23-{00..39}; do
 ./feba/bin/MapTnSeq.pl \
 -genome DdiaME23_data/genome.fna \
@@ -108,14 +108,24 @@ for i in DdiaME23-{00..39}; do
 done
 
 # Combine mapped reads.
-cat Dda3937_data/Dda3937*-mapped.txt > \
-Dda3937_data/Dda3937-mapped.txt
-cat DdiaME23_data/DdiaME23*-mapped.txt > \
-DdiaME23_data/DdiaME23-mapped.txt
+for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+cat ${lib}_data/${lib}*-mapped.txt > \
+${lib}_data/${lib}-mapped.txt
+
+for lib in Ddia6719 PcWPP14; do
+
+./feba/bin/MapTnSeq.pl \
+-genome ${lib}_data/genome.fna \
+-model feba/primers/model_pKMW3.2 \
+-first ${lib}.fastq > ${lib}_data/${lib}-mapped.txt \
+2> ${lib}_data/${lib}_log.txt
+
 ~~~
 
 - [Dda3937 logs](library_mapping/Dda3937_split_logs/)
 - [DdiaME23 logs](library_mapping/DdiaME23_split_logs/)
+- [Ddia6719 log](library_mapping/Ddia6719_log.txt)
+- [PcWPP14 log](library_mapping/PcWPP14_log.txt)
 
 #### Construct barcode "pools"
 
@@ -135,11 +145,15 @@ Library mapping stats:
 
 - [Dda3937.stats](library_mapping/Dda3937.stats)
 - [DdiaME23.stats](library_mapping/DdiaME23.stats)
+- [Ddia67-19.stats](library_mapping/Ddia6719.stats)
+- [PcWPP14.stats](library_mapping/PcWPP14.stats)
 
 Pools:
 
 - [Dda3937.pool](library_mapping/Dda3937.pool)
 - [DdiaME23.pool](library_mapping/DdiaME23.pool)
+- [Ddia67-19.pool](library_mapping/Ddia6719.pool)
+- [PcWPP14.pool](library_mapping/PcWPP14.pool)
 
 #### Library summaries
 
@@ -149,8 +163,8 @@ Central insertions refer to insertions within the central 10-90% of a gene.
 | --- | --- | --- | --- | ---
 | *Dda* 3937 | 337,241 | 193,562 | 3,883 (4,213) | 37
 | *Ddia* ME23 | 540,176 | 320,479 | 3,804 (4,182) | 62
-| *Ddia* 67-19 |
-| *Pc* WPP14 | 
+| *Ddia* 67-19 | 243,325 | 146,015 | 3704 (4,110) | 30
+| *Pc* WPP14 | 370,347 | 223,764 | 3832 (4,194) | 42
 
 #### Essential gene predictions
 
@@ -181,14 +195,22 @@ Dda3937_genes.GC <- read.delim(file = "Dda3937_data/genes.GC")
 Dda3937_ess.genes <- read.delim(file = "Dda3937_data/ess.genes")
 DdiaME23_genes.GC <- read.delim(file = "DdiaME23_data/genes.GC")
 DdiaME23_ess.genes <- read.delim(file = "DdiaME23_data/ess.genes")
+Ddia6719_genes.GC <- read.delim(file = "Ddia6719_data/genes.GC")
+Ddia6719_ess.genes <- read.delim(file = "Ddia6719_data/ess.genes")
+PcWPP14_genes.GC <- read.delim(file = "PcWPP14_data/genes.GC")
+PcWPP14_ess.genes <- read.delim(file = "PcWPP14_data/ess.genes")
 
 # Run Essentials() to predict gene essentiality.
 Dda3937_ess <- Essentials(Dda3937_genes.GC, Dda3937_ess.genes, "")
 DdiaME23_ess <- Essentials(DdiaME23_genes.GC, DdiaME23_ess.genes, "")
+Ddia6719_ess <- Essentials(Ddia6719_genes.GC, Ddia6719_ess.genes, "")
+PcWPP14_ess <- Essentials(PcWPP14_genes.GC, PcWPP14_ess.genes, "")
 
 # Save output.
 write.table(Dda3937_ess, file="Dda3937_data/Dda3937.ess", sep="\t", row.names=F)
 write.table(DdiaME23_ess, file="DdiaME23_data/DdiaME23.ess", sep="\t", row.names=F)
+write.table(Ddia6719_ess, file="Ddia6719_data/Ddia6719.ess", sep="\t", row.names=F)
+write.table(PcWPP14_ess, file="PcWPP14_data/PcWPP14.ess", sep="\t", row.names=F)
 
 # Quit R shell.
 q()
@@ -201,10 +223,15 @@ Note minimum gene length from Essentials().
 # Chose length  175 minimum fp rate 0.01239619 
 # DdiaME23:
 # Chose length  150 minimum fp rate 0.01136051 
+# Ddia67-19:
+# Chose length  225 minimum fp rate 0.01421111 
+# PcWPP14:
+# Chose length  150 minimum fp rate 0.01550385 
 ~~~
 
 Predicted essential genes:
 
-- [Dda3937](library_mapping/Dda3937.ess)
-- [DdiaME23](library_mapping/DdiaME23.ess)
-
+- [Dda3937](library_mapping/Dda3937.ess) (N=375)
+- [DdiaME23](library_mapping/DdiaME23.ess) (N=427)
+- [Ddia67-19](library_mapping/Ddia6719.ess) (N=395)
+- [PcWPP14](library_mapping/PcWPP14.ess) (N=386)
