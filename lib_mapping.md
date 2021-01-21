@@ -57,7 +57,7 @@ cp genbank2gff.pl feba/bin/genbank2gff.pl
 
 #### Set up strains for FEBA pipeline
 
-(Will use "genes.tab" files for BarSeq.)
+(Will use "genes.GC" files for BarSeq.)
 
 ~~~ bash
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
@@ -72,10 +72,15 @@ done
 [Ddia6719_setup.log](library_mapping/Ddia6719_setup.log)  
 [PcWPP14_setup.log](library_mapping/PcWPP14_setup.log)  
 
-[Dda3937_genes.tab](barseq_inputs/Dda3937_genes.tab)  
-[DdiaME23_genes.tab](barseq_inputs/DdiaME23_genes.tab)  
-[Ddia6719_genes.tab](barseq_inputs/Ddia6719_genes.tab)  
-[PcWPP14_genes.tab](barseq_inputs/PcWPP14_genes.tab)  
+[Dda3937_genes.tab](library_mapping/Dda3937_genes.tab)  
+[DdiaME23_genes.tab](library_mapping/DdiaME23_genes.tab)  
+[Ddia6719_genes.tab](library_mapping/Ddia6719_genes.tab)  
+[PcWPP14_genes.tab](library_mapping/PcWPP14_genes.tab)  
+
+[Dda3937_genes.GC](barseq_inputs/Dda3937_genes.GC)  
+[DdiaME23_genes.GC](barseq_inputs/DdiaME23_genes.GC)  
+[Ddia6719_genes.GC](barseq_inputs/Ddia6719_genes.GC)  
+[PcWPP14_genes.GC](barseq_inputs/PcWPP14_genes.GC)  
 
 #### Map reads
 
