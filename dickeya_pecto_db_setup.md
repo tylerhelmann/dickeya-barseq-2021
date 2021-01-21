@@ -196,4 +196,6 @@ Cleaning up /Users/tylerhelmann/Documents/USDA/Projects/Tuber_TnSeq/dickeya_pect
 - [clusterstats.out](dickeya_pecto_db/clusterstats.out)  
 - [Homolog matrix](dickeya_pecto_db/homolog_matrix.txt)  
 - [Locustag matrix](dickeya_pecto_db/locustag_matrix.txt)  
+- [Consensus sequences](dickeya_pecto_db/all_groups.faa)
+- [Group descriptions](dickeya_pecto_db/group_descriptions.txt)
 
