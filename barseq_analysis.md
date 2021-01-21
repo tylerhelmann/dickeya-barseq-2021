@@ -53,8 +53,8 @@ mkdir counts/
 
 ls inputs/*.fastq.gz > inputs/seqfiles.txt
 
-for in in $(cat inputs/seqfiles.txt); do
-echo "gzip -dc inputs/TCH${i}.fastq.gz | \
+for i in $(cat inputs/seqfiles.txt); do
+echo "gzip -dc inputs/TCH${i} | \
 ./feba/bin/MultiCodes.pl \
 -out counts/TCH${i} -index TCH${i} \
 >& counts/TCH${i}.log"
@@ -81,6 +81,7 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
     results/${lib} \
     inputs/${lib}.pool \
 	$(cat ${lib}_codes.txt)
+done
 	
 ~~~
 
@@ -89,7 +90,7 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 #### Run BarSeqR.pl for each library
 
 ~~~ bash
-# Fix feba/lib/PoolStats.R shebang line. 
+# Fix feba/lib/PoolStats.R and feba/bin/RunFEBA.R shebang line. 
 # For me needs to be: #!/usr/bin/env Rscript
 
 # Calculate per gene fitness.
@@ -99,7 +100,7 @@ mkdir results/${pool}
 ./feba/bin/BarSeqR.pl \
      -org ${lib} \
      -exps inputs/exp.txt \
-     -genes inputs/${lib}_genes.tab \
+     -genes inputs/${lib}_genes.GC \
      -pool inputs/${lib}.pool \
      -indir results \
      -outdir results/${lib} \
