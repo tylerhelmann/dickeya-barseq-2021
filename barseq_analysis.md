@@ -1,6 +1,6 @@
 ## BarSeq: Genome-wide fitness of *Dickeya dadantii* 3937, *D. dianthicola* ME23, *D. dianthicola* 67-19 and *Pectobacterium carotovorum* WPP14
 
-System: Linux CentOS 7.6 (8 core server)
+System: Linux CentOS 7.6 (24 core server)
 
 RB-TnSeq citation: 
 
@@ -32,40 +32,35 @@ rm -f feba/bin/genbank2gff.pl
 cp genbank2gff.pl feba/bin/genbank2gff.pl
 ~~~
 
-Copy metadata into inputs/?
-Source: [https://bitbucket.org/berkeleylab/feba/src/master/metadata/](https://bitbucket.org/berkeleylab/feba/src/master/metadata/)
+Copy the following inputs:
 
-- Compounds.tsv
-- media
-- mixes
-
-Copy pool files, gene lists, and experimental metadata (exp.txt) into inputs/
+- Experimental metadata ([exp.txt](barseq_inputs/exp.txt))
+- Gene lists (ex: [Dda3937_genes.GC](barseq_inputs/Dda3937_genes.GC))
+- Mapped pool files (ex: [Dda3937.pool](library_mapping/Dda3937.pool))
 
 #### Run MultiCodes.pl on all samples
 
-Input all BarSeq reads. 
+Copy all BarSeq reads to inputs/. 
 
-Create tasklist containing the following commands.  
+Create tasklist containing the following commands.   
 This step counts barcode abundance for each sample.
 
 ~~~ bash
-mkdir counts/
-
-ls inputs/*.fastq.gz > inputs/seqfiles.txt
-
 for i in $(cat inputs/seqfiles.txt); do
-echo "gzip -dc inputs/TCH${i} | \
+echo "gzip -dc inputs/TCH${i}.fastq.gz | \
 ./feba/bin/MultiCodes.pl \
 -out counts/TCH${i} -index TCH${i} \
 >& counts/TCH${i}.log"
-done
+done > tasklist.txt
 ~~~
 
 Run all commands from tasklist. (Final # = nCPU.)  
 (This task manager is specific to Cornell BioHPC servers.)
 
 ~~~ bash
-/programs/bin/perlscripts/perl_fork_univ.pl tasklist_Multicodes.txt 8
+mkdir counts/
+
+/programs/bin/perlscripts/perl_fork_univ.pl tasklist.txt 24
 ~~~
 
 #### Run CombineBarSeq.pl
