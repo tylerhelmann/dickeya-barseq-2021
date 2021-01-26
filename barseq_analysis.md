@@ -47,10 +47,10 @@ This step counts barcode abundance for each sample.
 
 ~~~ bash
 for i in $(cat inputs/seqfiles.txt); do
-echo "gzip -dc inputs/TCH${i}.fastq.gz | \
+echo "gzip -dc inputs/${i}.fastq.gz | \
 ./feba/bin/MultiCodes.pl \
--out counts/TCH${i} -index TCH${i} \
->& counts/TCH${i}.log"
+-out counts/${i} -index ${i} \
+>& counts/${i}.log"
 done > tasklist.txt
 ~~~
 
