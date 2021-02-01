@@ -35,15 +35,23 @@ cp genbank2gff.pl feba/bin/genbank2gff.pl
 Copy the following inputs:
 
 - Experimental metadata ([exp.txt](barseq_inputs/exp.txt))
-- Gene lists (ex: [Dda3937_genes.GC](barseq_inputs/Dda3937_genes.GC))
-- Mapped pool files (ex: [Dda3937.pool](library_mapping/Dda3937.pool))
+- Gene lists 
+	- 	[Dda3937_genes.GC](barseq_inputs/Dda3937_genes.GC)
+	-  [DdiaME23_genes.GC](barseq_inputs/DdiaME23_genes.GC)
+	-  [Ddia6719_genes.GC](barseq_inputs/Ddia6719_genes.GC)
+	-  [PcWPP14_genes.GC](barseq_inputs/PcWPP14_genes.GC)
+- Mapped pool files 
+	- [Dda3937.pool](library_mapping/Dda3937.pool)
+	- [DdiaME23.pool](library_mapping/DdiaME23.pool)
+	- [Ddia6719.pool](library_mapping/Ddia6719.pool)
+	- [PcWPP14.pool](library_mapping/PcWPP14.pool)
 
 #### Run MultiCodes.pl on all samples
 
 Copy all BarSeq reads to inputs/. 
 
 Create tasklist containing the following commands.   
-This step counts barcode abundance for each sample.
+This step counts barcode abundance for each [sample](barseq_inputs/seqfiles.txt).
 
 ~~~ bash
 for i in $(cat inputs/seqfiles.txt); do
@@ -54,7 +62,7 @@ echo "gzip -dc inputs/${i}.fastq.gz | \
 done > tasklist.txt
 ~~~
 
-Run all commands from tasklist. (Final # = nCPU.)  
+Run all commands from [tasklist](barseq_inputs/tasklist.txt). (Final # = nCPU.)  
 (This task manager is specific to Cornell BioHPC servers.)
 
 ~~~ bash
@@ -66,7 +74,12 @@ mkdir counts/
 #### Run CombineBarSeq.pl
 
 Match indicies with library.  
-Create separate files listing library-specific indicies. 
+Use reference files listing library-specific indicies. 
+
+- [Dda3937_codes.txt](barseq_inputs/Dda3937_codes.txt)
+- [DdiaME23_codes.txt](barseq_inputs/DdiaME23_codes.txt)
+- [Ddia6719_codes.txt](barseq_inputs/Ddia6719_codes.txt)
+- [PcWPP14_codes.txt](barseq_inputs/PcWPP14_codes.txt)
 
 ~~~ bash
 mkdir results
