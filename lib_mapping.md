@@ -17,13 +17,12 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 
 ##### Sequence data
 
-| Strain | Sequencer | Zipped file size | Total sequences
-| --- | --- | --- | ---
-| *Dda* 3937 | NextSeq | 34 Gb | 453,403,106
-| *Ddia* ME23 | NextSeq | 38 Gb | 481,396,760
-| *Ddia* 67-19 | MiSeq | 1.4 Gb | 20,468,022
-| *Pc* WPP14 | MiSeq | 1.3 Gb | 21,434,359
-
+| Strain | Sequencer | Zipped file size | Total sequences | SRA
+| --- | --- | --- | --- | ---
+| *Dda* 3937 | NextSeq | 34 Gb | 453,403,106 | SRR13455163
+| *Ddia* ME23 | NextSeq | 38 Gb | 481,396,760 | SRR13444973
+| *Ddia* 67-19 | MiSeq | 1.4 Gb | 20,468,022 | XX
+| *Pc* WPP14 | MiSeq | 1.3 Gb | 21,434,359 | XX
 
 ### Mapping protocol
 
@@ -91,46 +90,29 @@ Split fastq files to use all cores for NextSeq reads. Total lines / 40 cores.
 # Split fastq files.
 split -l 45340312 -d Dda3937.fastq Dda3937- &
 split -l 48139676 -d DdiaME23.fastq DdiaME23- &
+split -l #### -d Ddia6719.fastq DdiaME23- &
+split -l #### -d PcWPP14.fastq PcWPP14- &
 
 # Map reads in parallel.
-
-# Map Dda3937.
-for i in Dda3937-{00..39}; do
+for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for i in ${lib}-{00..39}; do
 ./feba/bin/MapTnSeq.pl \
--genome Dda3937_data/genome.fna \
+-genome ${lib}_data/genome.fna \
 -model feba/primers/model_pKMW3.2 \
--first ${i} > Dda3937_data/${i}-mapped.txt \
-2> Dda3937_data/${i}_log.txt &
-done
-
-# Map DdiaME23.
-for i in DdiaME23-{00..39}; do
-./feba/bin/MapTnSeq.pl \
--genome DdiaME23_data/genome.fna \
--model feba/primers/model_pKMW3.2 \
--first ${i} > DdiaME23_data/${i}-mapped.txt \
-2> DdiaME23_data/${i}_log.txt &
+-first ${i} > ${lib}_data/${i}-mapped.txt \
+2> ${lib}_data/${i}_log.txt &
 done
 
 # Combine mapped reads.
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 cat ${lib}_data/${lib}*-mapped.txt > \
 ${lib}_data/${lib}-mapped.txt
-
-for lib in Ddia6719 PcWPP14; do
-
-./feba/bin/MapTnSeq.pl \
--genome ${lib}_data/genome.fna \
--model feba/primers/model_pKMW3.2 \
--first ${lib}.fastq > ${lib}_data/${lib}-mapped.txt \
-2> ${lib}_data/${lib}_log.txt
-
 ~~~
 
 - [Dda3937 logs](library_mapping/Dda3937_split_logs/)
 - [DdiaME23 logs](library_mapping/DdiaME23_split_logs/)
-- [Ddia6719 log](library_mapping/Ddia6719_log.txt)
-- [PcWPP14 log](library_mapping/PcWPP14_log.txt)
+- [Ddia6719 logs](library_mapping/Ddia6719_split_logs/)
+- [PcWPP14 logs](library_mapping/PcWPP14_split_logs)
 
 #### Construct barcode "pools"
 
