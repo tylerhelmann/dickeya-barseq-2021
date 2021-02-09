@@ -65,11 +65,11 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_AS
 
 gunzip genomedb/pep/*pep.fa.gz
 
-# Create PyParanoid strainlist.
-ls genomedb/pep > genomedb/strainlist.txt
+# Create PyParanoid strainlist. (Remove ".pep.fa".)
+ls genomedb/pep | \
+sed 's/.pep.fa//' \
+> genomedb/strainlist.txt
 ~~~
-
-Remove ".pep.fa" from strainlist.txt. (Use text editor.)
 
 [strainlist.txt](dickeya_pecto_db/strainlist.txt)  
 
@@ -199,3 +199,21 @@ Cleaning up /Users/tylerhelmann/Documents/USDA/Projects/Tuber_TnSeq/dickeya_pect
 - [Consensus sequences](dickeya_pecto_db/all_groups.faa)
 - [Group descriptions](dickeya_pecto_db/group_descriptions.txt)
 
+--
+
+#### Convert protein Ids to RefSeq locus tags
+
+Download RefSeq strain "features" tables, needed to match protein Ids (used for ortholog groups) to locus tags (used for RB-TnSeq).
+
+~~~ bash
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/055/GCF_000147055.1_ASM14705v1/GCF_000147055.1_ASM14705v1_feature_table.txt.gz \
+-O dickeya_pecto_db/Dda3937_feature_table.txt.gz
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/403/135/GCF_003403135.1_ASM340313v1/GCF_003403135.1_ASM340313v1_feature_table.txt.gz \
+-O dickeya_pecto_db/DdiaME23_feature_table.txt.gz
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/893/095/GCF_014893095.1_ASM1489309v1/GCF_014893095.1_ASM1489309v1_feature_table.txt.gz \
+-O dickeya_pecto_db/Ddia6719_feature_table.txt.gz
+wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_ASM1348802v1/GCF_013488025.1_ASM1348802v1_feature_table.txt.gz \
+-O dickeya_pecto_db/PcWPP14_feature_table.txt.gz
+
+gunzip dickeya_pecto_db/*feature_table.txt.gz
+~~~
