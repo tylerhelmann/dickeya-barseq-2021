@@ -88,7 +88,7 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 ./feba/bin/combineBarSeq.pl \
     results/${lib} \
     inputs/${lib}.pool \
-	$(cat ${lib}_codes.txt)
+    $(cat ${lib}_codes.txt)
 done
 	
 ~~~

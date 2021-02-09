@@ -1,4 +1,4 @@
-# Scripts used in Helmann et al. 2021 (Manuscript in prep.)
+# Scripts used in Helmann *et al*. 2021 (Manuscript in prep.)
 
 (Summary or Abstract)
 
