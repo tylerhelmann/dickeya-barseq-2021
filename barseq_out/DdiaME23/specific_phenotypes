@@ -1,0 +1,7 @@
+locusId	sysName	desc	name	lrn	t	short
+DZA65_RS13285	DZA65_RS13285	cysteine desulfuration protein SufE	setATCH133	-1.48069710114259	-6.3491217070568	M9
+DZA65_RS16160	DZA65_RS16160	MdtA/MuxA family multidrug efflux RND transporter periplasmic adaptor subunit	setATCH131	1.4115258767277	10.1766607472838	M9
+DZA65_RS16165	DZA65_RS16165	MdtB/MuxB family multidrug efflux RND transporter permease subunit	setATCH131	1.51272067454437	12.4754606681272	M9
+DZA65_RS16170	DZA65_RS16170	multidrug efflux RND transporter permease subunit MdtC	setATCH131	1.49839794082081	12.171182433364	M9
+DZA65_RS21440	DZA65_RS21440	HTH-type transcriptional repressor FabR	setATCH248	-1.20334013966021	-9.3276724436566	M9
+DZA65_RS21565	DZA65_RS21565	agmatine deiminase	setATCH243	-1.34723355957786	-8.88640465169964	PDB

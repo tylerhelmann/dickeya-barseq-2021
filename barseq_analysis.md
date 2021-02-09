@@ -88,12 +88,9 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 ./feba/bin/combineBarSeq.pl \
     results/${lib} \
     inputs/${lib}.pool \
-    $(cat ${lib}_codes.txt)
-done
-	
+    $(cat ${lib}_codes.txt) &
+done	
 ~~~
-
-(Where does log output? Save to separate files.)
 
 #### Run BarSeqR.pl for each library
 
@@ -103,7 +100,7 @@ done
 
 # Calculate per gene fitness.
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
-mkdir results/${pool}
+mkdir results/${lib}
 
 ./feba/bin/BarSeqR.pl \
      -org ${lib} \
@@ -112,8 +109,15 @@ mkdir results/${pool}
      -pool inputs/${lib}.pool \
      -indir results \
      -outdir results/${lib} \
-    ${lib}
+    ${lib} &
     
 done
 ~~~
+
+Output:  
+- [Dda3937](barseq_out/Dda3937)  
+- [DdiaME23](barseq_out/ME23)  
+- [Ddia6719](barseq_out/)  
+- [PcWPP14](barseq_out/)  
+
 

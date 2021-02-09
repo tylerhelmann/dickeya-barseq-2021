@@ -1,0 +1,13 @@
+Read 4404 genes, 42 exps, and data for 349536 barcodes
+Central Reads per t0set, in millions:
+ 1/26/21 Dda3937 11/16/20 Dda3937   8/2/20 Dda3937 
+             4.4              4.9              3.5 
+Time0 reads per gene: mean 1088.9 median 660.5 ratio 1.65
+Genes with enough Time0 reads:  3705 
+Using  145237  of  193555  genic strains
+Using  3705  of  4012  genes with data
+For cor12, using  3212 genes
+status
+             OK           Time0 high_adj_gc_cor 
+             35               6               1 
+high_adj_gc_cor : setATCH193 
