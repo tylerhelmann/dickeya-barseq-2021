@@ -94,11 +94,12 @@ done
 
 #### Run BarSeqR.pl for each library
 
+Calculate per gene fitness.  
+
 ~~~ bash
 # Fix feba/lib/PoolStats.R and feba/bin/RunFEBA.R shebang line. 
 # For me needs to be: #!/usr/bin/env Rscript
 
-# Calculate per gene fitness.
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 mkdir results/${lib}
 
