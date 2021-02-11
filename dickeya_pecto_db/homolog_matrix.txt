@@ -1,4 +1,4 @@
-	Dickeya_dadantii_3937	Dickeya_dianthicola_67-19	Dickeya_dianthicola_ME23	Pectobacterium_carotovorum_WPP14
+	Dickeya_dadantii_3937	Dickeya_dianthicola_67_19	Dickeya_dianthicola_ME23	Pectobacterium_carotovorum_WPP14
 group_00001	3	3	3	1
 group_00002	3	3	2	2
 group_00003	3	3	1	2

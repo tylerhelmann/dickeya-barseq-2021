@@ -59,7 +59,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/055/GCF_000147055.1_AS
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/403/135/GCF_003403135.1_ASM340313v1/GCF_003403135.1_ASM340313v1_protein.faa.gz \
 -O genomedb/pep/Dickeya_dianthicola_ME23.pep.fa.gz
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/893/095/GCF_014893095.1_ASM1489309v1/GCF_014893095.1_ASM1489309v1_protein.faa.gz \
--O genomedb/pep/Dickeya_dianthicola_67-19.pep.fa.gz
+-O genomedb/pep/Dickeya_dianthicola_67_19.pep.fa.gz
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_ASM1348802v1/GCF_013488025.1_ASM1348802v1_protein.faa.gz \
 -O genomedb/pep/Pectobacterium_carotovorum_WPP14.pep.fa.gz
 
@@ -211,9 +211,23 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/055/GCF_000147055.1_AS
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/403/135/GCF_003403135.1_ASM340313v1/GCF_003403135.1_ASM340313v1_feature_table.txt.gz \
 -O dickeya_pecto_db/DdiaME23_feature_table.txt.gz
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/893/095/GCF_014893095.1_ASM1489309v1/GCF_014893095.1_ASM1489309v1_feature_table.txt.gz \
--O dickeya_pecto_db/Ddia6719_feature_table.txt.gz
+-O dickeya_pecto_db/Ddia67_19_feature_table.txt.gz
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_ASM1348802v1/GCF_013488025.1_ASM1348802v1_feature_table.txt.gz \
 -O dickeya_pecto_db/PcWPP14_feature_table.txt.gz
 
 gunzip dickeya_pecto_db/*feature_table.txt.gz
+~~~
+
+Use features tables to match gene names to protein accessions in locustag_matrix.
+
+~~~ r
+R
+
+source("dickeya_pecto_db/groups_to_locusIds.R")
+
+# Match RefSeq locusIds and save output as:
+# locustag_matrix_with_genes.txt
+add_genes_to_locustag_matrix()
+
+q()
 ~~~
