@@ -92,6 +92,13 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 done	
 ~~~
 
+Reads used:
+
+- [Dda3937.colsum](barseq_out/Dda3937.colsum)
+- [DdiaME23.colsum](barseq_out/DdiaME23.colsum)
+- [Ddia6719.colsum](barseq_out/Ddia6719.colsum)
+- [PcWPP14.colsum](barseq_out/PcWPP14.colsum)
+
 #### Run BarSeqR.pl for each library
 
 Calculate per gene fitness.  
@@ -116,9 +123,10 @@ done
 ~~~
 
 Output:  
+
 - [Dda3937](barseq_out/Dda3937)  
-- [DdiaME23](barseq_out/ME23)  
-- [Ddia6719](barseq_out/)  
-- [PcWPP14](barseq_out/)  
+- [DdiaME23](barseq_out/DdiaME23)  
+- [Ddia6719](barseq_out/Ddia6719)  
+- [PcWPP14](barseq_out/PcWPP14)  
 
 

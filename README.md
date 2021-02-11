@@ -11,7 +11,7 @@ Strains included in this project:
 
 ### Generating a PyParanoid ortholog database
 
-See: [dickeya_pecto_db_setup.md](dickeya_pecto_db_setup.md)
+See: [dickeya\_pecto\_db\_setup.md](dickeya_pecto_db_setup.md)
 
 Data included in [dickeya\_pecto\_db/](dickeya_pecto_db/)
 
