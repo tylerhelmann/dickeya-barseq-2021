@@ -19,10 +19,10 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 
 | Strain | Sequencer | Zipped file size | Total sequences | SRA
 | --- | --- | --- | --- | ---
-| *Dda* 3937 | NextSeq | 34 Gb | 453,403,106 | SRR13455163
-| *Ddia* ME23 | NextSeq | 38 Gb | 481,396,760 | SRR13444973
-| *Ddia* 67-19 | MiSeq | 1.4 Gb | 20,468,022 | XX
-| *Pc* WPP14 | MiSeq | 1.3 Gb | 21,434,359 | XX
+| *Dda* 3937 | NextSeq 500 | 34 Gb | 453,403,106 | SRR13455163
+| *Ddia* ME23 | NextSeq 500 | 38 Gb | 481,396,760 | SRR13444973
+| *Ddia* 67-19 | NextSeq 500 | X | X | X
+| *Pc* WPP14 | NextSeq 500 | X | X | X
 
 ### Mapping protocol
 
@@ -150,8 +150,8 @@ Central insertions refer to insertions within the central 10-90% of a gene.
 | --- | --- | --- | --- | ---
 | *Dda* 3937 | 337,241 | 193,562 | 3,883 (4,213) | 37
 | *Ddia* ME23 | 540,176 | 320,479 | 3,804 (4,182) | 62
-| *Ddia* 67-19 | 243,325 | 146,015 | 3704 (4,110) | 30
-| *Pc* WPP14 | 370,347 | 223,764 | 3832 (4,194) | 42
+| *Ddia* 67-19 | X | X | X (4,110) | X
+| *Pc* WPP14 | X | X | X (4,194) | X
 
 #### Essential gene predictions
 
@@ -211,14 +211,14 @@ Note minimum gene length from Essentials().
 # DdiaME23:
 # Chose length  150 minimum fp rate 0.01136051 
 # Ddia67-19:
-# Chose length  225 minimum fp rate 0.01421111 
+# Chose length  X 
 # PcWPP14:
-# Chose length  150 minimum fp rate 0.01550385 
+# Chose length  X
 ~~~
 
 Predicted essential genes:
 
 - [Dda3937](library_mapping/Dda3937.ess) (N=375)
 - [DdiaME23](library_mapping/DdiaME23.ess) (N=427)
-- [Ddia67-19](library_mapping/Ddia6719.ess) (N=395)
-- [PcWPP14](library_mapping/PcWPP14.ess) (N=386)
+- [Ddia67-19](library_mapping/Ddia6719.ess) (N=X)
+- [PcWPP14](library_mapping/PcWPP14.ess) (N=X)
