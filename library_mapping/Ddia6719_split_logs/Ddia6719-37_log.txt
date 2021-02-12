@@ -1,0 +1,8 @@
+Parsed model feba/primers/model_pKMW3.2
+Barcodes of length 20, expected transposon region of 104
+Reads (raw) from Ddia6719-37
+Read 11852676 reads
+Reads processed 11852676 Long-enough 11852676 Barcodes found 7133547
+Mapping attempted for 5759372 Mapped 4215897 Uniquely 4102170
+Hits past end of transposon: 25620 plus 0 weak/ambiguous; trumped hit to genome 0 times
+Proportions: Long-enough 1.000 Barcode 0.602 Attempted 0.486 Mapped 0.356 Past-end 0.002
