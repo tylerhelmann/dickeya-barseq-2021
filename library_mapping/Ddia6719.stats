@@ -1,0 +1,25 @@
+Reading mapping files:
+Ddia6719_data/Ddia6719-mapped.txt
+Ddia6719_data/Ddia6719-mapped.txt has 172,893,398 mappings, 3,454,336 barcodes, 877,297 non-unique barcodes
+Read 172076859 mapped reads for 3333481 distinct barcodes
+(Skipped 816539 reads with qBeg > 3)
+396798 barcodes seen 10 or more times, map 351442 (minFrac 0.75 minRatio 8)
+FewGood	9719	0.0245
+LoRatio	6683	0.0168
+NoCons	27224	0.0686
+PastEnd	1730	0.0044
+Usable	351442	0.8857
+Masked 19002 off-by-1 barcodes (561937 reads) leaving 334601 barcodes
+Reads for those barcodes: 139952450 of 172076859 (81.3%)
+Chao2 estimate of #barcodes present (may be inflated for sequencing error): 13560181
+334601 insertions in genome are at 127921 different locations
+Found 200012 insertions (75356 distinct locations) in central 10-90% of genes
+Found central insertions for 3728 of 4110 protein-coding genes
+Hit rate in (crude) likely essentials: 0.30 other 0.91
+Wrote proteins of 300nt or more with no good insertions to Ddia6719.pool.unhit
+Wrote 25 genes with surprising insertions in central 10-90% to Ddia6719.pool.surprise
+Wrote read and strain counts for hit genes to Ddia6719.pool.hit
+Strains per hit protein: median 41 mean 52.6
+Gene and transposon on same strand: 49.3%
+Reads per hit protein: median 15046 mean 21305.7 bias (ratio) 1.42
+Reads per million for hit proteins: median 87.44 mean 123.82

@@ -152,7 +152,7 @@ Central insertions refer to insertions within the central 10-90% of a gene.
 | --- | --- | --- | --- | ---
 | *Dda* 3937 | 337,241 | 193,562 | 3,883 (4,213) | 37
 | *Ddia* ME23 | 540,176 | 320,479 | 3,804 (4,182) | 62
-| *Ddia* 67-19 | X | X | X (4,110) | X
+| *Ddia* 67-19 | 334,601 | 200,012 | 3,728 (4,110) | 41
 | *Pc* WPP14 | X | X | X (4,194) | X
 
 #### Essential gene predictions
