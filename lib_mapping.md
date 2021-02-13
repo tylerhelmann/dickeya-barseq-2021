@@ -213,7 +213,7 @@ Note minimum gene length from Essentials().
 # DdiaME23:
 # Chose length  150 minimum fp rate 0.01136051 
 # Ddia67-19:
-# Chose length  X 
+# Chose length  150 minimum fp rate 0.009785382 
 # PcWPP14:
 # Chose length  X
 ~~~
@@ -222,5 +222,6 @@ Predicted essential genes:
 
 - [Dda3937](library_mapping/Dda3937.ess) (N=375)
 - [DdiaME23](library_mapping/DdiaME23.ess) (N=427)
-- [Ddia67-19](library_mapping/Ddia6719.ess) (N=X)
+- [Ddia67-19](library_mapping/Ddia6719.ess) (N=426)
 - [PcWPP14](library_mapping/PcWPP14.ess) (N=X)
+
