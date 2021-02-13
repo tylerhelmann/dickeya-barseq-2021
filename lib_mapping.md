@@ -21,7 +21,7 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 | --- | --- | --- | --- | ---
 | *Dda* 3937 | NextSeq 500 | 34 Gb | 453,403,106 | SRR13455163
 | *Ddia* ME23 | NextSeq 500 | 38 Gb | 481,396,760 | SRR13444973
-| *Ddia* 67-19 | NextSeq 500 | X | X | X
+| *Ddia* 67-19 | NextSeq 500 | 35 Gb | 474,107,039 | X
 | *Pc* WPP14 | NextSeq 500 | X | X | X
 
 ### Mapping protocol
@@ -90,7 +90,7 @@ Split fastq files to use all cores for NextSeq reads. Total lines / 40 cores.
 # Split fastq files.
 split -l 45340312 -d Dda3937.fastq Dda3937- &
 split -l 48139676 -d DdiaME23.fastq DdiaME23- &
-split -l #### -d Ddia6719.fastq DdiaME23- &
+split -l 47410704 -d Ddia6719.fastq Ddia6719- &
 split -l #### -d PcWPP14.fastq PcWPP14- &
 
 # Map reads in parallel.
@@ -102,11 +102,13 @@ for i in ${lib}-{00..39}; do
 -first ${i} > ${lib}_data/${i}-mapped.txt \
 2> ${lib}_data/${i}_log.txt &
 done
+done
 
 # Combine mapped reads.
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 cat ${lib}_data/${lib}*-mapped.txt > \
 ${lib}_data/${lib}-mapped.txt
+done
 ~~~
 
 - [Dda3937 logs](library_mapping/Dda3937_split_logs/)
