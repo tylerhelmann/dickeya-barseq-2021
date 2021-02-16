@@ -1,0 +1,25 @@
+Reading mapping files:
+PcWPP14_data/PcWPP14-mapped.txt
+PcWPP14_data/PcWPP14-mapped.txt has 204,443,352 mappings, 5,848,383 barcodes, 1,367,619 non-unique barcodes
+Read 203303425 mapped reads for 5639851 distinct barcodes
+(Skipped 1139927 reads with qBeg > 3)
+614653 barcodes seen 10 or more times, map 529413 (minFrac 0.75 minRatio 8)
+FewGood	13881	0.0226
+LoRatio	11337	0.0184
+NoCons	57309	0.0932
+PastEnd	2713	0.0044
+Usable	529413	0.8613
+Masked 1555 off-by-1 barcodes (81674 reads) leaving 527858 barcodes
+Reads for those barcodes: 150782968 of 203303425 (74.2%)
+Chao2 estimate of #barcodes present (may be inflated for sequencing error): 23176622
+527858 insertions in genome are at 177686 different locations
+Found 312895 insertions (105921 distinct locations) in central 10-90% of genes
+Found central insertions for 3862 of 4194 protein-coding genes
+Hit rate in (crude) likely essentials: 0.33 other 0.92
+Wrote proteins of 300nt or more with no good insertions to PcWPP14.pool.unhit
+Wrote 28 genes with surprising insertions in central 10-90% to PcWPP14.pool.surprise
+Wrote read and strain counts for hit genes to PcWPP14.pool.hit
+Strains per hit protein: median 59 mean 79.7
+Gene and transposon on same strand: 50.9%
+Reads per hit protein: median 16551 mean 22681.5 bias (ratio) 1.37
+Reads per million for hit proteins: median 81.41 mean 111.56
