@@ -1,6 +1,6 @@
 ## BarSeq: Genome-wide fitness of *Dickeya dadantii* 3937, *D. dianthicola* ME23, *D. dianthicola* 67-19 and *Pectobacterium carotovorum* WPP14
 
-System: Linux CentOS 7.6 (24 core server)
+System: Linux CentOS 7.6 (40 core server)
 
 RB-TnSeq citation: 
 
@@ -68,7 +68,7 @@ Run all commands from [tasklist](barseq_inputs/tasklist.txt). (Final # = nCPU.)
 ~~~ bash
 mkdir counts/
 
-/programs/bin/perlscripts/perl_fork_univ.pl tasklist.txt 24
+/programs/bin/perlscripts/perl_fork_univ.pl tasklist.txt 40
 ~~~
 
 #### Run CombineBarSeq.pl
