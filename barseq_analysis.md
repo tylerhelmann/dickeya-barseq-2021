@@ -12,8 +12,8 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 - PDB (potato dextrose broth)
 - M9 minimal medium + 0.4% (v/v) glycerol
 - Potato tuber, cv. "Atlantic"
-- Potato tuber, cv. "Norland"
-- Potato tuber, cv. "Upstate"
+- Potato tuber, cv. "Dark Red Norland"
+- Potato tuber, cv. "Upstate Abundance"
 
 --
 
