@@ -21,8 +21,8 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 | --- | --- | --- | --- | ---
 | *Dda* 3937 | NextSeq 500 | 34 Gb | 453,403,106 | SRR13455163
 | *Ddia* ME23 | NextSeq 500 | 38 Gb | 481,396,760 | SRR13444973
-| *Ddia* 67-19 | NextSeq 500 | 35 Gb | 474,107,039 | X
-| *Pc* WPP14 | NextSeq 500 | 45 Gb | 589,953,339 | X
+| *Ddia* 67-19 | NextSeq 500 | 35 Gb | 474,107,039 | SRR13723386
+| *Pc* WPP14 | NextSeq 500 | 45 Gb | 589,953,339 | SRR13723385
 
 ### Mapping protocol
 
