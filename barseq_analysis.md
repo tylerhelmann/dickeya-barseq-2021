@@ -1,6 +1,6 @@
 ## BarSeq: Genome-wide fitness of *Dickeya dadantii* 3937, *D. dianthicola* ME23, *D. dianthicola* 67-19 and *Pectobacterium carotovorum* WPP14
 
-System: Linux CentOS 7.6 (40 core server)
+System used: Linux CentOS 7.6 (40 core server, 256 Gb RAM)
 
 RB-TnSeq citation: 
 
@@ -51,7 +51,7 @@ Copy the following inputs:
 Copy all BarSeq reads to inputs/. 
 
 Create tasklist containing the following commands.   
-This step counts barcode abundance for each [sample](barseq_inputs/seqfiles.txt).
+This step counts barcode abundance for each sample ([seqfiles.txt](barseq_inputs/seqfiles.txt)).
 
 ~~~ bash
 for i in $(cat inputs/seqfiles.txt); do
@@ -73,7 +73,7 @@ mkdir counts/
 
 #### Run CombineBarSeq.pl
 
-Match indicies with library.  
+Match barcodes with library.  
 Use reference files listing library-specific indicies. 
 
 - [Dda3937_codes.txt](barseq_inputs/Dda3937_codes.txt)

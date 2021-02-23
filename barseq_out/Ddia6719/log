@@ -1,13 +1,13 @@
-Read 4338 genes, 38 exps, and data for 336331 barcodes
+Read 4338 genes, 38 exps, and data for 336662 barcodes
 Ignoring  setATCH232 
 Central Reads per t0set, in millions:
 1/26/21 Ddia6719 
              2.7 
-Time0 reads per gene: mean 698.8 median 412.0 ratio 1.70
+Time0 reads per gene: mean 698.9 median 412.0 ratio 1.70
 Genes with enough Time0 reads:  3528 
-Using  129593  of  200004  genic strains
+Using  129668  of  200162  genic strains
 Using  3528  of  3887  genes with data
-For cor12, using  2970 genes
+For cor12, using  2971 genes
 status
        OK     Time0 low_cor12 
        33         2         2 

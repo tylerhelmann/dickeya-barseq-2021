@@ -1,15 +1,15 @@
-Read 4360 genes, 38 exps, and data for 530571 barcodes
+Read 4360 genes, 38 exps, and data for 531590 barcodes
 Central Reads per t0set, in millions:
 1/26/21 PcWPP14 
             1.5 
-Time0 reads per gene: mean 359.5 median 257.0 ratio 1.40
-Genes with enough Time0 reads:  3626 
-Using  187315  of  312885  genic strains
-Using  3626  of  3950  genes with data
+Time0 reads per gene: mean 360.0 median 257.0 ratio 1.40
+Genes with enough Time0 reads:  3627 
+Using  187613  of  313429  genic strains
+Using  3627  of  3950  genes with data
 For cor12, using  3240 genes
 status
         OK      Time0 high_mad12  low_cor12  low_count 
-         1          2          7         27          1 
+         1          2          8         26          1 
 low_count : setATCH276 
-high_mad12 : setATCH269 setATCH271 setATCH272 setATCH281 setATCH282 setATCH283 setATCH285 
-low_cor12 : setATCH251 setATCH252 setATCH253 setATCH254 setATCH255 setATCH256 setATCH257 setATCH258 setATCH259 setATCH260 setATCH261 setATCH262 setATCH263 setATCH265 setATCH266 setATCH267 setATCH268 setATCH270 setATCH273 setATCH274 setATCH275 setATCH277 setATCH278 setATCH279 setATCH280 setATCH284 setATCH286 
+high_mad12 : setATCH269 setATCH271 setATCH272 setATCH281 setATCH282 setATCH283 setATCH284 setATCH285 
+low_cor12 : setATCH251 setATCH252 setATCH253 setATCH254 setATCH255 setATCH256 setATCH257 setATCH258 setATCH259 setATCH260 setATCH261 setATCH262 setATCH263 setATCH265 setATCH266 setATCH267 setATCH268 setATCH270 setATCH273 setATCH274 setATCH275 setATCH277 setATCH278 setATCH279 setATCH280 setATCH286 
