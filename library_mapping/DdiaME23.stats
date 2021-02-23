@@ -1,24 +1,25 @@
 Reading mapping files:
 DdiaME23_data/DdiaME23-mapped.txt
-Read 258874856 mapped reads for 4804974 distinct barcodes
-(Skipped 776634 reads with qBeg > 3)
-640993 barcodes seen 10 or more times, map 546634 (minFrac 0.75 minRatio 8)
-FewGood	16877	0.0263
-LoRatio	18690	0.0292
-NoCons	49163	0.0767
-PastEnd	9629	0.0150
-Usable	546634	0.8528
-Masked 6495 off-by-1 barcodes (463419 reads) leaving 540176 barcodes
-Reads for those barcodes: 190221187 of 258874856 (73.5%)
-Chao2 estimate of #barcodes present (may be inflated for sequencing error): 20276628
-540176 insertions in genome are at 158421 different locations
-Found 320479 insertions (92509 distinct locations) in central 10-90% of genes
-Found central insertions for 3804 of 4182 protein-coding genes
+DdiaME23_data/DdiaME23-mapped.txt has 274,155,768 mappings, 5,645,401 barcodes, 1,393,394 non-unique barcodes
+Read 273343410 mapped reads for 5269448 distinct barcodes
+(Skipped 812358 reads with qBeg > 3)
+643119 barcodes seen 10 or more times, map 548259 (minFrac 0.75 minRatio 8)
+FewGood	16911	0.0263
+LoRatio	18734	0.0291
+NoCons	49392	0.0768
+PastEnd	9823	0.0153
+Usable	548259	0.8525
+Masked 7050 off-by-1 barcodes (493081 reads) leaving 541278 barcodes
+Reads for those barcodes: 200532479 of 273343410 (73.4%)
+Chao2 estimate of #barcodes present (may be inflated for sequencing error): 21570655
+541278 insertions in genome are at 158542 different locations
+Found 321087 insertions (92576 distinct locations) in central 10-90% of genes
+Found central insertions for 3805 of 4182 protein-coding genes
 Hit rate in (crude) likely essentials: 0.35 other 0.91
 Wrote proteins of 300nt or more with no good insertions to DdiaME23.pool.unhit
 Wrote 31 genes with surprising insertions in central 10-90% to DdiaME23.pool.surprise
 Wrote read and strain counts for hit genes to DdiaME23.pool.hit
-Strains per hit protein: median 62 mean 82.2
+Strains per hit protein: median 62 mean 82.3
 Gene and transposon on same strand: 50.3%
-Reads per hit protein: median 20727 mean 27838.9 bias (ratio) 1.34
-Reads per million for hit proteins: median 80.07 mean 107.54
+Reads per hit protein: median 21841 mean 29339.4 bias (ratio) 1.34
+Reads per million for hit proteins: median 79.90 mean 107.34

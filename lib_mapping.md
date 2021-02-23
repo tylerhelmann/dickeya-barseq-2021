@@ -1,6 +1,6 @@
 ## Mapping barcoded *Mariner* transposon libraries
 
-System: Linux CentOS 7.6 (40 core server)
+System used: Linux CentOS 7.6 (40 core server, 256 Gb RAM)
 
 RB-TnSeq citation: 
 
@@ -15,14 +15,19 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 |*Dickeya dianthicola* 67-19 | GCF_014893095.1 | yes
 |*Pectobacterium carotovorum* WPP14 | GCF_013488025.1 | yes
 
-##### Sequence data
+#### Sequence data
 
-| Strain | Sequencer | Zipped file size | Total sequences | SRA
-| --- | --- | --- | --- | ---
-| *Dda* 3937 | NextSeq 500 | 34 Gb | 453,403,106 | SRR13455163
-| *Ddia* ME23 | NextSeq 500 | 38 Gb | 481,396,760 | SRR13444973
-| *Ddia* 67-19 | NextSeq 500 | 35 Gb | 474,107,039 | SRR13723386
-| *Pc* WPP14 | NextSeq 500 | 45 Gb | 589,953,339 | SRR13723385
+| Strain | Sequencer | Total reads | SRA | File name
+| --- | --- | --- | --- | --- | ---
+| *Dda* 3937 | MiSeq | 22,578,055 | SRR13762539 | 10430690_Dda3937.fastq.gz
+| *Dda* 3937 | NextSeq 500 | 453,403,106 | SRR13455163 | 10435840_Dda3937.fastq.gz
+| *Ddia* ME23 | MiSeq | 21,084,010 | SRR13762538 | 10429775_DdiaME23.fastq.gz
+| *Ddia* ME23 | NextSeq 500 | 481,396,760 | SRR13444973 | 10430494_DdiaME23.fastq.gz
+| *Ddia* 67-19 | MiSeq | 20,468,022 | SRR13491906 | 10435838_Ddia6719.fastq.gz
+| *Ddia* 67-19 | NextSeq 500 | 474,107,039 | SRR13723386 | 10436717_Ddia6719.fastq.gz
+| *Pc* WPP14 | MiSeq | 21,434,359 | SRR13491905 | 10435838_PcWPP14.fastq.gz
+| *Pc* WPP14 | NextSeq 500 | 589,953,339 | SRR13723385 | 10436717_PcWPP14.fastq.gz
+| *Pc* WPP14 - time0 | NextSeq 500 | | | 
 
 ### Mapping protocol
 
@@ -83,40 +88,78 @@ done
 
 #### Map reads
 
-Split fastq files to use all cores for NextSeq reads. Total lines / 40 cores.  
+Split NextSeq fastq files to use all cores for NextSeq mapping. Round total lines / 40 cores.  
 (Needs to be a multiple of 4 because reads in fastq files are in groups of 4 lines.)
 
 ~~~ bash
-# Split fastq files.
-split -l 45340312 -d Dda3937.fastq Dda3937- &
-split -l 48139676 -d DdiaME23.fastq DdiaME23- &
-split -l 47410704 -d Ddia6719.fastq Ddia6719- &
-split -l 58995336 -d PcWPP14.fastq PcWPP14- &
+# Unzip all fastq.gz files.
 
-# Map reads in parallel.
+# Split large (NextSeq) fastq files.
+split -l 45340312 -d 10435840_Dda3937.fastq Dda3937- &
+split -l 48139676 -d 10430494_DdiaME23.fastq DdiaME23- &
+split -l 47410704 -d 10436717_Ddia6719.fastq Ddia6719- &
+split -l 58995336 -d 10436717_PcWPP14.fastq PcWPP14- &
+
+# Create tasklist to map MiSeq reads.
+echo "./feba/bin/MapTnSeq.pl \
+-genome Dda3937_data/genome.fna \
+-model feba/primers/model_pKMW3.2 \
+-first 10430690_Dda3937.fastq \
+> Dda3937_data/Dda3937-MiSeq-mapped.txt \
+2> Dda3937_data/Dda3937-MiSeq_log.txt" > mapping_tasklist.txt
+echo "./feba/bin/MapTnSeq.pl \
+-genome DdiaME23_data/genome.fna \
+-model feba/primers/model_pKMW3.2 \
+-first 10429775_DdiaME23.fastq \
+> DdiaME23_data/DdiaME23-MiSeq-mapped.txt \
+2> DdiaME23_data/DdiaME23-MiSeq_log.txt" >> mapping_tasklist.txt
+echo "./feba/bin/MapTnSeq.pl \
+-genome Ddia6719_data/genome.fna \
+-model feba/primers/model_pKMW3.2 \
+-first 10435838_Ddia6719.fastq \
+> Ddia6719_data/Ddia6719-MiSeq-mapped.txt \
+2> Ddia6719_data/Ddia6719-MiSeq_log.txt" >> mapping_tasklist.txt
+echo "./feba/bin/MapTnSeq.pl \
+-genome PcWPP14_data/genome.fna \
+-model feba/primers/model_pKMW3.2 \
+-first 10435838_PcWPP14.fastq \
+> PcWPP14_data/PcWPP14-MiSeq-mapped.txt \
+2> PcWPP14_data/PcWPP14-MiSeq_log.txt" >> mapping_tasklist.txt
+
+# Add NextSeq mapping to tasklist.
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 for i in ${lib}-{00..39}; do
-./feba/bin/MapTnSeq.pl \
+echo "./feba/bin/MapTnSeq.pl \
 -genome ${lib}_data/genome.fna \
 -model feba/primers/model_pKMW3.2 \
 -first ${i} > ${lib}_data/${i}-mapped.txt \
-2> ${lib}_data/${i}_log.txt &
+2> ${lib}_data/${i}_log.txt"
 done
-done
+done >> mapping_tasklist.txt
+~~~
+
+[mapping_tasklist.txt](library_mapping/mapping_tasklist.txt)
+
+~~~ bash
+# Map NextSeq reads in parallel, using Cornell BioHPC task manager.
+/programs/bin/perlscripts/perl_fork_univ.pl \
+mapping_tasklist.txt 40
 
 # Combine mapped reads.
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 cat ${lib}_data/${lib}*-mapped.txt > \
-${lib}_data/${lib}-mapped.txt
+${lib}_data/${lib}-mapped.txt &
 done
 ~~~
 
-- [Dda3937 logs](library_mapping/Dda3937_split_logs/)
-- [DdiaME23 logs](library_mapping/DdiaME23_split_logs/)
-- [Ddia6719 logs](library_mapping/Ddia6719_split_logs/)
-- [PcWPP14 logs](library_mapping/PcWPP14_split_logs)
+- [Dda3937 logs](library_mapping/Dda3937_mapping_logs/)
+- [DdiaME23 logs](library_mapping/DdiaME23_mapping_logs/)
+- [Ddia6719 logs](library_mapping/Ddia6719_mapping_logs/)
+- [PcWPP14 logs](library_mapping/PcWPP14_mapping_logs)
 
 #### Construct barcode "pools"
+
+Use -minN 10 to set minimum 10 reads per barcode to be included in pool. 
 
 ~~~ bash
 # Fix feba/lib/PoolStats.R shebang line. 
@@ -126,7 +169,7 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 ./feba/bin/DesignRandomPool.pl -minN 10 \
 -genes ${lib}_data/genes.tab \
 -pool ${lib}.pool ${lib}_data/${lib}-mapped.txt \
-2>&1 | tee ${lib}.stats
+2>&1 | tee ${lib}.stats &
 done
 ~~~
 
@@ -150,10 +193,10 @@ Central insertions refer to insertions within the central 10-90% of a gene.
 
 | Library | Insertions in genome | Central insertion strains |  Genes with central insertions (Total) | Median strains per hit protein |
 | --- | --- | --- | --- | ---
-| *Dda* 3937 | 337,241 | 193,562 | 3,883 (4,213) | 37
-| *Ddia* ME23 | 540,176 | 320,479 | 3,804 (4,182) | 62
-| *Ddia* 67-19 | 334,601 | 200,012 | 3,728 (4,110) | 41
-| *Pc* WPP14 | 527,858 | 312,895 | 3,862 (4,194) | 59
+| *Dda* 3937 | 337,541 | 193,696 | 3,882 (4,213) | 37
+| *Ddia* ME23 | 541,278 | 321,087 | 3,805 (4,182) | 62
+| *Ddia* 67-19 | 334,893 | 200,170 | 3,728 (4,110) | 41
+| *Pc* WPP14 | 528,861 | 313,439 | 3,862 (4,194) | 59
 
 #### Essential gene predictions
 
@@ -165,7 +208,7 @@ for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 -genome ${lib}_data/genome.fna \
 -genes ${lib}_data/genes.tab \
 ${lib}_data/${lib}-mapped.txt \
-$blatShow
+$blatShow &
 done
 ~~~
 
@@ -209,7 +252,7 @@ Note minimum gene length from Essentials().
 
 ~~~
 # Dda3937:
-# Chose length  175 minimum fp rate 0.01239619 
+# Chose length  175 minimum fp rate 0.01047129 
 # DdiaME23:
 # Chose length  150 minimum fp rate 0.01136051 
 # Ddia67-19:
@@ -220,8 +263,8 @@ Note minimum gene length from Essentials().
 
 Predicted essential genes:
 
-- [Dda3937](library_mapping/Dda3937.ess) (N=375)
-- [DdiaME23](library_mapping/DdiaME23.ess) (N=427)
+- [Dda3937](library_mapping/Dda3937.ess) (N=374)
+- [DdiaME23](library_mapping/DdiaME23.ess) (N=426)
 - [Ddia67-19](library_mapping/Ddia6719.ess) (N=426)
 - [PcWPP14](library_mapping/PcWPP14.ess) (N=405)
 
