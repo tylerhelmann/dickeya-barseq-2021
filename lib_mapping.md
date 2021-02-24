@@ -27,7 +27,7 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 | *Ddia* 67-19 | NextSeq 500 | 474,107,039 | SRR13723386 | 10436717_Ddia6719.fastq.gz
 | *Pc* WPP14 | MiSeq | 21,434,359 | SRR13491905 | 10435838_PcWPP14.fastq.gz
 | *Pc* WPP14 | NextSeq 500 | 589,953,339 | SRR13723385 | 10436717_PcWPP14.fastq.gz
-| *Pc* WPP14 - time0 | NextSeq 500 | | | 
+| *Pc* WPP14 (time0) | NextSeq 500 | N | SRR | .fastq.gz
 
 ### Mapping protocol
 
