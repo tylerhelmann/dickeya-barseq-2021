@@ -17,8 +17,8 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 
 #### Sequence data
 
-| Strain | Sequencer | Total reads | SRA | File name
-| --- | --- | --- | --- | --- | ---
+| Strain | Sequencer | Total reads | SRA | File name |
+| --- | --- | --- | --- | --- | 
 | *Dda* 3937 | MiSeq | 22,578,055 | SRR13762539 | 10430690_Dda3937.fastq.gz
 | *Dda* 3937 | NextSeq 500 | 453,403,106 | SRR13455163 | 10435840_Dda3937.fastq.gz
 | *Ddia* ME23 | MiSeq | 21,084,010 | SRR13762538 | 10429775_DdiaME23.fastq.gz
