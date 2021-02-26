@@ -218,16 +218,10 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_AS
 gunzip dickeya_pecto_db/*feature_table.txt.gz
 ~~~
 
-Use features tables to match gene names to protein accessions in locustag_matrix.
+Use features tables to match RefSeq locusIds to protein accessions in locustag_matrix.
 
 ~~~ r
 R
-
-source("dickeya_pecto_db/groups_to_locusIds.R")
-
-# Match RefSeq locusIds and save output as:
-# locustag_matrix_with_genes.txt
-add_genes_to_locustag_matrix()
-
+source("barseq_analysis/add_genes_to_orthogroups.R")
 q()
 ~~~

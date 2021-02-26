@@ -2,14 +2,6 @@
 
 #### Add ortholog groups to strong.tab lists
 
-Starting with the PyParanoid locustag\_matrix, convert protein accessions to RefSeq locusIds.
-
-~~~ r
-R
-source("barseq_analysis/add_genes_to_orthogroups.R")
-q()
-~~~
-
 Split strong.tab files by treatment.  
 
 ~~~ bash
@@ -55,7 +47,7 @@ for sample in LB PDB M9 Atlantic Norland Upstate; do
 
 paste barseq_analysis/strong/${lib}_${sample}_strong.tab \
 barseq_analysis/strong/${lib}_${sample}_strong.tab_groups.txt \
-> barseq_analysis/strong/${lib}_${sample}_full.tab
+> barseq_analysis/strong/${lib}_${sample}_strong.tab
 
 done
 done
@@ -69,9 +61,9 @@ Print list of all unique groups from a given file.
 for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
 for sample in LB PDB M9 Atlantic Norland Upstate; do
 
-cat barseq_analysis/strong/${lib}_${sample}_full.tab | \
+cat barseq_analysis/strong/${lib}_${sample}_strong.tab | \
 cut -f 8 | \
-uniq > barseq_analysis/strong/${lib}_${sample}_group_list.txt
+uniq > barseq_analysis/strong/${lib}_${sample}_groups_unique.txt
 
 done
 done
