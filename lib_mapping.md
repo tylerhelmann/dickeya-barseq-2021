@@ -13,7 +13,6 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 |*Dickeya dadantii* 3937 | GCF_000147055.1 | yes
 |*Dickeya dianthicola* ME23 | GCF_003403135.1 | yes
 |*Dickeya dianthicola* 67-19 | GCF_014893095.1 | yes
-|*Pectobacterium carotovorum* WPP14 | GCF_013488025.1 | yes
 
 #### Sequence data
 
@@ -25,9 +24,6 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 | *Ddia* ME23 | NextSeq 500 | 481,396,760 | SRR13444973 | 10430494_DdiaME23.fastq.gz
 | *Ddia* 67-19 | MiSeq | 20,468,022 | SRR13491906 | 10435838_Ddia6719.fastq.gz
 | *Ddia* 67-19 | NextSeq 500 | 474,107,039 | SRR13723386 | 10436717_Ddia6719.fastq.gz
-| *Pc* WPP14 | MiSeq | 21,434,359 | SRR13491905 | 10435838_PcWPP14.fastq.gz
-| *Pc* WPP14 | NextSeq 500 | 589,953,339 | SRR13723385 | 10436717_PcWPP14.fastq.gz
-| *Pc* WPP14 (time0) | NextSeq 500 | N | SRR | .fastq.gz
 
 ### Mapping protocol
 
@@ -40,8 +36,6 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/003/403/135/GCF_003403135.1_AS
 -O DdiaME23.gbff.gz
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/014/893/095/GCF_014893095.1_ASM1489309v1/GCF_014893095.1_ASM1489309v1_genomic.gbff.gz \
 -O Ddia6719.gbff.gz
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_ASM1348802v1/GCF_013488025.1_ASM1348802v1_genomic.gbff.gz \
--O PcWPP14.gbff.gz
 
 gunzip *gbff.gz
 ~~~
@@ -64,7 +58,7 @@ cp genbank2gff.pl feba/bin/genbank2gff.pl
 (Will use "genes.GC" files for BarSeq.)
 
 ~~~ bash
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 ./feba/bin/SetupOrg.pl -gbk ${lib}.gbff \
 -out ${lib}_data/ \
 2>&1 | tee ${lib}_setup.log
@@ -74,17 +68,14 @@ done
 [Dda3937_setup.log](library_mapping/Dda3937_setup.log)  
 [DdiaME23_setup.log](library_mapping/DdiaME23_setup.log)  
 [Ddia6719_setup.log](library_mapping/Ddia6719_setup.log)  
-[PcWPP14_setup.log](library_mapping/PcWPP14_setup.log)  
 
 [Dda3937_genes.tab](library_mapping/Dda3937_genes.tab)  
 [DdiaME23_genes.tab](library_mapping/DdiaME23_genes.tab)  
 [Ddia6719_genes.tab](library_mapping/Ddia6719_genes.tab)  
-[PcWPP14_genes.tab](library_mapping/PcWPP14_genes.tab)  
 
 [Dda3937_genes.GC](barseq_inputs/Dda3937_genes.GC)  
 [DdiaME23_genes.GC](barseq_inputs/DdiaME23_genes.GC)  
 [Ddia6719_genes.GC](barseq_inputs/Ddia6719_genes.GC)  
-[PcWPP14_genes.GC](barseq_inputs/PcWPP14_genes.GC)  
 
 #### Map reads
 
@@ -98,7 +89,6 @@ Split NextSeq fastq files to use all cores for NextSeq mapping. Round total line
 split -l 45340312 -d 10435840_Dda3937.fastq Dda3937- &
 split -l 48139676 -d 10430494_DdiaME23.fastq DdiaME23- &
 split -l 47410704 -d 10436717_Ddia6719.fastq Ddia6719- &
-split -l 58995336 -d 10436717_PcWPP14.fastq PcWPP14- &
 
 # Create tasklist to map MiSeq reads.
 echo "./feba/bin/MapTnSeq.pl \
@@ -119,15 +109,9 @@ echo "./feba/bin/MapTnSeq.pl \
 -first 10435838_Ddia6719.fastq \
 > Ddia6719_data/Ddia6719-MiSeq-mapped.txt \
 2> Ddia6719_data/Ddia6719-MiSeq_log.txt" >> mapping_tasklist.txt
-echo "./feba/bin/MapTnSeq.pl \
--genome PcWPP14_data/genome.fna \
--model feba/primers/model_pKMW3.2 \
--first 10435838_PcWPP14.fastq \
-> PcWPP14_data/PcWPP14-MiSeq-mapped.txt \
-2> PcWPP14_data/PcWPP14-MiSeq_log.txt" >> mapping_tasklist.txt
 
 # Add NextSeq mapping to tasklist.
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 for i in ${lib}-{00..39}; do
 echo "./feba/bin/MapTnSeq.pl \
 -genome ${lib}_data/genome.fna \
@@ -146,7 +130,7 @@ done >> mapping_tasklist.txt
 mapping_tasklist.txt 40
 
 # Combine mapped reads.
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 cat ${lib}_data/${lib}*-mapped.txt > \
 ${lib}_data/${lib}-mapped.txt &
 done
@@ -155,7 +139,6 @@ done
 - [Dda3937 logs](library_mapping/Dda3937_mapping_logs/)
 - [DdiaME23 logs](library_mapping/DdiaME23_mapping_logs/)
 - [Ddia6719 logs](library_mapping/Ddia6719_mapping_logs/)
-- [PcWPP14 logs](library_mapping/PcWPP14_mapping_logs)
 
 #### Construct barcode "pools"
 
@@ -165,7 +148,7 @@ Use -minN 10 to set minimum 10 reads per barcode to be included in pool.
 # Fix feba/lib/PoolStats.R shebang line. 
 # For me needs to be: #!/usr/bin/env Rscript
 
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 ./feba/bin/DesignRandomPool.pl -minN 10 \
 -genes ${lib}_data/genes.tab \
 -pool ${lib}.pool ${lib}_data/${lib}-mapped.txt \
@@ -178,14 +161,12 @@ Library mapping stats:
 - [Dda3937.stats](library_mapping/Dda3937.stats)
 - [DdiaME23.stats](library_mapping/DdiaME23.stats)
 - [Ddia67-19.stats](library_mapping/Ddia6719.stats)
-- [PcWPP14.stats](library_mapping/PcWPP14.stats)
 
 Pools:
 
 - [Dda3937.pool](library_mapping/Dda3937.pool)
 - [DdiaME23.pool](library_mapping/DdiaME23.pool)
 - [Ddia67-19.pool](library_mapping/Ddia6719.pool)
-- [PcWPP14.pool](library_mapping/PcWPP14.pool)
 
 #### Library summaries
 
@@ -196,14 +177,13 @@ Central insertions refer to insertions within the central 10-90% of a gene.
 | *Dda* 3937 | 337,541 | 193,696 | 3,882 (4,213) | 37
 | *Ddia* ME23 | 541,278 | 321,087 | 3,805 (4,182) | 62
 | *Ddia* 67-19 | 334,893 | 200,170 | 3,728 (4,110) | 41
-| *Pc* WPP14 | 528,861 | 313,439 | 3,862 (4,194) | 59
 
 #### Essential gene predictions
 
 Calculate insertion frequencies using Essentiality.pl.
 
 ~~~ bash
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 ./feba/bin/Essentiality.pl -out ${lib}_data/ess \
 -genome ${lib}_data/genome.fna \
 -genes ${lib}_data/genes.tab \
@@ -229,20 +209,16 @@ DdiaME23_genes.GC <- read.delim(file = "DdiaME23_data/genes.GC")
 DdiaME23_ess.genes <- read.delim(file = "DdiaME23_data/ess.genes")
 Ddia6719_genes.GC <- read.delim(file = "Ddia6719_data/genes.GC")
 Ddia6719_ess.genes <- read.delim(file = "Ddia6719_data/ess.genes")
-PcWPP14_genes.GC <- read.delim(file = "PcWPP14_data/genes.GC")
-PcWPP14_ess.genes <- read.delim(file = "PcWPP14_data/ess.genes")
 
 # Run Essentials() to predict gene essentiality.
 Dda3937_ess <- Essentials(Dda3937_genes.GC, Dda3937_ess.genes, "")
 DdiaME23_ess <- Essentials(DdiaME23_genes.GC, DdiaME23_ess.genes, "")
 Ddia6719_ess <- Essentials(Ddia6719_genes.GC, Ddia6719_ess.genes, "")
-PcWPP14_ess <- Essentials(PcWPP14_genes.GC, PcWPP14_ess.genes, "")
 
 # Save output.
 write.table(Dda3937_ess, file="Dda3937_data/Dda3937.ess", sep="\t", row.names=F)
 write.table(DdiaME23_ess, file="DdiaME23_data/DdiaME23.ess", sep="\t", row.names=F)
 write.table(Ddia6719_ess, file="Ddia6719_data/Ddia6719.ess", sep="\t", row.names=F)
-write.table(PcWPP14_ess, file="PcWPP14_data/PcWPP14.ess", sep="\t", row.names=F)
 
 # Quit R shell.
 q()
@@ -257,8 +233,6 @@ Note minimum gene length from Essentials().
 # Chose length  150 minimum fp rate 0.01136051 
 # Ddia67-19:
 # Chose length  150 minimum fp rate 0.009785382 
-# PcWPP14:
-# Chose length  100 minimum fp rate 0.01271365 
 ~~~
 
 Predicted essential genes:
@@ -266,5 +240,3 @@ Predicted essential genes:
 - [Dda3937](library_mapping/Dda3937.ess) (N=374)
 - [DdiaME23](library_mapping/DdiaME23.ess) (N=426)
 - [Ddia67-19](library_mapping/Ddia6719.ess) (N=426)
-- [PcWPP14](library_mapping/PcWPP14.ess) (N=405)
-
