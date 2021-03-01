@@ -10,9 +10,9 @@ Strains included in this project:
 
 ### Generating a PyParanoid ortholog database
 
-See: [dickeya\_db\_setup.md](dickeya_pecto_db_setup.md)
+See: [dickeya\_db\_setup.md](dickeya_db_setup.md)
 
-Data included in [dickeya\_db/](dickeya_pecto_db/)
+Data included in [dickeya\_db/](dickeya_db/)
 
 ### Mapping barcoded *mariner* transposon libraries in these strains
 
