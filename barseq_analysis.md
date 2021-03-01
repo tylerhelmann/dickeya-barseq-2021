@@ -1,4 +1,4 @@
-## BarSeq: Genome-wide fitness of *Dickeya dadantii* 3937, *D. dianthicola* ME23, *D. dianthicola* 67-19 and *Pectobacterium carotovorum* WPP14
+## BarSeq: Genome-wide fitness of *Dickeya dadantii* 3937, *D. dianthicola* ME23, and *D. dianthicola* 67-19
 
 System used: Linux CentOS 7.6 (40 core server, 256 Gb RAM)
 
@@ -39,12 +39,10 @@ Copy the following inputs:
 	- 	[Dda3937_genes.GC](barseq_inputs/Dda3937_genes.GC)
 	-  [DdiaME23_genes.GC](barseq_inputs/DdiaME23_genes.GC)
 	-  [Ddia6719_genes.GC](barseq_inputs/Ddia6719_genes.GC)
-	-  [PcWPP14_genes.GC](barseq_inputs/PcWPP14_genes.GC)
 - Mapped pool files 
 	- [Dda3937.pool](library_mapping/Dda3937.pool)
 	- [DdiaME23.pool](library_mapping/DdiaME23.pool)
 	- [Ddia6719.pool](library_mapping/Ddia6719.pool)
-	- [PcWPP14.pool](library_mapping/PcWPP14.pool)
 
 #### Run MultiCodes.pl on all samples
 
@@ -79,12 +77,11 @@ Use reference files listing library-specific indicies.
 - [Dda3937_codes.txt](barseq_inputs/Dda3937_codes.txt)
 - [DdiaME23_codes.txt](barseq_inputs/DdiaME23_codes.txt)
 - [Ddia6719_codes.txt](barseq_inputs/Ddia6719_codes.txt)
-- [PcWPP14_codes.txt](barseq_inputs/PcWPP14_codes.txt)
 
 ~~~ bash
 mkdir results
 
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 ./feba/bin/combineBarSeq.pl \
     results/${lib} \
     inputs/${lib}.pool \
@@ -97,7 +94,6 @@ Reads used:
 - [Dda3937.colsum](barseq_out/Dda3937.colsum)
 - [DdiaME23.colsum](barseq_out/DdiaME23.colsum)
 - [Ddia6719.colsum](barseq_out/Ddia6719.colsum)
-- [PcWPP14.colsum](barseq_out/PcWPP14.colsum)
 
 #### Run BarSeqR.pl for each library
 
@@ -107,7 +103,7 @@ Calculate per gene fitness.
 # Fix feba/lib/PoolStats.R and feba/bin/RunFEBA.R shebang line. 
 # For me needs to be: #!/usr/bin/env Rscript
 
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 mkdir results/${lib}
 
 ./feba/bin/BarSeqR.pl \
@@ -127,6 +123,5 @@ Output:
 - [Dda3937](barseq_out/Dda3937)  
 - [DdiaME23](barseq_out/DdiaME23)  
 - [Ddia6719](barseq_out/Ddia6719)  
-- [PcWPP14](barseq_out/PcWPP14)  
 
 

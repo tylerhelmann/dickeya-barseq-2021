@@ -7,7 +7,7 @@ Split strong.tab files by treatment.
 ~~~ bash
 mkdir -p barseq_analysis/strong
 
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 for treatment in LB PDB M9 Atlantic Norland Upstate; do
 
 cat barseq_out/${lib}/strong.tab | \
@@ -25,10 +25,10 @@ Run for strong.tab gene lists from all strains & conditions.
 for sample in $(ls barseq_analysis/strong/*strong.tab); do
 for gene in $(cat $sample | cut -f 1); do
 
-if cat dickeya_pecto_db/locustag_matrix_with_genes.txt | \
+if cat dickeya_db/locustag_matrix_with_genes.txt | \
 grep -q $gene
 then
-cat dickeya_pecto_db/locustag_matrix_with_genes.txt | \
+cat dickeya_db/locustag_matrix_with_genes.txt | \
 grep -m 1 $gene | \
 cut -f 1 -d ,
 else
@@ -42,7 +42,7 @@ done
 Use 'paste' to add column of group numbers to strong.tab tables.
 
 ~~~ bash
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 for sample in LB PDB M9 Atlantic Norland Upstate; do
 
 paste barseq_analysis/strong/${lib}_${sample}_strong.tab \
@@ -58,7 +58,7 @@ done
 Print list of all unique groups from a given file.
 
 ~~~ bash
-for lib in Dda3937 DdiaME23 Ddia6719 PcWPP14; do
+for lib in Dda3937 DdiaME23 Ddia6719; do
 for sample in LB PDB M9 Atlantic Norland Upstate; do
 
 cat barseq_analysis/strong/${lib}_${sample}_strong.tab | \
@@ -67,5 +67,4 @@ uniq > barseq_analysis/strong/${lib}_${sample}_groups_unique.txt
 
 done
 done
-
 ~~~
