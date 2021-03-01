@@ -47,7 +47,7 @@ for sample in LB PDB M9 Atlantic Norland Upstate; do
 
 paste barseq_analysis/strong/${lib}_${sample}_strong.tab \
 barseq_analysis/strong/${lib}_${sample}_strong.tab_groups.txt \
-> barseq_analysis/strong/${lib}_${sample}_strong.tab
+> barseq_analysis/strong/${lib}_${sample}_strong_with_groups.tab
 
 done
 done
@@ -61,8 +61,7 @@ Print list of all unique groups from a given file.
 for lib in Dda3937 DdiaME23 Ddia6719; do
 for sample in LB PDB M9 Atlantic Norland Upstate; do
 
-cat barseq_analysis/strong/${lib}_${sample}_strong.tab | \
-cut -f 8 | \
+cat barseq_analysis/strong/${lib}_${sample}_strong.tab_groups.txt | \
 uniq > barseq_analysis/strong/${lib}_${sample}_groups_unique.txt
 
 done

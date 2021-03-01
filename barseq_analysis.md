@@ -124,4 +124,4 @@ Output:
 - [DdiaME23](barseq_out/DdiaME23)  
 - [Ddia6719](barseq_out/Ddia6719)  
 
-
+All non-time0 experiments passed QC requirements except TCH193 (Dda3937), TCH202, and TCH205 (Ddia6719).
