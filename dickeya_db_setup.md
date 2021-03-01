@@ -42,7 +42,7 @@ python3
 >>>exit()
 ~~~
 
-#### Download NCBI RefSeq protein sequences for *Dickeya dadantii* 3937, *D. dianthicola* ME23, *D. dianthicola* 67-19, and *Pectobacterium carotovorum* WPP14. 
+#### Download NCBI RefSeq protein sequences for *Dickeya dadantii* 3937, *D. dianthicola* ME23, and *D. dianthicola* 67-19. 
 
 (Note: Check that these locusIds are compatible with BarSeq output.)
 
