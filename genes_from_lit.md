@@ -2,14 +2,14 @@
 
 References: 
 
-- [Ma et al. 2014](https://doi.org/10.1186/1471-2164-15-508) (Computational predictions of *Dda*3937 and *Pc*WPP14 host-microbe interaction factors).
+- [Ma et al. 2014](https://doi.org/10.1186/1471-2164-15-508) (Computational predictions of *Dda*3937 host-microbe interaction factors).
 - [Royet et al. 2018](https://doi.org/10.1111/mpp.12754) (*Dda*3937 TnSeq in chicory).
 
 ### Downloads
 
 #### Published datasets
 
-- Ma *et al.* 2014 Additional files 7a and 7b (211 and 216 genes, ASAP identifiers).
+- Ma *et al.* 2014 Additional files 7a (211 genes, ASAP identifiers).
 - Royet *et al.* 2018 Table 2 (96 genes, GenBank loci).
 
 #### Reference data
@@ -24,11 +24,6 @@ wget "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/147/055/GCF_000147055.1_A
 wget "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/000/147/055/GCA_000147055.1_ASM14705v1/GCA_000147055.1_ASM14705v1_genomic.gff.gz" \
 -O gene_lists/Dda3937gb.gff.gz
 
-wget "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/013/488/025/GCF_013488025.1_ASM1348802v1/GCF_013488025.1_ASM1348802v1_genomic.gff.gz" \
--O gene_lists/PcWPP14rs.gff.gz
-wget "https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/013/488/025/GCA_013488025.1_ASM1348802v1/GCA_013488025.1_ASM1348802v1_genomic.gff.gz" \
--O gene_lists/PcWPP14gb.gff.gz
-
 gunzip gene_lists/*gff.gz
 ~~~
 
@@ -36,7 +31,7 @@ Convert these gff files to tsv.
 
 ~~~ bash
 
-for i in Dda3937rs Dda3937gb PcWPP14rs PcWPP14gb; do
+for i in Dda3937rs Dda3937gb; do
 ../../../Scripts/gff2tsv.pl \
 < gene_lists/${i}.gff \
 > gene_lists/${i}.tsv
@@ -52,7 +47,6 @@ ASAP# ("FeatureID") -> GenBank -> RefSeq.
 
 Ma *et al.* (2014) loci are in ASAP format.  
 *Dda3937* = "ABF-#".  
-[See bottom of document for notes on *PcWPP14* = "ADT-#".]
 
 ~~~ r
 R # Open R shell:
@@ -100,9 +94,3 @@ royet_list$rs_locus <- Dda3937rs$locus_tag[match(
 write(royet_list$rs_locus, "gene_lists/royet_list.txt")
 q()
 ~~~
-
---
-
-#### *PcWPP14*: "ADT-#" tags (Ma *et al.* 2014).
-
-These FeatureId tags are not useable because they reference the ASAP draft genome, and are not generally able to be linked to RefSeq or GenBank locus tags. In addition, a newer sequenced genome has been closed/annotated, and is used for the analysis here. 
