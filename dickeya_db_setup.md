@@ -209,7 +209,7 @@ Use features tables to match RefSeq locusIds to protein accessions in locustag_m
 
 ~~~ r
 R
-source("barseq_analysis/add_genes_to_orthogroups.R")
+source("src/add_genes_to_orthogroups.R")
 q()
 ~~~
 
