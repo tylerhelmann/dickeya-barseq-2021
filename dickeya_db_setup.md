@@ -44,8 +44,6 @@ python3
 
 #### Download NCBI RefSeq protein sequences for *Dickeya dadantii* 3937, *D. dianthicola* ME23, and *D. dianthicola* 67-19. 
 
-(Note: Check that these locusIds are compatible with BarSeq output.)
-
 - Dda3937 = GCF_000147055.1
 - DdiaME23 = GCF_003403135.1
 - Ddia67-19 = GCF_014893095.1
