@@ -21,16 +21,30 @@ listSigGenes <- function(fit, name_to_save){
   write.csv(out, file = name_to_save, row.names = F)
 }
 
+returnFalsePos <- function(fit){
+  # List Time0 experiments.
+  time0_exps <- fit$q$name[fit$q$short=="Time0"]
+  print(paste(fit$expsUsed$SetName[1], ":", length(time0_exps), "time0 experiments"))
+  
+  # For each, count gene fitness values that pass significance cutoffs.
+  for (i in time0_exps) {
+    print((abs(fit$lrn[i]) > 1 & abs(fit$t[i]) > 4) %>% sum)
+  }
+}
+
 # Run this function for fit data across all three Dickeya libraries.
 
 load("barseq_out/Dda3937/fit.image")
 listSigGenes(fit, "analysis/Dda3937_phenotype.tab")
+returnFalsePos(fit) 
 
 load("barseq_out/DdiaME23/fit.image")
 listSigGenes(fit, "analysis/DdiaME23_phenotype.tab")
+returnFalsePos(fit)
 
 load("barseq_out/Ddia6719/fit.image")
 listSigGenes(fit, "analysis/Ddia6719_phenotype.tab")
+returnFalsePos(fit)
 
 
 
