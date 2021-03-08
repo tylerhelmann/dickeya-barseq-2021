@@ -18,7 +18,7 @@ For *Ddia*6719, across all 33 experiments x 3,528 genes, 1,936 gene fitness valu
 
 Based on previous methods to estimate the false discovery rate for a significant phenotype (Price *et al.* 2018, Liu *et al.* 2021) and the same significant phenotype cutoffs, we assessed fitness values generated from comparisons between replicate time0 experiments.
 
-~~~
+~~~ r
 [1] "Dda3937 : 6 time0 experiments"
 [1] 0
 [1] 0
