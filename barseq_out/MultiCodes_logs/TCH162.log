@@ -1,0 +1,16 @@
+Reads 2737531 Multiplexed 2737531 Usable(20) 2607603 fraction 0.95253825436132 unique codes 529739 
+Wrong presequence position: 784 reads (0.029%)
+Off	18	3447	0.001
+Off	19	25729	0.010
+Off	20	2607603	0.987
+Off	21	5869	0.002
+Off	22	76	0.000
+Wrote 529739 unique barcodes to counts/TCH162.codes
+Wrote number of barcodes seen a certain number of times to counts/TCH162.counts; nOnce = 264286
+Wrote 105308 off-by-1 pairs (113952 reads, fraction 0.044) to counts/TCH162.close
+If 0.0% of reads are noise: diversity 1025.5 K from total barcodes 529.7 K seen once 264.3 K seen twice 70.4 K
+If 0.5% of reads are noise: diversity 964.8 K from total barcodes 516.7 K seen once 251.2 K seen twice 70.4 K
+If 1.0% of reads are noise: diversity 906.4 K from total barcodes 503.7 K seen once 238.2 K seen twice 70.4 K
+If 2.0% of reads are noise: diversity 797.0 K from total barcodes 477.6 K seen once 212.1 K seen twice 70.4 K
+Aside from singletons and off-by-1s, see 260.1 K barcodes (89.3% of reads)
+Barcodes with >= 50 reads each: 1.02% of codes (5.39 K), 25.94% of reads (676.5 K)
