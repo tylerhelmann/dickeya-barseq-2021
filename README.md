@@ -27,3 +27,7 @@ Includes predicted essential genes tables.
 [barseq_analysis.md](barseq_analysis.md)
 
 Data included in [barseq\_inputs/](barseq\_inputs/) and [barseq_out/](barseq_out/)
+
+### General analysis
+
+[fit_analysis.md](fit_analysis.md)
