@@ -10,9 +10,9 @@ Wetmore, K.M., Price, M.N., Waters, R.J., Lamson, J.S., He, J., Hoover, C.A., Bl
 
 | Strain | RefSeq accession | RefSeq assembly and GenBank assembly identical
 |---|---|---|
-|*Dickeya dadantii* 3937 | GCF_000147055.1 | yes
-|*Dickeya dianthicola* ME23 | GCF_003403135.1 | yes
-|*Dickeya dianthicola* 67-19 | GCF_014893095.1 | yes
+|*Dickeya dadantii* 3937 | [GCF_000147055.1](https://www.ncbi.nlm.nih.gov/assembly/GCF_000147055.1/) | yes
+|*Dickeya dianthicola* ME23 | [GCF_003403135.1](https://www.ncbi.nlm.nih.gov/assembly/GCF_003403135.1/) | yes
+|*Dickeya dianthicola* 67-19 | [GCF_014893095.1](https://www.ncbi.nlm.nih.gov/assembly/GCF_014893095.1/) | yes
 
 #### Sequence data
 
