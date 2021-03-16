@@ -17,7 +17,7 @@ listSigGenes <- function(fit, name_to_save){
   
   successful_exps <- fit$q$name[fit$q$u]
   out <- out[which(out$name %in% successful_exps),]
-  
+
   write.csv(out, file = name_to_save, row.names = F)
 }
 
