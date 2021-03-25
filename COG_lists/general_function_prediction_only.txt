@@ -1,0 +1,252 @@
+Gene ID	Locus Tag	Name	Function	
+648180332	Dda3937_00158	AAA+ family ATPase	COG0714	
+648180360	Dda3937_01122	putative acetyltransferase	COG2153	
+648180372	Dda3937_01133	oxidoreductase, short-chain dehydrogenase/reductase family protein	COG0300	
+648180394	Dda3937_01154	metal-dependent hydrolase	COG3568	
+648180397	Dda3937_01157	ATP binding protein	COG3950	
+648180398	Dda3937_01158	putative oxidoreductase with FAD/NAD(P)-binding domain	COG2081	
+648180404	Dda3937_02521	multifunctional Erythrose 4-P, mannose 1-P, and alpha-D-glucose-1-P phosphatase	COG0561	
+648180444	Dda3937_01996	putative zinc-dependent peptidase	COG0612	
+648180483	Dda3937_03046	transporter	COG0679	
+648180504	Dda3937_03868	putative N-carbamoylputrescine amidase	COG0388	
+648180506	Dda3937_03870	alkaline phosphatase (EC 3.1.3.1)	COG1785	
+648180598	Dda3937_01582	Endonuclease/Exonuclease/phosphatase family protein	COG3568	
+648180601	Dda3937_01585	transcriptional regulator	COG1917	
+648180623	Dda3937_00660	putative oxidoreductase, Zn-dependent and NAD(P)-binding protein	COG0604	
+648180632	Dda3937_00668	TldD protein	COG0312	
+648180640	Dda3937_00676	putative peptidase required for the maturation and secretion of the antibiotic peptide MccB17	COG0312	
+648180650	Dda3937_00686	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase	COG1778	
+648180662	Dda3937_04446	cell division protein ZapE	COG1485	
+648180670	Dda3937_00706	ClpXP protease specificity-enhancing factor	COG2969	
+648180672	Dda3937_00708	glutamate synthase, 4Fe-4S protein, small subunit	COG0493	
+648180675	Dda3937_00711	putative Fe-S oxidoreductase	COG1242	
+648180694	Dda3937_01250	esterase	COG3150	
+648180697	Dda3937_01253	Modulator of drug activity B	COG2249	
+648180718	Dda3937_01272	anaerobic ribonucleotide reductase activating protein	COG0602	
+648180783	Dda3937_01331	hypothetical protein	COG4637	
+648180787	Dda3937_01335	oxidoreductase, short-chain dehydrogenase/reductase family protein	COG1028	
+648180793	Dda3937_01341	2,3-butanediol dehydrogenase/acetoin (diacetyl) reductase	COG1028	
+648180806	Dda3937_02865	hypothetical protein	COG4637	
+648180811	Dda3937_02870	metal-dependent phosphohydrolase	COG1418	
+648180856	Dda3937_02661	peptidase M20D, amidohydrolase	COG1473	
+648180864	Dda3937_02653	chloramphenicol acetyltransferase	COG0110	
+648180871	Dda3937_02647	galactarate dehydratase (EC 4.2.1.42)/L-talarate dehydratase (EC 4.2.1.-)	COG4948	
+648180906	Dda3937_02719	inner membrane protein	COG3030	
+648180915	Dda3937_02728	putative pirin-related protein	COG1741	
+648180945	Dda3937_03538	oxidoreductase, aldo/keto reductase family	COG0667	
+648180946	Dda3937_03537	oxidoreductase, short chain dehydrogenase/reductase family protein	COG0300	
+648180947	Dda3937_03536	oxidoreductase	COG0300	
+648180948	Dda3937_03535	putative zinc-containing alcohol dehydrogenase	COG0604	
+648180985	Dda3937_02334	hypothetical protein	COG2141	
+648180989	Dda3937_02330	putative acyltransferase with acyl-CoA N-acyltransferase domain	COG3153	
+648180998	Dda3937_02321	Ketosteroid isomerase-related protein	COG3631	
+648181003	Dda3937_02316	oxidoreductase	COG0667	
+648181018	Dda3937_02304	putative hydrolase	COG1896	
+648181032	Dda3937_04703	glucose-methanol-choline (GMC) oxidoreductase:NAD binding site	COG2303	
+648181070	Dda3937_03606	mandelate racemase/muconate lactonizing enzyme family protein	COG4948	
+648181078	Dda3937_01167	membrane protein	COG0628	
+648181097	Dda3937_01185	hypothetical protein	COG2350	
+648181098	Dda3937_01186	D-alanine--D-alanine ligase	COG1181	
+648181113	Dda3937_01201	ABC transporter ATP-binding protein	COG3910	
+648181115	Dda3937_01203	Myo-inositol 2-dehydrogenase	COG0673	
+648181119	Dda3937_01207	Myo-inositol 2-dehydrogenase	COG0673	
+648181128	Dda3937_01215	O-succinylbenzoate-CoA synthase	COG4948	
+648181132	Dda3937_01218	Flavin reductase	COG2910	
+648181137	Dda3937_01222	putative short-chain dehydrogenase/reductase	COG0300	
+648181204	Dda3937_01758	Rhs-family protein	COG3209	
+648181206	Dda3937_01760	putative Rhs accessory genetic element	COG3501	
+648181262	Dda3937_01405	putative zinc protease pqqL	COG0612	
+648181263	Dda3937_01406	putative ATP-binding cassette transporter	COG4178	
+648181351	Dda3937_04484	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	COG0596	
+648181381	Dda3937_03392	putative oxidoreductase	COG0667	
+648181401	Dda3937_00861	D-3-phosphoglycerate dehydrogenase	COG0111	
+648181412	Dda3937_00870	hypothetical protein	COG1611	
+648181449	Dda3937_01901	hypothetical protein	COG2085	
+648181452	Dda3937_01904	hypothetical protein	COG1881	
+648181512	Dda3937_01964	4-methyl-5(b-hydroxyethyl)-thiazole monophosphate biosynthesis	COG0693	
+648181515	Dda3937_01967	L-fucose dehydrogenase	COG0667	
+648181516	Dda3937_01968	hypothetical protein	COG4922	
+648181563	Dda3937_03290	hypothetical protein	COG0718	
+648181594	Dda3937_01782	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)	COG0596	
+648181599	Dda3937_01787	hypothetical protein	COG1058	
+648181601	Dda3937_01789	putative oxidoreductase with NAD(P)-binding Rossmann-fold domain	COG0300	
+648181620	Dda3937_02510	putative peptidase	COG4783	
+648181628	Dda3937_02502	phospholipase/carboxylesterase	COG0400	
+648181640	Dda3937_02491	putative amidase	COG0388	
+648181683	Dda3937_01557	esterase	COG0596	
+648181700	Dda3937_01542	putative lactam utilization protein	COG1540	
+648181721	Dda3937_00558	SecB-dependent secretory protein	COG1729	
+648181746	Dda3937_04005	pyridoxal phosphatase/fructose 1,6-bisphosphatase	COG0561	
+648181788	Dda3937_03279	putative short-chain dehydrogenase	COG1028	
+648181802	Dda3937_00843	tricorn interacting aminopeptidase F1. Serine peptidase. MEROPS family S33	COG0596	
+648181813	Dda3937_00832	VgrG protein	COG3501	
+648181819	Dda3937_04312	hypothetical protein	COG3209	
+648181827	Dda3937_00819	peptidase M20D, amidohydrolase	COG1473	
+648181848	Dda3937_00799	mandelate racemase/muconate lactonizing enzyme family protein	COG4948	
+648181849	Dda3937_00798	EBNA-1 nuclear protein	COG3367	
+648181870	Dda3937_00780	putative ABC transporter ATP binding protein	COG0488	
+648181880	Dda3937_00772	antiholin-like protein LrgA	COG1380	
+648181937	Dda3937_04120	NAD-dependent oxidoreductase	COG0673	
+648181968	Dda3937_04097	hypothetical protein	COG0667	
+648182024	Dda3937_03024	D-3-phosphoglycerate dehydrogenase	COG0111	
+648182071	Dda3937_00369	putative receptor protein	COG0679	
+648182082	Dda3937_00379	3-oxoacyl-[acyl-carrier protein] reductase	COG1028	
+648182094	Dda3937_00650	Lactam utilization protein LAMB	COG1540	
+648182102	Dda3937_04319	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	COG0596	
+648182109	Dda3937_03584	alpha/beta superfamily hydrolase	COG0596	
+648182110	Dda3937_03585	hypothetical protein	COG5516	
+648182129	Dda3937_03601	Radical SAM domain heme biosynthesis protein	COG0535	
+648182157	Dda3937_03744	holin-like protein	COG1380	
+648182183	Dda3937_03769	hypothetical protein	COG0670	
+648182186	Dda3937_04008	Endonuclease/Exonuclease/phosphatase family protein	COG3568	
+648182209	Dda3937_02901	adenylate cyclase	COG1437	
+648182210	Dda3937_02900	hypothetical protein	COG1636	
+648182235	Dda3937_02459	Lactam utilization protein LAMB	COG1540	
+648182263	Dda3937_01241	alkanal monooxygenase subunit alpha	COG2141	
+648182266	Dda3937_01236	oxidoreductase	COG1028	
+648182314	Dda3937_03832	putative enzyme	COG0523	
+648182318	Dda3937_03627	peptidase M20D, amidohydrolase	COG1473	
+648182341	Dda3937_00069	alcohol dehydrogenase class III	COG1062	
+648182362	Dda3937_03488	(R)-3-hydroxydecanoyl-ACP:CoA transacylase	COG0596	
+648182366	Dda3937_03484	putative transporter	COG2985	
+648182389	Dda3937_02370	hypothetical protein	COG0702	
+648182424	Dda3937_02982	Twin-arginine translocation signal domain-containing protein	COG1574	
+648182459	Dda3937_03199	membrane Protein Functionally coupled to the MukBEF Chromosome Partitioning Mechanism	COG1434	
+648182475	Dda3937_04568	Nitrilase/cyanide hydratase and apolipoprotein N-acyltransferase	COG0388	
+648182479	Dda3937_04063	putative zinc-binding hydrolase	COG1387	
+648182486	Dda3937_04329	putative oxidoreductase	COG0673	
+648182489	Dda3937_01607	putative metal-binding enzyme	COG3102	
+648182539	Dda3937_03324	hypothetical protein	COG2261	
+648182545	Dda3937_03330	hypothetical protein	COG2718	
+648182553	Dda3937_04576	nicotinamidase/pyrazinamidase	COG1335	
+648182564	Dda3937_04044	patatin-like protein	COG1752	
+648182582	Dda3937_00564	putative enzyme	COG2350	
+648182587	Dda3937_00569	Ferredoxin	COG0727	
+648182596	Dda3937_00578	hypothetical protein	COG0613	
+648182600	Dda3937_00582	putative oxoacyl-(acyl carrier protein) reductase	COG1028	
+648182621	Dda3937_00603	putative oxidoreductase	COG0673	
+648182622	Dda3937_00604	putative inner membrane protein	COG0385	
+648182665	Dda3937_01648	NAD(P)H:quinone oxidoreductase	COG0702	
+648182670	Dda3937_01643	glucose-methanol-choline (GMC) oxidoreductase:NAD binding site	COG2303	
+648182674	Dda3937_01640	putative ABC transporter periplasmic substrate X binding protein	COG4134	
+648182716	Dda3937_02951	hypothetical protein	COG2353	
+648182727	Dda3937_02941	putative short-chain dehydrogenase	COG1028	
+648182777	Dda3937_04595	2-deoxy-D-gluconate 3-dehydrogenase	COG1028	
+648182785	Dda3937_03364	putative inner membrane protein regulated by LexA	COG1988	
+648182823	Dda3937_04153	hypothetical protein	COG4101	
+648182870	Dda3937_00633	putative hydrolase	COG0561	
+648182903	Dda3937_03789	metallo-beta-lactamase superfamily protein	COG0491	
+648182948	Dda3937_04713	guanine deaminase (EC 3.5.4.3)	COG0402	
+648182979	Dda3937_03144	fermentative D-lactate dehydrogenase, NAD-dependent	COG1052	
+648182980	Dda3937_03143	putative lipoprotein	COG3042	
+648182984	Dda3937_03139	EF hand domain-containing protein	COG3179	
+648182996	Dda3937_03128	putative ketosteroid isomerase	COG4319	
+648183005	Dda3937_03119	hypothetical protein	COG3106	
+648183010	Dda3937_03114	cobalamin synthesis protein	COG0523	
+648183021	Dda3937_03103	oxidoreductase, aldo/keto reductase family	COG4989	
+648183041	Dda3937_04612	hypothetical protein	COG3313	
+648183087	Dda3937_04621	putative inner membrane protein	COG0628	
+648183095	Dda3937_03518	DNA-binding ABC ATPase	COG0488	
+648183097	Dda3937_03516	putative 2Fe-2S cluster-containing protein	COG3217	
+648183103	Dda3937_03510	alkanesulfonate monooxygenase (EC 1.14.14.5)	COG2141	
+648183117	Dda3937_03655	putative metal-binding enzyme	COG0491	
+648183142	Dda3937_02259	hypothetical protein	COG3150	
+648183147	Dda3937_02254	purine nucleoside phosphoramidase	COG0537	
+648183157	Dda3937_04626	3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100)	COG1028	
+648183172	Dda3937_03558	secreted protein	COG2353	
+648183173	Dda3937_03559	UPF0176 protein	COG1054	
+648183192	Dda3937_03411	choline dehydrogenase (EC 1.1.99.1)	COG2303	
+648183203	Dda3937_03421	oxidoreductase	COG0673	
+648183277	Dda3937_03357	hydroxyacylglutathione hydrolase	COG0491	
+648183301	Dda3937_02773	Rhs-family protein	COG3209	
+648183303	Dda3937_02771	putative Rhs accessory genetic element	COG3501	
+648183420	Dda3937_01819	Hydrogenase-1 and 2 nickel incorporation protein HybF	COG0375	
+648183427	Dda3937_01812	fused putative transporter subunits : ATP-binding proteins	COG0488	
+648183428	Dda3937_01811	antibiotic biosynthesis protein	COG0384	
+648183448	Dda3937_04026	nucleotidase	COG1896	
+648183450	Dda3937_04024	sugar phosphatase	COG0637	
+648183458	Dda3937_04016	phosphodiesterase	COG0622	
+648183461	Dda3937_04213	hypothetical protein	COG1090	
+648183475	Dda3937_02107	erythronate-4-phosphate dehydrogenase	COG0111	
+648183481	Dda3937_02113	Tricarboxylate transport membrane protein tctA	COG3333	
+648183490	Dda3937_02122	ThiJ/PfpI family protein	COG0693	
+648183511	Dda3937_00481	acid phosphatase	COG2503	
+648183529	Dda3937_02431	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	COG1028	
+648183534	Dda3937_02427	hypothetical protein	COG3545	
+648183566	Dda3937_02399	Pirin	COG1741	
+648183578	Dda3937_02386	amidohydrolase amhX	COG1473	
+648183585	Dda3937_01654	Starvation sensing protein rspA	COG4948	
+648183586	Dda3937_01655	Starvation sensing protein rspB	COG1063	
+648183605	Dda3937_01673	Formiminoglutamic iminohydrolase	COG0402	
+648183625	Dda3937_01690	phosphate ABC transporter permease	COG4590	
+648183632	Dda3937_01697	Isochorismatase	COG1335	
+648183634	Dda3937_01698	putative carrier/transport protein	COG0670	
+648183638	Dda3937_01702	putative CoA-binding protein with NAD(P)-binding Rossmann-fold domain	COG1832	
+648183650	Dda3937_02823	oxidoreductase	COG0667	
+648183660	Dda3937_04375	putative phosphate starvation inducible protein	COG3223	
+648183664	Dda3937_02810	oxidoreductase	COG0673	
+648183688	Dda3937_03709	50S ribosome associated factor involved in the biogenesis and stability of 50S ribosomal subunits	COG1160	
+648183718	Dda3937_02382	hypothetical protein	COG3683	
+648183822	Dda3937_03972	putative hydroxyacylglutathione hydrolase	COG0491	
+648183824	Dda3937_03970	hypothetical protein	COG3021	
+648183850	Dda3937_03942	putative inner membrane protein	COG4137	
+648183855	Dda3937_03150	fructose-1-P and 6-phosphogluconate phosphatase	COG0637	
+648183871	Dda3937_03162	2,3-butanediol dehydrogenase/acetoin (diacetyl) reductase	COG1028	
+648183887	Dda3937_03177	hypothetical protein	COG0523	
+648183899	Dda3937_03189	hypothetical protein	COG2350	
+648183936	Dda3937_00099	putative amidotransfease	COG0121	
+648183945	Dda3937_00919	putative hydrolase	COG0388	
+648184017	Dda3937_00204	7-carboxy-7-deazaguanine synthase	COG0602	
+648184018	Dda3937_00203	methyl parathion hydrolase	COG0491	
+648184032	Dda3937_00189	D-glucarate dehydratase	COG4948	
+648184033	Dda3937_00188	D-glucarate dehydratase-related protein	COG4948	
+648184048	Dda3937_00175	putative signal transduction protein (SH3 domain)	COG3103	
+648184055	Dda3937_00168	hypothetical protein	COG2105	
+648184060	Dda3937_00163	putative inner membrane protein	COG1253	
+648184085	Dda3937_02604	cytosine deaminase	COG0402	
+648184088	Dda3937_02601	putative enzyme	COG0325	
+648184095	Dda3937_02594	acetyltransferase	COG2153	
+648184118	Dda3937_04078	ABC transporter permease	COG4132	
+648184130	Dda3937_03444	quinone oxidoreductase, NADPH-dependent	COG0604	
+648184175	Dda3937_03074	hypothetical protein	COG4637	
+648184198	Dda3937_02625	Decarboxylase family protein	COG1611	
+648184207	Dda3937_02634	oxidoreductase, short chain dehydrogenase/reductase family protein	COG1028	
+648184211	Dda3937_02638	hypothetical protein	COG2819	
+648184332	Dda3937_00403	ABC transporter ATP-binding protein yjjK	COG0488	
+648184335	Dda3937_00406	zinc-binding alcohol dehydrogenase	COG0604	
+648184336	Dda3937_00407	D-3-phosphoglycerate dehydrogenase	COG0111	
+648184350	Dda3937_00421	SprT protein	COG3091	
+648184380	Dda3937_00450	D-3-phosphoglycerate dehydrogenase	COG0111	
+648184384	Dda3937_00453	Luciferase-like monooxygenase	COG2141	
+648184385	Dda3937_00454	Nitrilotriacetate monooxygenase component A	COG2141	
+648184396	Dda3937_02187	AbgB	COG1473	
+648184397	Dda3937_02186	catalyzes the cleavage of p-aminobenzoyl-glutamate to p-aminobenzoate and glutamate, subunit A	COG1473	
+648184465	Dda3937_01530	hypothetical protein	COG0663	
+648184530	Dda3937_00537	putative cytoplasmic protein ,probably associated with Glutathione-regulated potassium-efflux	COG3529	
+648184532	Dda3937_00539	Kef-type potassium/proton antiporter accessory protein, CPA2 family (TC 2.A.37.1)	COG2249	
+648184533	Dda3937_00540	fused putative transporter subunits : ATP-binding proteins	COG0488	
+648184535	Dda3937_00542	hydrolase, alpha/beta fold family functionally coupled to phosphoribulokinase	COG0429	
+648184538	Dda3937_00545	putative redox protein	COG1765	
+648184546	Dda3937_00553	Lytic enzyme	COG3179	
+648184555	Dda3937_04189	mandelate racemase/muconate lactonizing enzyme family protein	COG4948	
+648184583	Dda3937_00350	carboxylesterase	COG0596	
+648184584	Dda3937_00349	gluconate periplasmic binding protein with phosphoribosyltransferase domain, GNT I system	COG1040	
+648184609	Dda3937_00324	gluconate permease GntT (TC 2.A.8.1.4)	COG2610	
+648184613	Dda3937_00320	hypothetical protein	COG1741	
+648184620	Dda3937_00314	hypothetical protein	COG0561	
+648184631	Dda3937_00304	putative transport protein	COG3180	
+648184647	Dda3937_00289	putative N-acetyl-L,L-diaminopimelate deacetylase	COG1473	
+648184706	Dda3937_02079	hypothetical protein	COG1739	
+648184711	Dda3937_02074	putative transmembrane protein	COG2391	
+648184735	Dda3937_02051	putative inner membrane protein	COG0697	
+648184743	Dda3937_02043	L-threonine 3-dehydrogenase (EC 1.1.1.103)	COG1063	
+648184768	Dda3937_03254	EBNA-1 nuclear protein	COG3367	
+648184769	Dda3937_03253	Muconate cycloisomerase	COG4948	
+648184790	Dda3937_03232	EF hand domain-containing protein	COG3179	
+648184843	Dda3937_00980	ThiJ/PfpI-family thiamine biogenesis protein	COG0693	
+648184880	Dda3937_01015	2-keto-D-gluconate reductase	COG1052	
+648184889	Dda3937_01024	alkanal monooxygenase subunit alpha	COG2141	
+648184936	Dda3937_01069	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)	COG3185	
+648184938	Dda3937_01071	Rrf2-linked NADH-flavin reductase	COG2910	
+648184952	Dda3937_01085	Pyridine nucleotide-disulfide oxidoreductase family protein	COG0493	
+648184956	Dda3937_01089	phosphoenolpyruvate and 6-phosphogluconate phosphatase	COG0637	

@@ -1,0 +1,272 @@
+Gene ID	Locus Tag	Name	Function	
+648180333	Dda3937_00159	potassium transporter	COG3158	
+648180382	Dda3937_01143	arsenical-resistance protein ACR3	COG0798	
+648180424	Dda3937_02541	dipeptide ABC transporter membrane protein	COG0601	
+648180425	Dda3937_02542	dipeptide ABC transporter membrane protein	COG1173	
+648180426	Dda3937_02543	dipeptide ABC transporter ATP-binding protein	COG0444	
+648180502	Dda3937_03866	zinc transporter	COG0053	
+648180506	Dda3937_03870	alkaline phosphatase (EC 3.1.3.1)	COG1785	
+648180565	Dda3937_00226	Thiosulfate reductase cytochrome B subunit (membrane anchoring protein)	COG4117	
+648180652	Dda3937_00688	putative calcium/sodium:proton antiporter	COG0530	
+648180700	Dda3937_01256	divisomal assembly stabilization protein	COG2132	
+648180722	Dda3937_01276	ABC transporter permease	COG0601	
+648180723	Dda3937_01277	ABC transporter permease	COG1173	
+648180780	Dda3937_01328	hypothetical protein	COG2128	
+648180799	Dda3937_01347	permease of an ABC transporter	COG0601	
+648180800	Dda3937_01348	permease of an ABC transporter	COG1173	
+648180801	Dda3937_01349	ABC transporter ATP-binding protein	COG0444	
+648180824	Dda3937_03673	ABC transporter permease	COG1173	
+648180825	Dda3937_03672	ABC transporter permease	COG0601	
+648180858	Dda3937_02659	Vitamin B12 ABC transporter ATPase BtuD	COG1120	
+648180859	Dda3937_02658	ABC transporter periplasmic-binding protein	COG0614	
+648180860	Dda3937_02657	ABC transporter permease	COG0609	
+648180868	Dda3937_02650	zinc, cobalt and lead efflux system	COG2217	
+648180903	Dda3937_02716	copper binding protein	COG1324	
+648180914	Dda3937_02727	zinc uptake regulator, Fur family	COG0735	
+648180930	Dda3937_02743	Alx protein	COG0861	
+648181062	Dda3937_02262	sodium/proton antiporter, CPA1 family (TC 2.A.36)	COG0025	
+648181068	Dda3937_04467	Ferrichrome-iron receptor	COG4773	
+648181072	Dda3937_03608	D-ala-D-ala transporter subunit	COG0601	
+648181073	Dda3937_03609	dipeptide transport protein (ABC superfamily, membrane)	COG1173	
+648181075	Dda3937_01164	peptide transport ATP-binding protein	COG1124	
+648181077	Dda3937_01166	FecR family protein	COG3712	
+648181253	Dda3937_04481	proton-dependent divalent metal cation transporter	COG1914	
+648181270	Dda3937_01413	putative iron-dependent peroxidase	COG2837	
+648181304	Dda3937_01446	NrfD protein	COG3301	
+648181372	Dda3937_03400	iron-sulfur cluster protector protein	COG2924	
+648181383	Dda3937_03390	putative transport protein	COG0861	
+648181478	Dda3937_01930	putative ATP-binding protein of a transport system	COG4615	
+648181489	Dda3937_01941	phosphate-binding protein of an ABC transporter	COG0226	
+648181501	Dda3937_01953	magnesium transporter	COG0474	
+648181544	Dda3937_03308	ammonium transporter	COG0004	
+648181568	Dda3937_03285	Kef-type potassium/proton antiporter, CPA2 family (TC 2.A.37.1)	COG4651	
+648181578	Dda3937_04159	Lead, cadmium, zinc and mercury transporting ATPase; Copper-translocating P-type ATPase	COG2217	
+648181606	Dda3937_01794	Ferrichrome-iron receptor	COG4774	
+648181607	Dda3937_01795	putative solute-binding periplasmic protein of ABC transporter	COG0614	
+648181619	Dda3937_02511	putative oxidoreductase	COG1393	
+648181632	Dda3937_02498	hypothetical protein	COG1393	
+648181639	Dda3937_02492	camphor resistance protein CrcB	COG0239	
+648181661	Dda3937_02470	putative ion transport	COG4535	
+648181679	Dda3937_01561	DNA-binding transcriptional dual regulator of siderophore biosynthesis and transport	COG0735	
+648181690	Dda3937_01551	potassium translocating ATPase, subunit C	COG2156	
+648181691	Dda3937_01550	high-affinity potassium-transporting ATPase B chain	COG2216	
+648181692	Dda3937_01549	P-type ATPase, high-affinity potassium transport system, A chain	COG2060	
+648181727	Dda3937_03986	zinc efflux system	COG1230	
+648181731	Dda3937_03990	Cobalt-zinc-cadmium resistance protein czcA; Cation efflux system protein cusA	COG3696	
+648181740	Dda3937_03999	molybdate ABC transporter ATP-binding protein	COG1119	
+648181743	Dda3937_04002	molybdate ABC transporter periplasmic-binding protein	COG0725	
+648181744	Dda3937_04003	molybdate ABC transporter membrane protein	COG4149	
+648181745	Dda3937_04004	molybdate ABC transporter ATP-binding protein	COG4148	
+648181757	Dda3937_03930	hypothetical protein	COG0861	
+648181793	Dda3937_03282	hemin transport protein hmuS	COG3720	
+648181794	Dda3937_03283	Periplasmic hemin-binding protein	COG4558	
+648181795	Dda3937_03284	hemin ABC transporter permease	COG0609	
+648181796	Dda3937_00848	hemin ABC transporter ATPase	COG4559	
+648181799	Dda3937_00846	TonB-dependent hemin , ferrichrome receptor	COG4771	
+648181801	Dda3937_00844	Non-specific DNA-binding protein Dps/Iron-binding ferritin-like antioxidant protein/Ferroxidase	COG0783	
+648181806	Dda3937_00839	ABC transporter permease	COG0601	
+648181807	Dda3937_00838	ABC transporter permease	COG1173	
+648181808	Dda3937_00837	olgopeptide transport ATP-binding protein oppD	COG0444	
+648181853	Dda3937_00794	ferrous iron permease	COG0672	
+648181854	Dda3937_00793	component of a tripartite ferrous iron transporter	COG2822	
+648181855	Dda3937_00792	redox component of a tripartite ferrous iron transporter	COG2837	
+648181884	Dda3937_00769	nitrate/sulfonate/bicarbonate ABC transporter ATPase	COG1116	
+648181885	Dda3937_00768	ABC transporter nitrate permease	COG4986	
+648181888	Dda3937_00765	catalase/Peroxidase	COG0376	
+648181892	Dda3937_00761	Nickel transport system permease	COG0601	
+648181893	Dda3937_00760	nickel ABC transporter , inner membrane protein	COG1173	
+648181894	Dda3937_00759	olgopeptide transporter putative ATPase domain-containing protein	COG0444	
+648181895	Dda3937_00758	ATP-binding protein of nickel transport system	COG1124	
+648181927	Dda3937_00732	hydrogenase 4, membrane subunit	COG0651	
+648181929	Dda3937_00730	hydrogenase 4, membrane subunit	COG1009	
+648181931	Dda3937_00728	hydrogenase 4, membrane subunit	COG0651	
+648181940	Dda3937_04123	Taurine transport system permease tauC	COG0600	
+648181941	Dda3937_04124	Taurine transport ATP-binding protein tauB	COG1116	
+648181942	Dda3937_04315	Taurine transporter substrate-binding protein	COG0715	
+648181959	Dda3937_04088	methylphosphonate degradation complex, subunit phnG	COG3624	
+648181960	Dda3937_04089	methylphosphonate degradation complex, subunit phnH	COG3625	
+648181961	Dda3937_04090	PhnI protein	COG3626	
+648181962	Dda3937_04091	carbon-phosphorous lyase (EC 4.-.-.-)	COG3627	
+648181963	Dda3937_04092	phosphonates transport ATP-binding protein phnK	COG4107	
+648181964	Dda3937_04093	methylphosphonate degradation complex, subunit phnL	COG4778	
+648181965	Dda3937_04094	ribophosphonate triphosphate hydrolase (EC 3.-.-.-)	COG3454	
+648181967	Dda3937_04096	5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase (EC 3.1.4.-)	COG1235	
+648181970	Dda3937_04099	phosphonate ABC transporter ATP-binding protein	COG3638	
+648181971	Dda3937_04100	phosphonate ABC transporter periplasmic component PhnD	COG3221	
+648181972	Dda3937_04101	phosphonate ABC transporter permease PhnE	COG3639	
+648181973	Dda3937_04102	putative ABC transport membrane permease	COG3639	
+648181984	Dda3937_02855	TonB-dependent receptor	COG1629	
+648181985	Dda3937_02854	putative AcsD	COG4264	
+648181988	Dda3937_02851	Siderophore staphylobactin biosynthesis protein SbnF	COG4264	
+648181990	Dda3937_02849	Siderophore staphylobactin biosynthesis protein SbnC	COG4264	
+648181991	Dda3937_02848	Siderophore staphylobactin ABC transporter substrate-binding protein SirA	COG0614	
+648181992	Dda3937_02847	ferric achromobactin inner membrane permease	COG0609	
+648181993	Dda3937_02846	ferric achromobactin inner membrane permease	COG0609	
+648181994	Dda3937_02845	ATP binding protein from the ferric achromobactin permease	COG1120	
+648182028	Dda3937_03021	alkanesulfonates transport system permease	COG0600	
+648182032	Dda3937_03017	alkanesulfonates-binding protein	COG0715	
+648182033	Dda3937_03016	TonB-dependent receptor	COG1629	
+648182039	Dda3937_03010	methionine ABC transporter substrate-binding protein	COG1464	
+648182045	Dda3937_03004	alkanesulfonates ABC transporter ATP-binding protein/sulfonate ABC transporter ATP-binding subunit SsuB	COG1116	
+648182046	Dda3937_03003	alkanesulfonates transport system permease	COG0600	
+648182047	Dda3937_03002	alkanesulfonates-binding protein	COG0715	
+648182055	Dda3937_02994	ABC transporter permease	COG0601	
+648182056	Dda3937_02993	ABC transporter permease	COG1173	
+648182076	Dda3937_00373	Manganese ABC transporter inner membrane permease SitD	COG1108	
+648182077	Dda3937_00374	Manganese ABC transporter inner membrane permease SitC	COG1108	
+648182078	Dda3937_00375	Manganese ABC transporter ATP-binding protein SitB	COG1121	
+648182079	Dda3937_00376	Manganese ABC transporter periplasmic-binding protein SitA	COG0803	
+648182116	Dda3937_03590	Cyanate hydratase	COG1513	
+648182180	Dda3937_03766	Ferric iron ABC transporter iron-binding protein	COG1840	
+648182181	Dda3937_03767	Ferric iron ABC transporter permease	COG1178	
+648182196	Dda3937_02914	opine ABC transporter ATP-binding protein	COG0444	
+648182198	Dda3937_02912	ABC transporter permease	COG0601	
+648182199	Dda3937_02911	opine transporter, membrane protein	COG1173	
+648182227	Dda3937_02884	Fe-binding and storage protein	COG0783	
+648182233	Dda3937_02457	Cyanate transport protein cynX	COG2807	
+648182255	Dda3937_03439	oligopeptide transporter	COG0601	
+648182257	Dda3937_01247	ABC transporter ATPase	COG0444	
+648182264	Dda3937_01238	arsenate reductase	COG1393	
+648182298	Dda3937_03819	oxalate/formate antiporter	COG2223	
+648182359	Dda3937_03491	methionine ABC transporter substrate-binding protein	COG1464	
+648182392	Dda3937_02367	hybrid cluster protein [4Fe-2S-2O] protein in anaerobic terminal reductases	COG1151	
+648182417	Dda3937_03349	formate transporter	COG2116	
+648182468	Dda3937_00009	blue copper oxidase cueO	COG2132	
+648182490	Dda3937_01608	copper homeostasis protein	COG3142	
+648182504	Dda3937_01620	HoxN/HupN/NixA family nickel/cobalt transporter	COG3376	
+648182507	Dda3937_01623	high-affinity zinc transport system membrane protein	COG1108	
+648182508	Dda3937_01624	high-affinity zinc transport system ATP-binding protein	COG1121	
+648182509	Dda3937_01625	Zinc ABC transporter periplasmic-binding protein ZnuA	COG4531	
+648182525	Dda3937_03566	Protein yobA	COG2372	
+648182526	Dda3937_00085	Copper resistance protein D	COG1276	
+648182527	Dda3937_00086	ferritin iron storage protein (cytoplasmic)	COG1528	
+648182540	Dda3937_03325	putative transport system permease	COG0601	
+648182543	Dda3937_03328	ABC transporter nucleotide binding/ATPase (peptide)	COG0444	
+648182573	Dda3937_04053	oligopeptide ABC transporter membrane protein	COG0601	
+648182574	Dda3937_04052	oligopeptide transport system permease OppC	COG1173	
+648182575	Dda3937_04051	oligopeptide ABC transporter ATP-binding protein	COG0444	
+648182655	Dda3937_00076	Fe3+ ABC transporter periplasmic protein	COG1840	
+648182656	Dda3937_03862	Kup system potassium uptake protein	COG3158	
+648182685	Dda3937_01629	superoxide dismutase, Cu, Zn	COG2032	
+648182732	Dda3937_02937	Fe3+ ABC transporter periplasmic protein	COG1840	
+648182764	Dda3937_03723	putative inner membrane protein	COG0861	
+648182770	Dda3937_04594	hypothetical protein	COG1971	
+648182817	Dda3937_02094	Ferrous iron transport protein B	COG0370	
+648182818	Dda3937_02095	Ferrous iron transport protein A	COG1918	
+648182898	Dda3937_03794	respiratory nitrate reductase gamma subunit	COG2181	
+648182899	Dda3937_03793	respiratory nitrate reductase chaperone NarJ	COG2180	
+648182900	Dda3937_03792	respiratory nitrate reductase beta subunit	COG1140	
+648182901	Dda3937_03791	nitrate reductase 1, subunit alpha	COG5013	
+648182904	Dda3937_03788	nitrate/nitrite transporter	COG2223	
+648182955	Dda3937_00110	chloride channel protein	COG0038	
+648182957	Dda3937_00112	putative glutathione transporter, ATP-binding protein	COG1124	
+648182958	Dda3937_00113	dipeptide transport ATP-binding protein dppD	COG0444	
+648182959	Dda3937_00114	dipeptide transport system permease dppC	COG1173	
+648182960	Dda3937_00115	putative transporter, permease	COG0601	
+648182961	Dda3937_00116	cation transport protein chac	COG3703	
+648182963	Dda3937_00118	calcium/sodium:proton antiporter	COG0387	
+648182964	Dda3937_00119	putative sulphate anion transporter	COG0659	
+648182987	Dda3937_03137	putative Zn(II) transporter	COG0598	
+648183069	Dda3937_03836	putative xylanase	COG2382	
+648183102	Dda3937_03511	alkanesulfonates-binding protein	COG0715	
+648183104	Dda3937_03509	alkanesulfonates transport system permease	COG0600	
+648183105	Dda3937_03508	alkanesulfonates ABC transporter ATP-binding protein/sulfonate ABC transporter ATP-binding subunit SsuB	COG1116	
+648183389	Dda3937_01847	Nitrate ABC transporter ATP-binding protein	COG1116	
+648183390	Dda3937_01846	Nitrate ABC transporter permease	COG0600	
+648183391	Dda3937_01845	Nitrate ABC transporter nitrate-binding protein	COG0715	
+648183430	Dda3937_01809	putative multicopper oxidase	COG2132	
+648183433	Dda3937_01806	NADH:ubiquinone oxidoreductase membrane subunit L	COG1009	
+648183514	Dda3937_03032	ferric chrysobactin binding protein;permease periplasmic component	COG4592	
+648183517	Dda3937_03034	ferrichrysobactin transporter; ABC permease ; inner membrane protein	COG0609	
+648183518	Dda3937_03035	ferrichrysobactin transporter: ABC permease; inner membrane protein	COG4779	
+648183519	Dda3937_03036	ferrichrysobactin transporter, permease; ATPase	COG1120	
+648183523	Dda3937_03040	chrysobactin oligopeptidase cbsH	COG2382	
+648183525	Dda3937_03042	ferrichrysobactin receptor	COG1629	
+648183593	Dda3937_01662	Urea carboxylase-related ABC transporter ATPase	COG1116	
+648183594	Dda3937_01663	Urea carboxylase-related ABC transporter permease	COG0600	
+648183595	Dda3937_01664	Urea carboxylase-related ABC transporter periplasmic substrate-binding protein	COG0715	
+648183623	Dda3937_01688	phosphate ABC transporter ATP-binding protein	COG1117	
+648183624	Dda3937_01689	phosphate ABC transporter permease	COG4985	
+648183626	Dda3937_01691	polyphosphate kinase, component of RNA degradosome	COG0855	
+648183627	Dda3937_01692	Exopolyphosphatase	COG0248	
+648183635	Dda3937_01699	sulfur transfer protein	COG2920	
+648183699	Dda3937_03699	3-mercaptopyruvate sulfurtransferase	COG2897	
+648183713	Dda3937_02377	Periplasmic binding protein	COG0614	
+648183714	Dda3937_02378	Fe3+-siderophore ABC transporter permease	COG0609	
+648183715	Dda3937_02379	Fe3+-siderophores ABC transporters ATP-binding protein	COG1120	
+648183716	Dda3937_02380	Iron(III) dicitrate-binding protein	COG0614	
+648183717	Dda3937_02381	hypothetical protein	COG2215	
+648183773	Dda3937_03504	sulfate/thiosulfate ABC transporter ATP-binding protein	COG1118	
+648183774	Dda3937_03505	Sulfate transport system permease cysW	COG4208	
+648183775	Dda3937_03506	Sulfate transport system permease cysT	COG0555	
+648183776	Dda3937_02639	sulfate ABC transporter periplasmic-binding protein	COG1613	
+648183782	Dda3937_00499	periplasmic binding component of cobalamin (vitamin B-12) transporter	COG0614	
+648183785	Dda3937_00502	H(+)/Cl(-) exchange transporter clcA	COG0038	
+648183787	Dda3937_00504	iron-hydroxamate ABC transporter membrane protein	COG0609	
+648183788	Dda3937_00505	iron-hydroxamate ABC transporter periplasmic-binding protein	COG0614	
+648183789	Dda3937_00506	iron-hydroxamate ABC transporter ATP-binding protein	COG1120	
+648183804	Dda3937_04073	carbonic anhydrase	COG0288	
+648183810	Dda3937_04384	Ferric iron ABC transporter permease	COG1178	
+648183831	Dda3937_01573	hypothetical protein	COG1496	
+648183873	Dda3937_03164	catalase	COG0753	
+648183895	Dda3937_03185	ABC transporter inner membrane protein	COG0601	
+648183896	Dda3937_03186	ABC transporter permease	COG1173	
+648183993	Dda3937_03915	receptor component of DL-methionine uptake transporter (MUT)	COG1464	
+648184005	Dda3937_03903	adenylylsulfate kinase (EC 2.7.1.25)	COG0529	
+648184006	Dda3937_03902	sulfate adenylyltransferase, subunit 1	COG2895	
+648184010	Dda3937_00210	sulfite reductase, subunit beta, NAD(P)-binding protein, heme-binding protein	COG0155	
+648184011	Dda3937_00209	sulfite reductase (NADPH) alpha subunit (EC 1.8.1.2)	COG0369	
+648184021	Dda3937_00200	Iron-chelating periplasmic-binding protein	COG0614	
+648184022	Dda3937_00199	Ferrichrome-iron receptor	COG1629	
+648184047	Dda3937_00176	putative adenylate cyclase	COG3025	
+648184054	Dda3937_00169	inorganic pyrophosphatase	COG0221	
+648184062	Dda3937_00161	PAPS (adenosine 3'-phosphate 5'-phosphosulfate) 3'(2'),5'-bisphosphate nucleotidase	COG1218	
+648184120	Dda3937_04080	ABC transporter periplasmic substrate-binding protein	COG1840	
+648184186	Dda3937_03085	ABC transporter membrane protein	COG4149	
+648184187	Dda3937_03086	putative extracellular solute-binding protein	COG0725	
+648184188	Dda3937_03087	Zinc ABC transporter ATP-binding protein ZnuC	COG1121	
+648184189	Dda3937_03088	Zinc ABC transporter inner membrane permease ZnuB	COG1108	
+648184190	Dda3937_04298	Zinc ABC transporter periplasmic-binding protein ZnuA	COG0803	
+648184212	Dda3937_04300	TonB-dependent receptor; outer membrane receptor for ferrienterochelin and colicins	COG4771	
+648184264	Dda3937_01354	Iron utilization protein	COG2375	
+648184268	Dda3937_01358	membrane protein of thiamin ABC transporter	COG1178	
+648184292	Dda3937_01382	protein associated with Co2+ and Mg2+ efflux	COG2967	
+648184310	Dda3937_00383	sodium-proton antiporter	COG3004	
+648184319	Dda3937_00391	hypothetical protein	COG3022	
+648184419	Dda3937_02165	nitrogenase molybdenum-cofactor synthesis protein NifN	COG2710	
+648184420	Dda3937_02164	nitrogenase molybdenum-cofactor synthesis protein NifE	COG2710	
+648184427	Dda3937_02157	Mo-nitrogenase MoFe protein subunit NifK (EC 1.18.6.1)	COG2710	
+648184428	Dda3937_02156	Mo-nitrogenase MoFe protein subunit NifD precursor (EC 1.18.6.1)	COG2710	
+648184429	Dda3937_02155	nitrogenase iron protein	COG1348	
+648184452	Dda3937_02133	Sodium-dependent phosphate transporter	COG1283	
+648184475	Dda3937_01520	NAD-binding component of TrK potassium transporter	COG0569	
+648184507	Dda3937_04412	bacterioferritin, iron storage and detoxification protein	COG2193	
+648184508	Dda3937_00473	bacterioferritin-associated ferredoxin	COG2906	
+648184514	Dda3937_00522	subunit of the heterohexameric YheLMN (TusBCD) mediator of sulfur relay	COG2923	
+648184515	Dda3937_00523	tRNA 2-thiouridine synthesizing protein, subunit of sulfur transfer complex, TusD	COG1553	
+648184531	Dda3937_00538	Kef-type potassium/proton antiporter, CPA2 family (TC 2.A.37.1)	COG0475	
+648184547	Dda3937_00554	major facilitator superfamily protein	COG2807	
+648184597	Dda3937_00336	thiosulfate sulfurtransferase (EC 2.8.1.1)	COG0607	
+648184632	Dda3937_00303	magnesium/nickel/cobalt transporter	COG0598	
+648184640	Dda3937_00295	iron-sulfur cluster (FeS) biosynthesis protein	COG1965	
+648184676	Dda3937_00264	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	COG0248	
+648184705	Dda3937_02080	Potassium uptake protein TrkH	COG0168	
+648184740	Dda3937_02046	putative rhodanese-related sulfurtransferase	COG0607	
+648184772	Dda3937_03250	dipeptide transport system permease	COG0601	
+648184773	Dda3937_03249	ABC transporter permease	COG1173	
+648184779	Dda3937_03243	ABC transporter ATP-binding protein	COG1124	
+648184780	Dda3937_03242	olgopeptide transport ATP-binding protein	COG0444	
+648184781	Dda3937_03241	dipeptide transport system permease	COG1173	
+648184782	Dda3937_03240	dipeptide transport system permease	COG0601	
+648184841	Dda3937_00978	nickel/cobalt exporter	COG2215	
+648184854	Dda3937_00990	superoxide dismutase, Mn	COG0605	
+648184861	Dda3937_00997	Urea carboxylase-related ABC transporter periplasmic substrate-binding protein	COG0715	
+648184862	Dda3937_00998	Urea carboxylase-related ABC transporter permease	COG0600	
+648184863	Dda3937_00999	Urea carboxylase-related ABC transporter ATPase	COG1116	
+648184885	Dda3937_01020	ABC transporter permease	COG0601	
+648184886	Dda3937_01021	membrane protein, ABC transporter	COG1173	
+648184960	Dda3937_01093	negative regulator of PhoR/PhoB two-component regulator	COG0704	
+648184961	Dda3937_01094	phosphate ABC transporter ATP-binding protein, PhoT family (TC 3.A.1.7.1)	COG1117	
+648184962	Dda3937_01095	phosphate ABC transporter membrane protein	COG0581	
+648184963	Dda3937_01096	phosphate ABC transporter membrane protein 1, PhoT family (TC 3.A.1.7.1)	COG0573	
+648184964	Dda3937_01097	phosphate ABC transporter periplasmic-binding component	COG0226	

@@ -1,0 +1,16 @@
+Gene ID	Locus Tag	Name	Function	
+648181181	Dda3937_01738	Conjugative transfer protein TrbB	COG4962	
+648181390	Dda3937_00852	Prepilin peptidase dependent protein A	COG2165	
+648181393	Dda3937_00855	putative prepilin peptidase dependent protein	COG4967	
+648183061	Dda3937_04114	general secretion pathway protein G	COG2165	
+648183062	Dda3937_04115	general secretion pathway protein F	COG1459	
+648183063	Dda3937_04615	general secretion pathway protein E	COG2804	
+648183544	Dda3937_02418	type II secretory pathway, component OutG	COG2165	
+648183545	Dda3937_02417	general secretion pathway protein F	COG1459	
+648183546	Dda3937_02416	general secretion pathway protein E	COG2804	
+648183694	Dda3937_03703	putative fimbrial biogenesis protein	COG3063	
+648184087	Dda3937_02602	putative transporter	COG2805	
+648184226	Dda3937_02243	putative major pilin subunit	COG4969	
+648184227	Dda3937_02242	protein transport protein HofB	COG2804	
+648184228	Dda3937_02241	type 4 fimbrial assembly protein pilC	COG1459	
+648184566	Dda3937_00075	type IV pilus biogenesis protein PilN	COG3166	

@@ -1,0 +1,113 @@
+Gene ID	Locus Tag	Name	Function	
+648180482	Dda3937_03045	glycerophosphoryl diester phosphodiesterase	COG0584	
+648180618	Dda3937_01600	acetyl-CoA carboxylase, biotin carboxylase subunit	COG0439	
+648180619	Dda3937_04028	acetyl CoA carboxylase, BCCP subunit	COG0511	
+648180656	Dda3937_00692	putative ABC-type organic solvent transporter	COG2854	
+648180699	Dda3937_01255	1-acyl-sn-glycerol-3-phosphate acyltransferase	COG0204	
+648180787	Dda3937_01335	oxidoreductase, short-chain dehydrogenase/reductase family protein	COG1028	
+648180793	Dda3937_01341	2,3-butanediol dehydrogenase/acetoin (diacetyl) reductase	COG1028	
+648180849	Dda3937_02666	oxidoreductase, short-chain dehydrogenase/reductase family protein	COG3967	
+648180911	Dda3937_02724	glycerol-3-phosphate acyltransferase (EC 2.3.1.15)	COG2937	
+648180912	Dda3937_02725	diacylglycerol kinase	COG0818	
+648180988	Dda3937_02331	putative lipid carrier protein	COG3154	
+648181032	Dda3937_04703	glucose-methanol-choline (GMC) oxidoreductase:NAD binding site	COG2303	
+648181046	Dda3937_02278	putative methyltransferase	COG3963	
+648181059	Dda3937_02265	Lipid A biosynthesis lauroyl acyltransferase	COG1560	
+648181065	Dda3937_02455	acetyl-coenzyme A synthetase	COG0365	
+648181136	Dda3937_01221	3-oxoacyl-[acyl-carrier-protein] synthase II (EC 2.3.1.41)	COG0304	
+648181280	Dda3937_01423	Enoyl-CoA hydratase	COG1024	
+648181307	Dda3937_01449	putative lipase/esterase	COG0657	
+648181427	Dda3937_00883	1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	COG0743	
+648181428	Dda3937_00884	undecaprenyl pyrophosphate synthetase (di-trans,poly-cis-decaprenylcistransferase)	COG0020	
+648181429	Dda3937_04310	CDP-diglyceride synthase	COG0575	
+648181434	Dda3937_01887	3-hydroxyacyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.-)	COG0764	
+648181439	Dda3937_01892	acetyl-CoA carboxylase, carboxytransferase, subunit alpha	COG0825	
+648181494	Dda3937_01946	ACP phosphodiesterase	COG3124	
+648181507	Dda3937_01959	phosphatidylglycerophosphatase A	COG1267	
+648181508	Dda3937_01960	1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7)	COG1154	
+648181521	Dda3937_01972	protoheme IX farnesyltransferase	COG0109	
+648181545	Dda3937_03307	acyl-CoA thioesterase II	COG1946	
+648181597	Dda3937_01785	2-succinylbenzoyl-CoA synthetase (EC 6.2.1.26)	COG0318	
+648181715	Dda3937_04501	thioesterase	COG0824	
+648181788	Dda3937_03279	putative short-chain dehydrogenase	COG1028	
+648181874	Dda3937_00776	Cyclopropane-fatty-acyl-phospholipid synthase	COG2230	
+648182049	Dda3937_03000	CDP-diacylglycerol phosphotidylhydrolase	COG2134	
+648182058	Dda3937_02991	Endo-1,4-beta-xylanase	COG0657	
+648182069	Dda3937_00367	malonate decarboxylase subunit beta	COG0777	
+648182073	Dda3937_00371	malonyl CoA acyl carrier protein transacylase	COG0331	
+648182082	Dda3937_00379	3-oxoacyl-[acyl-carrier protein] reductase	COG1028	
+648182113	Dda3937_04709	Lipase	COG0657	
+648182151	Dda3937_03738	cytosolic long-chain acyl-CoA thioester hydrolase family protein	COG1607	
+648182185	Dda3937_04007	cardiolipin synthetase	COG1502	
+648182200	Dda3937_02910	glycerophosphoryl diester phosphodiesterase	COG0584	
+648182249	Dda3937_03435	putative pectinesterase	COG4677	
+648182266	Dda3937_01236	oxidoreductase	COG1028	
+648182330	Dda3937_03616	3-oxoacyl-[acyl-carrier-protein] synthase KASIII	COG0332	
+648182332	Dda3937_03615	hypothetical protein	COG3882	
+648182443	Dda3937_04564	apo-citrate lyase phosphoribosyl-dephospho-CoA transferase	COG3697	
+648182511	Dda3937_04573	acyl (myristate) transferase	COG1560	
+648182578	Dda3937_00561	cardiolipin synthase 1	COG1502	
+648182584	Dda3937_00566	esterase	COG1607	
+648182600	Dda3937_00582	putative oxoacyl-(acyl carrier protein) reductase	COG1028	
+648182670	Dda3937_01643	glucose-methanol-choline (GMC) oxidoreductase:NAD binding site	COG2303	
+648182673	Dda3937_01641	glycerophosphoryl diester phosphodiesterase	COG0584	
+648182701	Dda3937_00035	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	COG1947	
+648182727	Dda3937_02941	putative short-chain dehydrogenase	COG1028	
+648182777	Dda3937_04595	2-deoxy-D-gluconate 3-dehydrogenase	COG1028	
+648182784	Dda3937_03363	pectin acetylesterase	COG0657	
+648182858	Dda3937_00623	SbmA protein	COG1133	
+648183016	Dda3937_03108	Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)	COG0623	
+648183030	Dda3937_04035	phosphatidylglycerophosphatase B	COG0671	
+648183050	Dda3937_04104	Cyclopropane-fatty-acyl-phospholipid synthase	COG2230	
+648183125	Dda3937_03647	putative glutathione peroxidase	COG0386	
+648183155	Dda3937_02246	3-oxoacyl-[acyl-carrier-protein] synthase KASII	COG0304	
+648183156	Dda3937_04625	acyl carrier protein (ACP)	COG0236	
+648183157	Dda3937_04626	3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100)	COG1028	
+648183158	Dda3937_04204	malonyl-CoA-[acyl-carrier-protein] transacylase	COG0331	
+648183159	Dda3937_04203	3-oxoacyl-[acyl-carrier-protein] synthase III	COG0332	
+648183160	Dda3937_04202	phosphate:acyl-[acyl carrier protein] acyltransferase	COG0416	
+648183175	Dda3937_03561	Lipid A biosynthesis lauroyl acyltransferase	COG1560	
+648183191	Dda3937_03410	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase (EC 4.2.1.60)	COG0764	
+648183192	Dda3937_03411	choline dehydrogenase (EC 1.1.99.1)	COG2303	
+648183276	Dda3937_03356	(R)-specific enoyl-CoA hydratase	COG2030	
+648183287	Dda3937_03958	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	COG0558	
+648183457	Dda3937_04017	putative NUDIX hydrolase	COG1443	
+648183471	Dda3937_02103	acetyl-CoA carboxylase, beta (carboxyltransferase) subunit	COG0777	
+648183483	Dda3937_02115	3-oxoacyl-[acyl-carrier-protein] synthase I	COG0304	
+648183501	Dda3937_00489	Enoyl-CoA hydratase/Delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase/3-hydroxyacyl-CoA dehydrogenase/3-hydroxybutyryl-CoA epimerase	COG1250	
+648183502	Dda3937_00488	beta-ketoacyl-CoA thiolase, anaerobic, subunit	COG0183	
+648183504	Dda3937_00486	long-chain fatty acid outer membrane transporter	COG2067	
+648183529	Dda3937_02431	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	COG1028	
+648183692	Dda3937_03705	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (EC 1.17.4.3)	COG0821	
+648183727	Dda3937_03374	Pectinesterase	COG4677	
+648183747	Dda3937_03854	holo-[acyl-carrier-protein] synthase	COG0736	
+648183871	Dda3937_03162	2,3-butanediol dehydrogenase/acetoin (diacetyl) reductase	COG1028	
+648183881	Dda3937_03171	phosphatidylserine decarboxylase	COG0688	
+648183938	Dda3937_00926	medium-long-chain fatty acyl-CoA dehydrogenase	COG1960	
+648183979	Dda3937_00887	phosphatidylserine synthase (CDP-diacylglycerol-serine O-phosphatidyltransferase)	COG1502	
+648184001	Dda3937_03907	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	COG0245	
+648184002	Dda3937_03906	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	COG1211	
+648184030	Dda3937_00191	tartronate semialdehyde reductase (TSAR)	COG2084	
+648184050	Dda3937_00173	undecaprenyl pyrophosphate phosphatase	COG1968	
+648184052	Dda3937_00171	glycerol-3-phosphate acyltransferase PlsY	COG0344	
+648184097	Dda3937_02592	bifunctional 2-acylglycerophospho-ethanolamine acyl transferase/acyl-acyl carrier protein synthetase	COG0318	
+648184207	Dda3937_02634	oxidoreductase, short chain dehydrogenase/reductase family protein	COG1028	
+648184258	Dda3937_02453	Long-chain-fatty-acid--CoA ligase	COG1022	
+648184303	Dda3937_01393	4-hydroxy-3-methylbut-2-enyl diphosphate reductase (EC 1.17.1.2)	COG0761	
+648184391	Dda3937_00460	Lipase	COG0657	
+648184435	Dda3937_02150	phosphatidylserine decarboxylase	COG0688	
+648184619	Dda3937_00315	periplasmic glycerophosphodiester phosphodiesterase	COG0584	
+648184621	Dda3937_00313	lysophospholipase L(2)	COG2267	
+648184708	Dda3937_02077	Enoyl-CoA hydratase/Delta(3)-cis-delta(2)-trans-enoyl-CoA isomerase/3-hydroxyacyl-CoA dehydrogenase/3-hydroxybutyryl-CoA epimerase	COG1250	
+648184709	Dda3937_02076	3-ketoacyl-CoA thiolase	COG0183	
+648184713	Dda3937_02072	NADH oxidase	COG0446	
+648184810	Dda3937_03214	Long-chain-fatty-acid--CoA ligase	COG0318	
+648184812	Dda3937_03212	D-alanine--poly(phosphoribitol) ligase subunit 1	COG0318	
+648184813	Dda3937_03211	D-alanine--poly(phosphoribitol) ligase subunit 1	COG0318	
+648184815	Dda3937_03209	acyl-Coa dehydrogenase, short-chain specific	COG1960	
+648184818	Dda3937_00957	acyl-Coa dehydrogenase, short-chain specific	COG1960	
+648184833	Dda3937_00971	3-oxoacyl-[acyl-carrier-protein] synthase KASIII	COG0332	
+648184866	Dda3937_01002	Urea carboxylase	COG4770	
+648184899	Dda3937_01034	Formyl-coenzyme A transferase	COG1804	
+648184901	Dda3937_01036	putative formyl-coenzyme A transferase	COG1804	
+648184974	Dda3937_00137	Nikkomycin biosynthesis protein, carboxylase	COG0439	

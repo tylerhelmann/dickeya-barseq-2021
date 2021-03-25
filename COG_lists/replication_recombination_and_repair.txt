@@ -1,0 +1,117 @@
+Gene ID	Locus Tag	Name	Function	
+648180349	Dda3937_01112	DNA polymerase I (EC 2.7.7.7)	COG0749	
+648180363	Dda3937_01125	ATP-dependent DNA helicase RecG (EC 3.6.1.-)	COG1200	
+648180368	Dda3937_01130	DNA ligase	COG0272	
+648180522	Dda3937_03886	replication restart DNA helicase PriA	COG1198	
+648180578	Dda3937_00239	Endonuclease V (EC 3.1.21.-)	COG1515	
+648180580	Dda3937_00241	HU, DNA-binding transcriptional regulator, subunit alpha	COG0776	
+648180682	Dda3937_00719	putative endonuclease	COG0792	
+648180695	Dda3937_01251	Topoisomerase IV subunit B	COG0187	
+648180698	Dda3937_01254	Topoisomerase IV subunit A	COG0188	
+648180746	Dda3937_01297	DNA polymerase III, chi subunit (EC 2.7.7.7)	COG2927	
+648180751	Dda3937_01301	Integrase	COG0582	
+648180899	Dda3937_02713	Integrase	COG0582	
+648180951	Dda3937_03533	DNA primase	COG0358	
+648180963	Dda3937_02352	GTPase involved in cell partioning and DNA repair	COG0536	
+648180984	Dda3937_02335	ATP-dependent RNA helicase	COG0513	
+648180990	Dda3937_02329	putative endonuclease	COG2827	
+648181001	Dda3937_02318	DNA polymerase III, psi subunit (EC 2.7.7.7)	COG3050	
+648181026	Dda3937_02296	site-specific tyrosine recombinase	COG4974	
+648181028	Dda3937_02294	ssDNA exonuclease, 5' --> 3'-specific	COG0608	
+648181111	Dda3937_01199	DNA gyrase inhibitory protein	COG3449	
+648181147	Dda3937_01705	Phage integrase	COG0582	
+648181148	Dda3937_01706	Integrase	COG4973	
+648181208	Dda3937_01762	Phage integrase	COG4974	
+648181249	Dda3937_02547	recombination and repair protein	COG0497	
+648181299	Dda3937_01441	DNA-3-methyladenine glycosylase II	COG0122	
+648181300	Dda3937_01442	alkylated DNA repair protein alkB	COG3145	
+648181344	Dda3937_01484	DNA gyrase inhibitory protein	COG3449	
+648181364	Dda3937_03406	Integrase	COG0582	
+648181373	Dda3937_03399	A/G-specific DNA-adenine glycosylase (EC 3.2.2.-)	COG1194	
+648181384	Dda3937_03389	DNA mismatch repair protein MutH	COG3066	
+648181411	Dda3937_00869	Ssb-binding protein	COG0258	
+648181437	Dda3937_01890	RNase HII (EC 3.1.26.4)	COG0164	
+648181438	Dda3937_01891	DNA polymerase III subunit alpha	COG0587	
+648181446	Dda3937_01899	DNA mismatch repair protein MutS	COG0249	
+648181483	Dda3937_01935	DNA recombination-dependent growth factor C	COG2974	
+648181485	Dda3937_01937	exonuclease, dsDNA, ATP-dependent	COG0419	
+648181486	Dda3937_01938	Exodeoxyribonuclease I subunit D (EC 3.1.11.1)	COG0420	
+648181510	Dda3937_01962	Exodeoxyribonuclease VII small subunit (EC 3.1.11.6)	COG1722	
+648181533	Dda3937_03317	HU, DNA-binding transcriptional regulator, subunit beta	COG0776	
+648181558	Dda3937_03295	restart primosome assembly protein PriC	COG3923	
+648181562	Dda3937_03291	DNA polymerase III/DNA elongation factor III, tau and subunit gammas	COG2812	
+648181564	Dda3937_03289	DNA replication and repair protein RecR	COG0353	
+648181586	Dda3937_01774	DNA gyrase subunit A	COG0188	
+648181652	Dda3937_02479	DNA polymerase III, delta subunit (EC 2.7.7.7)	COG1466	
+648181685	Dda3937_01556	negative regulator of replication initiation SeqA	COG3057	
+648181696	Dda3937_01546	deoxyribodipyrimidine photolyase, FAD-binding protein	COG0415	
+648181701	Dda3937_01541	Endonuclease VIII	COG0266	
+648182166	Dda3937_03753	Excinuclease ABC subunit B	COG0556	
+648182191	Dda3937_04013	putative ATP-dependent RNA helicase	COG0513	
+648182216	Dda3937_02894	ATP-dependent DNA helicase	COG1199	
+648182291	Dda3937_02190	Phage integrase	COG0582	
+648182300	Dda3937_04324	putative ATP-dependet helicase	COG1061	
+648182324	Dda3937_03621	Endonuclease IV (EC 3.1.21.-)	COG0648	
+648182393	Dda3937_02366	putative ATP-dependent endonuclease of the OLD family	COG3593	
+648182405	Dda3937_00131	recombination protein	COG2256	
+648182423	Dda3937_04067	integration host factor (IHF), DNA-binding protein, subunit beta	COG0776	
+648182448	Dda3937_03731	Exodeoxyribonuclease I subunit C (EC 3.1.11.1)	COG2925	
+648182503	Dda3937_01619	Holliday junction endonuclease RuvC (EC 3.1.22.4)	COG0817	
+648182505	Dda3937_01621	Holliday junction DNA helicase subunit RuvA	COG0632	
+648182506	Dda3937_01622	Holliday junction DNA helicase subunit RuvB	COG2255	
+648182557	Dda3937_04577	DNA topoisomerase III	COG0550	
+648182559	Dda3937_04048	Exodeoxyribonuclease III (EC 3.1.11.2)	COG0708	
+648182605	Dda3937_00587	DNA topoisomerase I, omega subunit	COG0550	
+648182607	Dda3937_00589	DNA-(apurinic or apyrimidinic site) lyase (EC 4.2.99.18)/endonuclease III (EC 3.2.2.-)	COG0177	
+648182688	Dda3937_04584	O-6-alkylguanine-DNA:cysteine-protein methyltransferase	COG0350	
+648182712	Dda3937_02955	ATP-dependent RNA helicase	COG0513	
+648182718	Dda3937_02949	DNA helicase/exodeoxyribonuclease V, alpha subunit (EC 3.1.11.5)	COG0507	
+648182719	Dda3937_02948	DNA helicase/exodeoxyribonuclease V, beta subunit (EC 3.1.11.5)	COG1074	
+648182720	Dda3937_02947	DNA helicase/exodeoxyribonuclease V, gamma subunit (EC 3.1.11.5)	COG1330	
+648182757	Dda3937_03716	ATP-dependent DNA helicase DinG	COG1199	
+648182791	Dda3937_03677	integration host factor (IHF), DNA-binding protein, subunit alpha	COG0776	
+648182936	Dda3937_03803	hypothetical protein	COG2840	
+648182937	Dda3937_03807	DNA-invertase	COG1961	
+648183043	Dda3937_00092	RNAse T (EC 3.1.13.-)	COG0847	
+648183133	Dda3937_03640	transcription-repair coupling factor	COG1197	
+648183189	Dda3937_00022	hypothetical protein	COG3120	
+648183288	Dda3937_03959	Excinuclease ABC subunit C	COG0322	
+648183297	Dda3937_00080	Integrase	COG0582	
+648183359	Dda3937_01874	antirestriction protein	COG4227	
+648183499	Dda3937_00491	hypothetical protein	COG2840	
+648183684	Dda3937_03713	Exodeoxyribonuclease VII large subunit (EC 3.1.11.6)	COG1570	
+648183749	Dda3937_03852	DNA replication and repair protein RecO	COG1381	
+648183761	Dda3937_03841	ATP-dependent RNA helicase	COG0513	
+648183763	Dda3937_03839	Uracil-DNA glycosylase (EC 3.2.2.-)	COG0692	
+648183819	Dda3937_03975	DNA polymerase III subunit epsilon	COG0847	
+648183820	Dda3937_03974	ribonuclease HI	COG0328	
+648183863	Dda3937_03154	DNA strand exchange and recombination protein with protease and nuclease activity	COG0468	
+648183923	Dda3937_00938	Integrase	COG0582	
+648183933	Dda3937_00929	DNA polymerase IV	COG0389	
+648184044	Dda3937_00179	DNA ligase, NAD(+)-dependent	COG0272	
+648184071	Dda3937_02618	restart primosome assembly protein PriB	COG2965	
+648184131	Dda3937_03445	Replicative DNA helicase	COG0305	
+648184156	Dda3937_03467	ATPase and DNA damage recognition protein of nucleotide excision repair excinuclease UvrABC	COG0178	
+648184157	Dda3937_03468	single-strand binding protein	COG0629	
+648184232	Dda3937_02237	zinc-binding protein	COG3024	
+648184283	Dda3937_01373	DNA polymerase II	COG0417	
+648184284	Dda3937_01374	RNA polymerase-associated helicase protein (ATPase and RNA polymerase recycling factor)	COG0553	
+648184351	Dda3937_00422	nuclease	COG2356	
+648184365	Dda3937_00436	DNA mismatch repair protein MutL	COG0323	
+648184407	Dda3937_02177	DNA-3-methyladenine glycosylase II (EC 3.2.2.21)	COG0122	
+648184469	Dda3937_01526	putative DNA topoisomerase	COG0551	
+648184471	Dda3937_01524	Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake	COG0758	
+648184559	Dda3937_04185	DNA adenine methylase	COG0338	
+648184627	Dda3937_00308	ATP-dependent DNA helicase	COG0514	
+648184634	Dda3937_00301	ATP-dependent DNA helicase UvrD (EC 3.6.1.-)	COG0210	
+648184636	Dda3937_00299	site-specific tyrosine recombinase	COG4973	
+648184675	Dda3937_00265	ATP-dependent RNA helicase	COG0513	
+648184680	Dda3937_00260	ATP-dependent DNA helicase Rep (EC 3.6.1.-)	COG0210	
+648184724	Dda3937_02061	putative recombination limiting protein	COG1322	
+648184757	Dda3937_03265	DNA-(apurinic or apyrimidinic site) lyase (EC 4.2.99.18)	COG0266	
+648184760	Dda3937_03262	DNA replication and repair protein RadC	COG2003	
+648184877	Dda3937_01013	DNA-3-methyladenine glycosylase I (EC 3.2.2.20)	COG2818	
+648184923	Dda3937_01057	DNA gyrase subunit B	COG0187	
+648184924	Dda3937_01058	DNA replication and repair protein RecF	COG1195	
+648184925	Dda3937_01059	DNA polymerase III, subunit beta	COG0592	
+648184926	Dda3937_01060	chromosomal replication initiator protein DnaA, DNA-binding transcriptional dual regulator	COG0593	

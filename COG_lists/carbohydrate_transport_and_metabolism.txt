@@ -1,0 +1,320 @@
+Gene ID	Locus Tag	Name	Function	
+648180334	Dda3937_02355	putative cytoplasmic sugar-binding protein	COG1869	
+648180335	Dda3937_02356	ribose ABC transporter ATP-binding protein	COG1129	
+648180336	Dda3937_02357	D-ribose ABC transporter membrane protein	COG1172	
+648180337	Dda3937_02358	D-ribose ABC transporter periplasmic-binding protein	COG1879	
+648180338	Dda3937_02359	ribokinase	COG0524	
+648180374	Dda3937_01135	MFS superfamily transporter	COG2814	
+648180376	Dda3937_01137	putative transporter	COG2814	
+648180378	Dda3937_01139	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	COG1175	
+648180379	Dda3937_01140	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)	COG0395	
+648180380	Dda3937_01141	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)	COG1653	
+648180389	Dda3937_01149	transcriptional regulator FrcR for fructose utilization, ROK family	COG1940	
+648180390	Dda3937_01150	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)	COG2182	
+648180391	Dda3937_01151	Sugar ABC transporter permease	COG1175	
+648180392	Dda3937_01152	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)	COG0395	
+648180393	Dda3937_01153	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)	COG3839	
+648180405	Dda3937_02522	Mannonate dehydratase	COG1312	
+648180410	Dda3937_02527	D-ribulokinase	COG1069	
+648180413	Dda3937_02530	putative cytoplasmic protein	COG4692	
+648180419	Dda3937_02536	2-oxoglutarate/malate translocator	COG0471	
+648180449	Dda3937_02001	2-dehydro-3-deoxygluconate kinase	COG0524	
+648180453	Dda3937_02004	transporter	COG2814	
+648180478	Dda3937_02029	periplasmic binding protein of sn-glycerol 3-phosphate transport system	COG1653	
+648180479	Dda3937_04431	glycerol 3-phosphate ABC transporter membrane protein	COG1175	
+648180480	Dda3937_03043	glycerol-3-phosphate ABC transporter membrane protein	COG0395	
+648180481	Dda3937_03044	glycerol-3-phosphate ABC transporter ATP-binding protein	COG3839	
+648180503	Dda3937_03867	6-phosphofructokinase (EC 2.7.1.11)	COG0205	
+648180507	Dda3937_03871	triosephosphate isomerase (EC 5.3.1.1)	COG0149	
+648180511	Dda3937_03875	Fructose-1,6-bisphosphatase, GlpX type	COG1494	
+648180513	Dda3937_03877	glycerol uptake facilitator protein	COG0580	
+648180603	Dda3937_01587	putative oxidoreductase, Zn-dependent and NAD(P)-binding protein	COG1064	
+648180642	Dda3937_00678	HPr-like nitrogen-regulatory protein NPr	COG1925	
+648180644	Dda3937_00680	PTS IIA-like nitrogen-regulatory protein PtsN	COG1762	
+648180651	Dda3937_00687	D-Arabinose 5-phosphate isomerase	COG0794	
+648180668	Dda3937_00704	Multidrug resistance transporter, Bcr/CflA family	COG2814	
+648180681	Dda3937_00718	DnaA initiator-associating factor	COG0279	
+648180711	Dda3937_01266	beta-fructofuranosidase (EC 3.2.1.26)	COG1621	
+648180712	Dda3937_01267	PTS system sucrose-specific IIB component, Glc family (TC 4.A.1.2.1)/PTS system sucrose-specific IIC component, Glc family (TC 4.A.1.2.1)	COG1263	
+648180713	Dda3937_01268	maltoporin (maltose/maltodextrin high-affinity receptor, phage lambda receptor protein)	COG4580	
+648180714	Dda3937_01269	Fructokinase	COG0524	
+648180732	Dda3937_04450	biofilm protein TabA	COG2731	
+648180734	Dda3937_01286	6-phospho-beta-glucosidase	COG2723	
+648180784	Dda3937_01332	transcriptional regulator, DeoR family	COG1349	
+648180785	Dda3937_01333	transketolase, N-terminal section	COG3959	
+648180786	Dda3937_01334	transketolase, C-terminal section	COG3958	
+648180788	Dda3937_01336	periplasmic binding protein of an ABC transporter	COG1879	
+648180790	Dda3937_01338	ABC transporter ATP-binding protein	COG1129	
+648180791	Dda3937_01339	membrane protein of an ABC transporter	COG1172	
+648180815	Dda3937_02874	rhamnulose-1-phosphate aldolase	COG0235	
+648180816	Dda3937_02875	L-rhamnose isomerase	COG4806	
+648180817	Dda3937_02876	rhamnulokinase	COG1070	
+648180904	Dda3937_02717	C4-dicarboxylate antiporter	COG2704	
+648180925	Dda3937_02738	hexuronate transport system	COG2271	
+648180926	Dda3937_02739	uronate isomerase	COG1904	
+648180927	Dda3937_02740	tagaturonate reductase (EC 1.1.1.58)	COG0246	
+648180928	Dda3937_02741	altronate hydrolase	COG2721	
+648180934	Dda3937_03551	pectate lyase	COG3866	
+648180937	Dda3937_03548	membrane protein regulates uhpT expression	COG2271	
+648180938	Dda3937_03547	hexose phosphate transport protein	COG2271	
+648180970	Dda3937_02345	phosphoglucosamine mutase (EC 5.4.2.10)	COG1109	
+648180993	Dda3937_02326	phosphopentomutase	COG1015	
+648181024	Dda3937_02298	MFS superfamily transporter	COG2271	
+648181053	Dda3937_02271	ABC transporter periplasmic binding protein	COG1653	
+648181054	Dda3937_02270	putative sugar ABC transporter ATP-binding protein	COG3839	
+648181056	Dda3937_02268	Inner membrane protein of binding-protein-dependent transport system	COG0395	
+648181057	Dda3937_02267	sugar ABC transporter permease	COG1175	
+648181080	Dda3937_01169	oligogalacturonide transporter	COG2211	
+648181082	Dda3937_01171	D-mannonate oxidoreductase	COG0246	
+648181093	Dda3937_01181	Xylosidase/arabinosidase	COG3507	
+648181094	Dda3937_01182	Xyloside transporter XynT	COG2211	
+648181103	Dda3937_01191	major facilitator family transporter	COG2814	
+648181110	Dda3937_01198	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase (EC 3.7.1.-)	COG3962	
+648181116	Dda3937_01204	sugar-binding periplasmic protein	COG1879	
+648181117	Dda3937_01205	sugar transport ATP-binding protein, ABC transporter	COG1129	
+648181118	Dda3937_01206	monosaccharide ABC transporter membrane protein, CUT2 family (TC 3.A.1.2.-)	COG1172	
+648181120	Dda3937_01208	5-keto-2-deoxygluconokinase/uncharacterized domain-containing protein	COG3892	
+648181121	Dda3937_01209	2-keto-myo-inositol dehydratase (EC 4.2.1.44)	COG1082	
+648181122	Dda3937_01210	5-deoxyglucuronate isomerase (EC 5.3.1.-)	COG3718	
+648181127	Dda3937_01214	major facilitator family transporter	COG2271	
+648181255	Dda3937_01398	transaldolase	COG0176	
+648181265	Dda3937_01408	N-glycosyltransferase	COG1819	
+648181282	Dda3937_01425	PTS system D-glucose-specific IIA component, Glc family (TC 4.A.1.1.1)	COG2190	
+648181283	Dda3937_01426	phosphoenolpyruvate--protein phosphotransferase (EC 2.7.3.9)	COG1080	
+648181284	Dda3937_01427	phosphohistidinoprotein-hexose phosphotransferase component of PTS system (Hpr)	COG1925	
+648181303	Dda3937_01445	Drug resistance transporter, EmrB/QacA family	COG2814	
+648181312	Dda3937_01454	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)	COG3839	
+648181313	Dda3937_01455	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)	COG0395	
+648181314	Dda3937_01456	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	COG1175	
+648181315	Dda3937_01457	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)	COG1653	
+648181316	Dda3937_01458	MFS transporter, DHA1 family, multidrug resistance protein	COG2814	
+648181472	Dda3937_01924	Citrate-proton symporter	COG2814	
+648181484	Dda3937_01936	manno(fructo)kinase	COG1940	
+648181517	Dda3937_04490	putative transporter	COG2814	
+648181526	Dda3937_01977	muropeptide transporter	COG2814	
+648181574	Dda3937_04155	Exo-poly-alpha-D-galacturonosidase	COG5434	
+648181610	Dda3937_02520	galactoside transport system permease	COG4211	
+648181611	Dda3937_02519	ATPase of galactose transport system	COG1129	
+648181612	Dda3937_02518	galactose-binding transport protein; receptor for galactose taxis	COG1879	
+648181674	Dda3937_04498	DNA-binding transcriptional dual regulator, repressor of N-acetylglucosamine	COG1940	
+648181675	Dda3937_03950	N-acetylglucosamine 6-phosphate deacetylase (EC 3.5.1.25)	COG1820	
+648181676	Dda3937_03951	glucosamine-6-phosphate deaminase	COG0363	
+648181677	Dda3937_03952	PTS system N-acetylglucosamine-specific transporter subunit IIA /PTS system N-acetylglucosamine-specific transporter subunit IIB /PTS system N-acetylglucosamine-specific transporter subunit IIC	COG1263	
+648181686	Dda3937_01555	phosphoglucomutase	COG0033	
+648181730	Dda3937_03989	phosphoglyceromutase 1	COG0588	
+648181736	Dda3937_03995	aldose 1-epimerase	COG2017	
+648181737	Dda3937_03996	galactokinase	COG0153	
+648181738	Dda3937_03997	galactose-1-phosphate uridylyltransferase	COG1085	
+648181747	Dda3937_03939	6-phosphogluconolactonase	COG2706	
+648181749	Dda3937_03937	monosaccharide ABC transporter substrate-binding protein, CUT2 family (TC 3.A.1.2.-)	COG1879	
+648181765	Dda3937_03925	O antigen biosynthesis rhamnosyltransferase rfbN	COG1216	
+648181770	Dda3937_03920	dTDP-rhamnosyl transferase rfbF	COG1216	
+648181775	Dda3937_03268	glycosyl transferase, group 2 family protein	COG1216	
+648181780	Dda3937_04507	gluconate-6-phosphate dehydrogenase, decarboxylating	COG0362	
+648181800	Dda3937_00845	6-phosphogluconolactonase	COG2706	
+648181857	Dda3937_00791	Proline/betaine transporter	COG2814	
+648181905	Dda3937_00749	putative transport transmembrane protein	COG2814	
+648181911	Dda3937_00746	beta-galactosidase	COG3250	
+648181946	Dda3937_02689	C4-dicarboxylate transporter DcuB	COG2704	
+648181966	Dda3937_04095	ATP-binding protein phnN; Guanylate kinase	COG3709	
+648181989	Dda3937_02850	2,4-dihydroxyhept-2-ene-1,7-dioic acid aldolase	COG3836	
+648182004	Dda3937_02835	outer membrane protein RomA	COG2220	
+648182007	Dda3937_02832	putative permease	COG2814	
+648182011	Dda3937_04527	citrate lyase, citryl-ACP lyase subunit beta	COG2301	
+648182019	Dda3937_03029	alpha-galactosidase	COG3345	
+648182062	Dda3937_02987	Multidrug resistance protein B	COG2814	
+648182081	Dda3937_00378	D-glucarate permease	COG2271	
+648182083	Dda3937_04318	transketolase, N-terminal section	COG3959	
+648182084	Dda3937_00659	transketolase, C-terminal section	COG3958	
+648182158	Dda3937_03745	beta-glucosidase	COG1472	
+648182168	Dda3937_03755	putative transferase with NAD(P)-binding Rossmann-fold domain	COG0391	
+648182213	Dda3937_02897	transcriptional regulator, DeoR family	COG1349	
+648182215	Dda3937_02895	Periplasmic beta-glucosidase	COG1472	
+648182249	Dda3937_03435	putative pectinesterase	COG4677	
+648182303	Dda3937_03823	bicyclomycin/multidrug efflux system	COG2814	
+648182319	Dda3937_03626	sugar efflux transporter	COG2814	
+648182320	Dda3937_03625	IIA and HPr components of fructose-specific PTS enzyme	COG4668	
+648182321	Dda3937_03624	fructose-1-phosphate kinase	COG1105	
+648182322	Dda3937_03623	PTS system fructose-specific transporter subunit IIB /PTS system fructose-specific transporter subunit IIC	COG1299	
+648182328	Dda3937_03617	sugar efflux transporter	COG2814	
+648182336	Dda3937_03611	Ribose transport system, permease	COG1172	
+648182337	Dda3937_03610	monosaccharide ABC transporter ATP-binding protein, CUT2 family (TC 3.A.1.2.-)	COG1129	
+648182357	Dda3937_03493	putative dehydrogenase	COG2133	
+648182365	Dda3937_03485	transcriptional regulator, DeoR family	COG1349	
+648182380	Dda3937_03471	hypothetical protein	COG2814	
+648182412	Dda3937_03354	putative transporter	COG2814	
+648182441	Dda3937_04563	citrate lyase, citryl-ACP lyase subunit beta	COG2301	
+648182474	Dda3937_00015	transcriptional regulator, DeoR family	COG1349	
+648182483	Dda3937_01602	putative drug efflux system	COG2814	
+648182514	Dda3937_03576	pyruvate kinase II	COG0469	
+648182516	Dda3937_03574	glucose-6-phosphate 1-dehydrogenase	COG0364	
+648182517	Dda3937_03573	2-dehydro-3-deoxyphosphogluconate aldolase	COG0800	
+648182549	Dda3937_03334	glucose-6-phosphate 1-epimerase	COG0676	
+648182550	Dda3937_03335	glyceraldehyde-3-phosphate dehydrogenase A	COG0057	
+648182615	Dda3937_00597	L-arabinose isomerase	COG2160	
+648182616	Dda3937_00598	L-ribulokinase	COG1069	
+648182617	Dda3937_00599	L-arabinose ABC transporter periplasmic-binding protein	COG1879	
+648182618	Dda3937_00600	L-arabinose ABC transporter ATP-binding protein	COG1129	
+648182619	Dda3937_00601	membrane protein of an ABC superfamily L-arabinose transporter	COG1172	
+648182631	Dda3937_04128	putative transporter	COG2814	
+648182633	Dda3937_04130	DNA-binding transcriptional repressor	COG1940	
+648182640	Dda3937_04137	putative mannosyl-3-phosphoglycerate phosphatase	COG3769	
+648182672	Dda3937_01642	Myo-inositol-1(or 4)-monophosphatase	COG0483	
+648182678	Dda3937_01636	transcriptional regulator	COG1940	
+648182681	Dda3937_01633	PTS system IIC component, L-Asc family (TC 4.A.7)	COG3037	
+648182766	Dda3937_03725	PTS system mannose-specific transporter subunit IIAB	COG3444	
+648182767	Dda3937_03726	PTS system mannose-specific transporter subunit IIC	COG3715	
+648182768	Dda3937_04593	PTS system mannose-specific transporter subunit IIC	COG3716	
+648182773	Dda3937_04335	putative phosphotransferase/kinase	COG3001	
+648182776	Dda3937_03727	4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase	COG3717	
+648182779	Dda3937_03360	oligogalacturonide ABC transporter membrane protein	COG1175	
+648182780	Dda3937_04711	oligogalacturonide ABC transporter permease	COG0395	
+648182781	Dda3937_04712	oligogalacturonide ABC transporter ATPase	COG3839	
+648182782	Dda3937_04596	oligogalacturonide-binding protein	COG1653	
+648182864	Dda3937_00628	Immune-responsive protein 1	COG2079	
+648182871	Dda3937_00634	membrane protein mosC	COG0738	
+648182872	Dda3937_00635	Inositol monophosphatase family protein	COG0483	
+648182873	Dda3937_00636	transcriptional regulator, DeoR family	COG1349	
+648182934	Dda3937_03804	4-hydroxybenzoate transporter	COG2271	
+648182991	Dda3937_03133	putative major facilitator superfamily (MFS) transporter	COG2814	
+648183002	Dda3937_03122	MFS transporter	COG2814	
+648183024	Dda3937_03100	L-ribulose 5-phosphate 4-epimerase (EC 5.1.3.4)	COG0235	
+648183055	Dda3937_04108	pectate lyase	COG3866	
+648183070	Dda3937_03835	maltoporin (maltose/maltodextrin high-affinity receptor, phage lambda receptor protein)	COG4580	
+648183071	Dda3937_03834	phospho-beta-glucosidase	COG2723	
+648183072	Dda3937_03833	PTS system beta-glucoside-specific IIA component, Glc family (TC 4.A.1.2.2)/PTS system beta-glucoside-specific IIB component, Glc family (TC 4.A.1.2.2)/PTS system beta-glucoside-specific IIC component, Glc family (TC 4.A.1.2.2)	COG1263	
+648183075	Dda3937_04619	pyruvate kinase I	COG0469	
+648183089	Dda3937_03524	phosphoenolpyruvate synthase (EC 2.7.9.2)	COG0574	
+648183129	Dda3937_03644	N-acetyl-D-glucosamine kinase	COG1940	
+648183137	Dda3937_03636	alpha-glucosidase	COG1501	
+648183138	Dda3937_03635	hexuronate transporter	COG2271	
+648183143	Dda3937_02258	beta-N-acetylglucosaminidase	COG1472	
+648183147	Dda3937_02254	purine nucleoside phosphoramidase	COG0537	
+648183149	Dda3937_02252	PTS system glucose-specific transporter subunit IICB	COG1263	
+648183176	Dda3937_03562	MFS transporter, DHA1 family, multidrug resistance protein	COG2814	
+648183177	Dda3937_03563	glucans biosynthesis glucosyltransferase H	COG2943	
+648183195	Dda3937_03414	Galactose-6-phosphate isomerase LacB subunit	COG0698	
+648183373	Dda3937_01863	Rhamnosyltransferase I, subunit B	COG1819	
+648183400	Dda3937_01837	putative membrane transport protein	COG2814	
+648183403	Dda3937_01834	putative transporter	COG2271	
+648183449	Dda3937_04025	putative transporter	COG0471	
+648183450	Dda3937_04024	sugar phosphatase	COG0637	
+648183505	Dda3937_00485	malate:quinone oxidoreductase	COG0579	
+648183515	Dda3937_03033	putative transport	COG2814	
+648183561	Dda3937_02404	PTS system cellobiose-specific transporter subunit IIB	COG1440	
+648183570	Dda3937_02395	galactan outer membrane porin	COG4580	
+648183571	Dda3937_02393	1,4-beta-exogalactanase	COG1874	
+648183572	Dda3937_02392	periplasmic 1,4-beta-endogalactanase	COG3867	
+648183573	Dda3937_02391	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)	COG3833	
+648183574	Dda3937_02390	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	COG1175	
+648183575	Dda3937_02389	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)	COG2182	
+648183576	Dda3937_02388	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)	COG3839	
+648183589	Dda3937_01658	fructuronate reductase (EC 1.1.1.57)	COG0246	
+648183640	Dda3937_02830	methylglyoxal synthase	COG1803	
+648183655	Dda3937_02818	putative transport protein	COG2814	
+648183661	Dda3937_02813	hydroxypyruvate isomerase	COG3622	
+648183663	Dda3937_02811	IolE protein	COG1082	
+648183666	Dda3937_02808	Sugar phosphate isomerase/epimerase	COG1082	
+648183712	Dda3937_02376	Myo-inositol-1(or 4)-monophosphatase	COG0483	
+648183723	Dda3937_03370	pectate lyase, Pla	COG3866	
+648183724	Dda3937_03371	pectate lyase pelE	COG3866	
+648183725	Dda3937_03372	pectate lyase D	COG3866	
+648183727	Dda3937_03374	Pectinesterase	COG4677	
+648183793	Dda3937_00509	putative DNA-binding transcriptional regulator	COG1489	
+648183802	Dda3937_00518	putative transporter membrane protein	COG1682	
+648183855	Dda3937_03150	fructose-1-P and 6-phosphogluconate phosphatase	COG0637	
+648183876	Dda3937_03167	ABC transporter periplasmic binding protein ytfQ	COG1879	
+648183877	Dda3937_03168	simple sugar transport system ATP-binding protein	COG1129	
+648183878	Dda3937_03169	ABC transporter permease	COG1172	
+648183879	Dda3937_03170	ABC transporter permease	COG1172	
+648183937	Dda3937_00927	D-sedoheptulose 7-phosphate isomerase	COG0279	
+648183943	Dda3937_00921	methylthioribulose-1-phosphate dehydratase (EC 4.2.1.109)	COG0235	
+648183957	Dda3937_00907	allantoinase	COG0726	
+648183968	Dda3937_00897	MFS permease	COG2814	
+648183981	Dda3937_00885	alpha-ketoglutarate permease	COG2814	
+648184013	Dda3937_00207	putative rhamnose oligosaccharide ABC transporter substrate-binding protein	COG1653	
+648184019	Dda3937_00202	Rhamnogalacturonides degradation protein RhiN	COG4225	
+648184020	Dda3937_00201	olgogalacturonide transporter	COG2211	
+648184023	Dda3937_00198	enolase	COG0148	
+648184029	Dda3937_00192	glycerate kinase I	COG1929	
+648184031	Dda3937_00190	5-dehydro-4-deoxy-D-glucarate aldolase (EC 4.1.2.20)	COG3836	
+648184034	Dda3937_00187	putative D-glucarate transporter	COG2271	
+648184037	Dda3937_00185	galactarate dehydratase (EC 4.2.1.42)	COG2721	
+648184098	Dda3937_02591	beta-glucosidase	COG2723	
+648184099	Dda3937_02590	beta-glucosidase	COG2723	
+648184100	Dda3937_02589	PTS system beta-glucoside-specific IIA component, Glc family (TC 4.A.1.2.11)/PTS system beta-glucoside-specific IIB component, Glc family (TC 4.A.1.2.11)/PTS system beta-glucoside-specific IIC component, Glc family (TC 4.A.1.2.11)	COG1263	
+648184109	Dda3937_02582	PTS system cellobiose-specific transporter subunit IIB	COG1440	
+648184110	Dda3937_02581	beta-glucosidase	COG2723	
+648184111	Dda3937_02580	PTS system cellobiose-specific transporter subunit IIC	COG1455	
+648184112	Dda3937_02579	PTS system cellobiose-specific transporter subunit IIA	COG1447	
+648184178	Dda3937_03077	N-Acetyl-D-glucosamine ABC transporter permease 2	COG0395	
+648184179	Dda3937_03078	ABC transporter membrane spanning protein	COG1175	
+648184180	Dda3937_03079	maltose/maltodextrin transport ATP-binding protein MalK	COG3839	
+648184181	Dda3937_03080	putative glycosyl hydrolase	COG4225	
+648184183	Dda3937_03082	N-Acetyl-D-glucosamine ABC transporter sugar-binding protein	COG1653	
+648184185	Dda3937_03084	glucosamine kinase GpsK	COG2971	
+648184199	Dda3937_02626	transcriptional regulator, DeoR family	COG1349	
+648184205	Dda3937_02632	expressed protein	COG4692	
+648184206	Dda3937_02633	Protein yjgK	COG2731	
+648184215	Dda3937_03094	Immune-responsive protein 1	COG2079	
+648184315	Dda3937_00387	Proline/betaine transporter	COG2814	
+648184318	Dda3937_00390	transaldolase	COG0176	
+648184327	Dda3937_00399	phosphoglyceromutase 2, co-factor independent	COG0406	
+648184337	Dda3937_00408	ribose-5-phosphate isomerase (EC 5.3.1.6)	COG0120	
+648184342	Dda3937_00413	fructose-bisphosphate aldolase (EC 4.1.2.13)	COG0191	
+648184343	Dda3937_00414	phosphoglycerate kinase (EC 2.7.2.3)	COG0126	
+648184344	Dda3937_00415	D-erythrose 4-phosphate dehydrogenase	COG0057	
+648184345	Dda3937_00416	transketolase 1, thiamin-binding protein	COG0021	
+648184346	Dda3937_00417	putative integral membrane protein	COG0738	
+648184356	Dda3937_00427	fructose-1,6-bisphosphatase I	COG0158	
+648184373	Dda3937_00443	phosphomannomutase	COG1109	
+648184375	Dda3937_00445	O-antigen export system permease RfbD	COG1682	
+648184376	Dda3937_00446	O-antigen export system, ATP-binding protein	COG1134	
+648184448	Dda3937_02137	Mannan endo-1,4-beta-mannosidase	COG4124	
+648184449	Dda3937_02136	glucose-6-phosphate isomerase	COG0166	
+648184453	Dda3937_02132	2-oxoglutarate/malate translocator	COG0471	
+648184528	Dda3937_00535	oxalate decarboxylase oxdD	COG2140	
+648184537	Dda3937_00544	putative phosphoribulokinase	COG3954	
+648184558	Dda3937_04186	D-ribulose-5-phosphate 3-epimerase	COG0036	
+648184586	Dda3937_00347	4-alpha-glucanotransferase	COG1640	
+648184587	Dda3937_00346	glycogen phosphorylase	COG0058	
+648184588	Dda3937_00345	transcriptional regulator, DeoR family	COG1349	
+648184590	Dda3937_00343	Ribokinase	COG0524	
+648184592	Dda3937_00341	hypothetical protein	COG2731	
+648184593	Dda3937_00340	D-galactonate transporter	COG2271	
+648184599	Dda3937_00334	glycogen phosphorylase	COG0058	
+648184600	Dda3937_00333	glycogen synthase	COG0297	
+648184601	Dda3937_00332	glucose-1-phosphate adenylyltransferase	COG0448	
+648184602	Dda3937_00331	glycogen debranching enzyme	COG1523	
+648184603	Dda3937_00330	1,4-alpha-glucan branching protein	COG0296	
+648184609	Dda3937_00324	gluconate permease GntT (TC 2.A.8.1.4)	COG2610	
+648184610	Dda3937_00323	gluconokinase	COG3265	
+648184618	Dda3937_00316	glycerol-3-phosphate transporter	COG2271	
+648184655	Dda3937_00281	major facilitator family transporter	COG2814	
+648184677	Dda3937_00263	Exo-poly-alpha-D-galacturonosidase	COG5434	
+648184678	Dda3937_00262	polygalacturonase	COG5434	
+648184679	Dda3937_00261	Exo-poly-alpha-D-galacturonosidase	COG5434	
+648184689	Dda3937_00251	dihydroxyacid dehydratase	COG0129	
+648184693	Dda3937_00247	Sialic acid transporter	COG2814	
+648184735	Dda3937_02051	putative inner membrane protein	COG0697	
+648184742	Dda3937_02044	putative periplasmic protein	COG2861	
+648184845	Dda3937_00982	xylose ABC transporter membrane protein	COG4214	
+648184846	Dda3937_00983	xylose ABC transporter ATP-binding protein	COG1129	
+648184847	Dda3937_00984	xylose-binding protein	COG4213	
+648184848	Dda3937_00985	D-xylose isomerase (EC 5.3.1.5)	COG2115	
+648184849	Dda3937_00986	xylulokinase	COG1070	
+648184858	Dda3937_00994	mannitol-1-phosphate dehydrogenase, NAD(P)-binding protein	COG0246	
+648184859	Dda3937_00995	PTS system D-mannitol-specific IIA component, Fru family (TC 4.A.2.1.2)/PTS system D-mannitol-specific IIB component, Fru family (TC 4.A.2.1.2)/PTS system D-mannitol-specific IIC component, Fru family (TC 4.A.2.1.2)	COG2213	
+648184867	Dda3937_01003	carbohydrate ABC transporter membrane protein 2, CUT1 family (TC 3.A.1.1.-)	COG0395	
+648184868	Dda3937_01004	carbohydrate ABC transporter membrane protein 1, CUT1 family (TC 3.A.1.1.-)	COG1175	
+648184869	Dda3937_01005	carbohydrate ABC transporter substrate-binding protein, CUT1 family (TC 3.A.1.1.-)	COG1653	
+648184871	Dda3937_01007	glucokinase	COG1940	
+648184872	Dda3937_01008	putative ROK-family transcriptional regulator	COG1940	
+648184873	Dda3937_01009	carbohydrate ABC transporter ATP-binding protein, CUT1 family (TC 3.A.1.1.-)	COG3839	
+648184891	Dda3937_01026	glucokinase	COG0837	
+648184897	Dda3937_01032	oxalate/formate antiporter	COG2271	
+648184915	Dda3937_01049	2-oxoglutarate/malate translocator	COG0471	
+648184922	Dda3937_01056	Fosmidomycin resistance protein	COG2814	
+648184935	Dda3937_01068	ABC transporter permease yddR	COG2220	
+648184944	Dda3937_01077	undecaprenyl phosphate-alpha-L-Ara4FN (4-deoxy-4-formamido-L-arabinose) deformylase	COG0726	
+648184956	Dda3937_01089	phosphoenolpyruvate and 6-phosphogluconate phosphatase	COG0637	

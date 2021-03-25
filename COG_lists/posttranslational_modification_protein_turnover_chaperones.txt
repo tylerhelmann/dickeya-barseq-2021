@@ -1,0 +1,138 @@
+Gene ID	Locus Tag	Name	Function	
+648180384	Dda3937_01145	putative acetyltransferase	COG1670	
+648180417	Dda3937_02534	heat shock chaperone	COG0071	
+648180418	Dda3937_02535	heat shock chaperone	COG0071	
+648180456	Dda3937_02007	sulfur transfer protein	COG0425	
+648180518	Dda3937_03882	molecular chaperone and ATPase of HslUV protease	COG1220	
+648180519	Dda3937_03883	peptidase component of the HslUV protease	COG5405	
+648180528	Dda3937_03891	Peroxiredoxin family protein/glutaredoxin	COG0678	
+648180611	Dda3937_01593	Prophage Clp protease-like protein	COG0740	
+648180660	Dda3937_00696	DegS peptidase. Serine peptidase. MEROPS family S01B	COG0265	
+648180661	Dda3937_00697	Protease	COG0265	
+648180669	Dda3937_00705	stringent starvation protein A	COG0625	
+648180724	Dda3937_01278	peptide ABC transporter ATP-binding protein	COG1123	
+648180823	Dda3937_03674	ABC transporter ATP-binding protein	COG1123	
+648180838	Dda3937_02677	putative repair protein	COG1066	
+648180902	Dda3937_02715	cytochrome c-type biogenesis protein DsbD, protein-disulfide reductase	COG4232	
+648180907	Dda3937_02720	Cpn10 chaperonin GroES, small subunit of GroESL	COG0234	
+648180908	Dda3937_02721	Cpn60 chaperonin GroEL, large subunit of GroESL	COG0459	
+648180939	Dda3937_03546	putative periplasmic spheroblast formation protein	COG3678	
+648180968	Dda3937_02347	subunit of integral membrane ATP-dependent zinc metallopeptidase	COG0465	
+648180986	Dda3937_02333	putative protease	COG0826	
+648180987	Dda3937_02332	putative peptidase (collagenase-like)	COG0826	
+648181020	Dda3937_02302	putative folate-dependent regulatory protein	COG0354	
+648181021	Dda3937_02301	antitoxin CptB	COG2938	
+648181027	Dda3937_02295	Thiol:disulfide interchange protein DsbC	COG1651	
+648181050	Dda3937_02274	Nucleoside-diphosphate sugar epimerase/dehydratase	COG1086	
+648181090	Dda3937_01178	putative acetyltransferase	COG1670	
+648181159	Dda3937_01716	conjugation peptidase TraF. Serine peptidase. MEROPS family S26C	COG4959	
+648181245	Dda3937_02551	trans-translation protein	COG0691	
+648181251	Dda3937_02545	heat shock protein	COG0576	
+648181372	Dda3937_03400	iron-sulfur cluster protector protein	COG2924	
+648181394	Dda3937_00856	protease III	COG1025	
+648181404	Dda3937_00864	putative Fe-S metabolism protein	COG2166	
+648181420	Dda3937_00877	UTP--GlnB (protein PII) uridylyltransferase, GlnD	COG2844	
+648181432	Dda3937_01885	periplasmic chaperone for outer membrane proteins Skp	COG2825	
+648181529	Dda3937_03968	peptidyl-prolyl cis/trans isomerase (trigger factor)	COG0544	
+648181530	Dda3937_03319	proteolytic subunit of ClpA-ClpP and ClpX-ClpP ATP-dependent serine proteases	COG0740	
+648181531	Dda3937_03318	ATPase and specificity subunit of ClpX-ClpP ATP-dependent serine protease	COG1219	
+648181532	Dda3937_04311	DNA-binding ATP-dependent protease La	COG0466	
+648181535	Dda3937_03316	peptidyl-prolyl cis-trans isomerase D	COG0760	
+648181565	Dda3937_03288	molecular chaperone HSP90 family	COG0326	
+648181580	Dda3937_04161	hypothetical protein	COG1585	
+648181581	Dda3937_04162	putative protease, membrane anchored	COG0330	
+648181600	Dda3937_01788	putative thioredoxin domain-containing protein	COG3118	
+648181605	Dda3937_01793	spermidine N1-acetyltransferase	COG1670	
+648181621	Dda3937_02509	thiol peroxidase, thioredoxin-dependent	COG1225	
+648181839	Dda3937_00808	ClpB protein	COG0542	
+648181933	Dda3937_04116	[NiFe] hydrogenase metallocenter assembly protein HybG	COG0298	
+648181938	Dda3937_04121	putative glutathionylspermidine-utilizing glutathione transferase	COG0625	
+648182000	Dda3937_02839	putative acetyltransferase	COG1670	
+648182021	Dda3937_03027	xylellain. Cysteine peptidase. MEROPS family C01A	COG4870	
+648182057	Dda3937_02992	ABC transporter ATP-binding protein	COG1123	
+648182212	Dda3937_02898	glutathione S-transferase	COG0625	
+648182240	Dda3937_02464	Small heat shock protein	COG0071	
+648182265	Dda3937_01237	glutathione S-transferase, theta	COG0625	
+648182358	Dda3937_03492	putative glutathione S-transferase	COG0625	
+648182368	Dda3937_03481	glutaredoxin 1, redox coenzyme for ribonucleotide reductase (RNR1a)	COG0695	
+648182395	Dda3937_02364	regulatory protein for ClpA substrate specificity	COG2127	
+648182396	Dda3937_02363	ATP-dependent Clp protease ATP-binding subunit ClpA (EC 3.4.21.92)	COG0542	
+648182398	Dda3937_02361	leucyl/phenylalanyl-tRNA-protein transferase	COG2360	
+648182399	Dda3937_04326	cysteine ABC transporter membrane/ATP-binding protein	COG4987	
+648182400	Dda3937_03630	cysteine ABC transporter subunit	COG4988	
+648182401	Dda3937_03631	thioredoxin reductase, FAD/NAD(P)-binding protein	COG0492	
+648182407	Dda3937_00133	Tat proofreading chaperone DmsD	COG3381	
+648182408	Dda3937_00134	glutathione S-transferase	COG0625	
+648182409	Dda3937_00135	putative protein-disulfide isomerase	COG3531	
+648182415	Dda3937_03351	pyruvate formate lyase activating enzyme 1	COG1180	
+648182480	Dda3937_04062	hypothetical protein	COG3381	
+648182482	Dda3937_01601	glutaredoxin 2 (Grx2)	COG2999	
+648182484	Dda3937_01603	ribosomal-protein-S5-alanine N-acetyltransferase	COG1670	
+648182551	Dda3937_03336	methionine sulfoxide reductase B	COG0229	
+648182555	Dda3937_04043	protease IV (signal peptide peptidase)	COG0616	
+648182601	Dda3937_00583	putative inner membrane peptidase	COG0616	
+648182747	Dda3937_02924	Thiol:disulfide interchange protein DsbB	COG1495	
+648182803	Dda3937_03688	putative endopeptidase	COG0501	
+648182889	Dda3937_04603	glutathione S-transferase	COG0625	
+648182899	Dda3937_03793	respiratory nitrate reductase chaperone NarJ	COG2180	
+648182909	Dda3937_03783	carboxy-terminal protease for penicillin-binding protein 3	COG0793	
+648182990	Dda3937_03134	thiol peroxidase (atypical 2-Cys peroxiredoxin) (EC 1.11.1.5)	COG2077	
+648182994	Dda3937_03130	putative ribosomal-protein-serine acetyltransferase	COG1670	
+648183034	Dda3937_00090	glutathionine S-transferase	COG0625	
+648183044	Dda3937_00093	monothiol glutaredoxin	COG0278	
+648183078	Dda3937_03664	Cysteine desulfuration protein SufE	COG2166	
+648183080	Dda3937_03666	SufD protein	COG0719	
+648183081	Dda3937_03667	SufC protein	COG0396	
+648183082	Dda3937_03668	Iron-regulated ABC transporter membrane component SufB	COG0719	
+648183083	Dda3937_03669	FeS assembly scaffold SufA	COG0316	
+648183128	Dda3937_03645	deacetylase of acetyl-CoA synthetase, NAD-dependent	COG0846	
+648183135	Dda3937_03638	putative chaperone	COG0443	
+648183190	Dda3937_03409	putative peptidase	COG1067	
+648183366	Dda3937_01868	arylsulfatase regulator	COG0641	
+648183402	Dda3937_01835	Tat proofreading chaperone FdhE	COG3058	
+648183413	Dda3937_01825	Hydrogenase maturation protein, carbamoyltransferase HypF	COG0068	
+648183416	Dda3937_01823	Hydrogenase maturation protein, carbamoyl dehydratase HypE	COG0309	
+648183417	Dda3937_01822	Hydrogenase maturation protein HypD	COG0409	
+648183418	Dda3937_01821	Hydrogenase 2 accessory protein HybG	COG0298	
+648183419	Dda3937_01820	Hydrogenase nickel incorporation protein HypB	COG0378	
+648183460	Dda3937_04212	maleylacetoacetate isomerase/Glutathione S-transferase	COG0625	
+648183489	Dda3937_02121	glutathione S-transferase	COG0625	
+648183613	Dda3937_01680	peptidyl-prolyl cis-trans isomerase B (rotamase B)	COG0652	
+648183637	Dda3937_01701	DNA-binding protein, hemimethylated	COG3785	
+648183659	Dda3937_02814	putative peptidase	COG0826	
+648183703	Dda3937_03695	hypothetical protein	COG2975	
+648183705	Dda3937_03693	Chaperone protein HscA	COG0443	
+648183706	Dda3937_03692	Co-chaperone protein HscB	COG1076	
+648183707	Dda3937_03691	Iron-binding apoprotein IscA	COG0316	
+648183708	Dda3937_03690	FeS assembly scaffold apoprotein IscU	COG0822	
+648183778	Dda3937_00496	serine endoprotease (protease Do), membrane-associated	COG0265	
+648183784	Dda3937_00501	iron-sulfur cluster insertion protein	COG0316	
+648183814	Dda3937_03979	ribonucleoside-diphosphate reductase class Ib glutaredoxin subunit (EC 1.17.4.1)	COG0695	
+648183830	Dda3937_01574	ClpB protein	COG0542	
+648183862	Dda3937_03153	inhibitor of RecA	COG2137	
+648183897	Dda3937_03187	peptide ABC transporter ATP-binding protein	COG1123	
+648183999	Dda3937_03909	L-isoaspartate protein carboxylmethyltransferase type II	COG2518	
+648184046	Dda3937_00177	glutamine synthetase adenylyltransferase	COG1391	
+648184059	Dda3937_00164	methionine sulfoxide reductase A	COG0225	
+648184064	Dda3937_04394	iron metabolism protein	COG2846	
+648184066	Dda3937_00046	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)	COG0545	
+648184103	Dda3937_02587	Fe(2+)/alpha-ketoglutarate-dependent dioxygenase lpxO	COG3555	
+648184289	Dda3937_01379	periplasmic chaperone for outer membrane proteins SurA	COG0760	
+648184304	Dda3937_01394	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)	COG1047	
+648184311	Dda3937_00384	chaperone Hsp40, co-chaperone with DnaK	COG0484	
+648184312	Dda3937_00385	chaperone protein DnaK	COG0443	
+648184360	Dda3937_00431	modulator for HflB protease specific for phage lambda cII repressor	COG0330	
+648184361	Dda3937_00432	modulator for HflB protease specific for phage lambda cII repressor	COG0330	
+648184408	Dda3937_02176	peptidyl-prolyl cis-trans isomerase ppiD	COG0760	
+648184413	Dda3937_02171	Modular FeS cluster scaffolding protein NifU	COG0822	
+648184513	Dda3937_00521	subunit of the heterohexameric YheLMN (TusBCD) mediator of sulfur relay	COG2168	
+648184520	Dda3937_00528	FKBP-type peptidyl-prolyl cis-trans isomerase (rotamase)	COG0545	
+648184529	Dda3937_00536	FKBP-type peptidyl prolyl cis-trans isomerase/Apo-metallochaperone SlyD	COG1047	
+648184554	Dda3937_04190	peptidyl-prolyl cis-trans isomerase ppiA	COG0652	
+648184573	Dda3937_00358	heat shock protein Hsp33	COG1281	
+648184585	Dda3937_00348	Fe-S biogenesis protein	COG0694	
+648184589	Dda3937_00344	putative intramembrane serine protease	COG0705	
+648184694	Dda3937_00246	MG(2+) chelatase family protein/ComM-related protein	COG0606	
+648184770	Dda3937_03252	ABC transporter	COG1123	
+648184887	Dda3937_01022	ABC transporter ATP-binding protein	COG1123	
+648184972	Dda3937_01105	serine/threonine kinase	COG1262	

@@ -1,0 +1,176 @@
+Gene ID	Locus Tag	Name	Function	
+648180331	Dda3937_00157	Von Willebrand Factor type A (VWA) domain-containing protein	COG2425	
+648180346	Dda3937_01109	hypothetical protein	COG3084	
+648180416	Dda3937_02533	hypothetical protein	COG5645	
+648180445	Dda3937_01997	putative DNA-binding protein	COG3943	
+648180452	Dda3937_02003	membrane protein	COG1295	
+648180455	Dda3937_02006	hypothetical protein	COG1738	
+648180457	Dda3937_02008	hypothetical protein	COG3714	
+648180458	Dda3937_02009	hypothetical protein	COG4517	
+648180459	Dda3937_02010	putative membrane protein	COG3776	
+648180509	Dda3937_03873	hypothetical protein	COG3152	
+648180579	Dda3937_00240	hypothetical protein	COG3068	
+648180617	Dda3937_01599	hypothetical protein	COG3924	
+648180631	Dda3937_00667	hypothetical protein	COG3164	
+648180636	Dda3937_00672	p-hydroxybenzoic acid efflux pump subunit AaeB	COG1289	
+648180671	Dda3937_00707	hypothetical protein	COG3791	
+648180680	Dda3937_00717	hypothetical protein	COG2823	
+648180689	Dda3937_00725	hypothetical protein	COG5463	
+648180692	Dda3937_04304	putative dehydrogenase	COG3151	
+648180704	Dda3937_01260	hypothetical protein	COG0586	
+648180709	Dda3937_01264	fluoroquinolone resistance protein	COG1357	
+648180717	Dda3937_01271	hypothetical protein	COG3787	
+648180763	Dda3937_01312	putative cytoplasmic protein	COG4453	
+648180765	Dda3937_01314	hypothetical protein	COG3811	
+648180789	Dda3937_01337	putative lipoprotein	COG5618	
+648180827	Dda3937_03670	putative membrane protein	COG3477	
+648180833	Dda3937_02681	hypothetical protein	COG3079	
+648180840	Dda3937_02675	Protein smp	COG3726	
+648180844	Dda3937_02671	periplasmic protein	COG2823	
+648180863	Dda3937_02654	hypothetical protein	COG5255	
+648180884	Dda3937_02699	putative helix-turn-helix protein, copG family	COG4453	
+648180890	Dda3937_02704	putative helix-turn-helix protein, copG family	COG4453	
+648180918	Dda3937_02731	putative quinol oxidase subunit	COG2259	
+648180920	Dda3937_02733	hypothetical protein	COG5393	
+648180923	Dda3937_02736	hypothetical protein	COG0586	
+648181064	Dda3937_02454	hypothetical protein	COG3162	
+648181151	Dda3937_01708	hypothetical protein	COG5489	
+648181155	Dda3937_01712	hypothetical protein	COG5419	
+648181157	Dda3937_01714	Plasmid replication initiator protein	COG5534	
+648181205	Dda3937_01759	hypothetical protein	COG5435	
+648181222	Dda3937_02574	hypothetical protein	COG5484	
+648181257	Dda3937_01400	hypothetical protein	COG1671	
+648181290	Dda3937_01432	hypothetical protein	COG2960	
+648181292	Dda3937_01434	Tellurite resistance protein tehB	COG3615	
+648181298	Dda3937_01440	hypothetical protein	COG4125	
+648181322	Dda3937_01463	putative preQ0 transporter	COG1738	
+648181325	Dda3937_01466	hypothetical protein	COG2862	
+648181328	Dda3937_01468	hypothetical protein	COG0730	
+648181375	Dda3937_03397	hypothetical protein	COG3171	
+648181380	Dda3937_03393	serine protease	COG4625	
+648181409	Dda3937_00868	hypothetical protein	COG2363	
+648181415	Dda3937_00872	hypothetical protein	COG3098	
+648181444	Dda3937_01897	hypothetical protein	COG4681	
+648181481	Dda3937_01933	hypothetical protein	COG3123	
+648181514	Dda3937_01966	putative nucleotide binding protein	COG1666	
+648181527	Dda3937_01978	putative lipoprotein	COG3056	
+648181546	Dda3937_03306	putative outer membrane lipoprotein	COG3126	
+648181560	Dda3937_03293	hypothetical protein	COG2832	
+648181576	Dda3937_04157	hypothetical protein	COG3735	
+648181624	Dda3937_02506	Beta-barrel assembly machine subunit BamC	COG3317	
+648181626	Dda3937_02504	hypothetical protein	COG2707	
+648181687	Dda3937_01554	Bacterial/Archaeal transporter family protein	COG2510	
+648181695	Dda3937_01547	hypothetical protein	COG3272	
+648181713	Dda3937_01882	putative outer membrane lipoprotein	COG4890	
+648181714	Dda3937_01881	hypothetical protein	COG3790	
+648181724	Dda3937_03983	putative inner membrane protein	COG1811	
+648181748	Dda3937_03938	hypothetical protein	COG5276	
+648181789	Dda3937_03280	VirK	COG2990	
+648181856	Dda3937_04512	hypothetical protein	COG3813	
+648181869	Dda3937_00781	hypothetical protein	COG0730	
+648181903	Dda3937_00751	putative cytoplasmic protein	COG3615	
+648182037	Dda3937_03012	hypothetical protein	COG3416	
+648182112	Dda3937_03587	hypothetical protein	COG3558	
+648182148	Dda3937_03735	hypothetical protein	COG0401	
+648182250	Dda3937_04322	hypothetical protein	COG3136	
+648182260	Dda3937_01244	lipoprotein	COG5513	
+648182262	Dda3937_01242	Integral membrane protein	COG3759	
+648182283	Dda3937_02198	DNA primase traC	COG5519	
+648182294	Dda3937_02188	hypothetical protein	COG3082	
+648182295	Dda3937_04323	nucleotide associated protein	COG3081	
+648182325	Dda3937_03620	hypothetical protein	COG2855	
+648182354	Dda3937_03496	uncharacterized protein	COG2311	
+648182387	Dda3937_02372	hypothetical protein	COG0393	
+648182451	Dda3937_03729	hypothetical protein	COG2926	
+648182455	Dda3937_03203	hypothetical protein	COG2835	
+648182485	Dda3937_01604	hypothetical protein	COG3132	
+648182496	Dda3937_01612	putative inner membrane protein	COG3788	
+648182498	Dda3937_01614	hypothetical protein	COG1801	
+648182534	Dda3937_03321	hypothetical protein	COG3287	
+648182552	Dda3937_03337	hypothetical protein	COG3139	
+648182560	Dda3937_04047	hypothetical protein	COG2860	
+648182563	Dda3937_04045	SEC-C motif-containing protein	COG3012	
+648182577	Dda3937_00560	hypothetical protein	COG3099	
+648182623	Dda3937_00605	hypothetical protein	COG4875	
+648182627	Dda3937_04332	putative GTP-binding protein YdgA	COG5339	
+648182652	Dda3937_00477	Paraquat-inducible protein B	COG3008	
+648182653	Dda3937_04582	putative lipoprotein	COG3009	
+648182667	Dda3937_01646	SrfB	COG4457	
+648182668	Dda3937_01645	putative virulence factor	COG4458	
+648182748	Dda3937_02923	hypothetical protein	COG2983	
+648182750	Dda3937_02921	hypothetical protein	COG3100	
+648182759	Dda3937_03718	hypothetical protein	COG3140	
+648182769	Dda3937_00479	hypothetical protein	COG4811	
+648182912	Dda3937_04337	paraquat-inducible protein A	COG2995	
+648182913	Dda3937_04338	hypothetical protein	COG3008	
+648182932	Dda3937_03806	hypothetical protein	COG4222	
+648183004	Dda3937_03120	putative membrane protein	COG3768	
+648183019	Dda3937_03105	putative inner membrane protein	COG5346	
+648183029	Dda3937_04036	putative membrane protein	COG3771	
+648183092	Dda3937_03521	hypothetical protein	COG3009	
+648183093	Dda3937_03520	paraquat-inducible protein B	COG3008	
+648183094	Dda3937_03519	paraquat-inducible membrane protein A	COG2995	
+648183118	Dda3937_03654	hypothetical protein	COG3108	
+648183120	Dda3937_03652	hypothetical protein	COG0397	
+648183140	Dda3937_04624	hypothetical protein	COG3134	
+648183146	Dda3937_02255	putative lipoprotein	COG5633	
+648183162	Dda3937_04200	uncharacterized protein	COG1399	
+648183180	Dda3937_00028	hypothetical protein	COG3182	
+648183283	Dda3937_03955	hypothetical protein	COG4913	
+648183284	Dda3937_03956	hypothetical protein	COG4924	
+648183298	Dda3937_00079	hypothetical protein	COG5489	
+648183302	Dda3937_02772	hypothetical protein	COG5435	
+648183451	Dda3937_04023	hypothetical protein	COG3013	
+648183452	Dda3937_04022	hypothetical protein	COG3092	
+648183468	Dda3937_02100	membrane protein required for colicin V production	COG1286	
+648183472	Dda3937_02104	membrane-associated protein	COG0586	
+648183495	Dda3937_00495	hypothetical protein	COG0730	
+648183503	Dda3937_00487	hypothetical protein	COG3691	
+648183522	Dda3937_03039	MbtH-like protein	COG3251	
+648183612	Dda3937_01679	putative oxidoreductase	COG2259	
+648183639	Dda3937_02831	hypothetical protein	COG3110	
+648183642	Dda3937_02828	hypothetical protein	COG3304	
+648183643	Dda3937_02827	putative inner membrane protein	COG1289	
+648183772	Dda3937_03503	putative oxidoreductase	COG2259	
+648183854	Dda3937_03149	hypothetical protein	COG1238	
+648183888	Dda3937_03178	hypothetical protein	COG2879	
+648183915	Dda3937_00947	DNA primase traC	COG5519	
+648183977	Dda3937_00889	hypothetical protein	COG3148	
+648183980	Dda3937_00886	putative lipoprotein	COG5544	
+648184043	Dda3937_00180	putative cytoplasmic protein	COG3530	
+648184067	Dda3937_00464	putative cell envelope opacity-associated protein	COG3061	
+648184068	Dda3937_00465	hypothetical protein	COG3189	
+648184090	Dda3937_02599	putative inner membrane protein	COG0762	
+648184091	Dda3937_02598	hypothetical protein	COG1872	
+648184123	Dda3937_00098	hypothetical protein	COG5642	
+648184201	Dda3937_02628	putative inner membrane protein	COG3395	
+648184209	Dda3937_02636	hypothetical protein	COG3112	
+648184236	Dda3937_02233	hypothetical protein	COG4701	
+648184273	Dda3937_01363	hypothetical protein	COG0586	
+648184296	Dda3937_01386	hypothetical protein	COG3610	
+648184297	Dda3937_01387	putative inner membrane protein	COG2966	
+648184339	Dda3937_00410	hypothetical protein	COG2968	
+648184359	Dda3937_00430	hypothetical protein	COG3242	
+648184443	Dda3937_02142	hypothetical protein	COG3169	
+648184470	Dda3937_01525	Smg protein	COG2922	
+648184522	Dda3937_00529	SlyX protein	COG2900	
+648184536	Dda3937_00543	hypothetical protein	COG3089	
+648184630	Dda3937_00305	putative chloramphenical resistance permease	COG2962	
+648184637	Dda3937_00298	hypothetical protein	COG3159	
+648184639	Dda3937_00296	putative lipoprotein	COG5567	
+648184644	Dda3937_00291	putative uroporphyrinogen III methylase	COG2959	
+648184645	Dda3937_00290	putative protoheme IX synthesis protein	COG3071	
+648184654	Dda3937_00282	Protein involved in meta-pathway of phenol degradation	COG4313	
+648184657	Dda3937_00279	hypothetical protein	COG4538	
+648184687	Dda3937_00253	hypothetical protein	COG5587	
+648184695	Dda3937_00245	hypothetical protein	COG3085	
+648184766	Dda3937_03256	putative inner membrane protein	COG2149	
+648184786	Dda3937_03236	hypothetical protein	COG1561	
+648184864	Dda3937_01000	Urea carboxylase-related aminomethyltransferase	COG3665	
+648184865	Dda3937_01001	Urea carboxylase-related aminomethyltransferase	COG3665	
+648184876	Dda3937_01012	Integral membrane protein	COG0730	
+648184890	Dda3937_01025	alkylhydroperoxidase AhpD domain-containing protein	COG4950	
+648184903	Dda3937_01038	hypothetical protein	COG4340	
+648184910	Dda3937_01045	putative periplasmic protein	COG2845	
+648184949	Dda3937_01082	lipoprotein	COG4380	
+648184950	Dda3937_01083	putative lipoprotein	COG4259	

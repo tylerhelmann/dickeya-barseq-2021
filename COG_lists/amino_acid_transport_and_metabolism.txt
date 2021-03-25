@@ -1,0 +1,422 @@
+Gene ID	Locus Tag	Name	Function	
+648180356	Dda3937_01118	glutamine synthetase	COG0174	
+648180385	Dda3937_01146	D-serine ammonia-lyase (EC 4.3.1.18)	COG3048	
+648180412	Dda3937_02529	dihydrodipicolinate synthase	COG0329	
+648180423	Dda3937_02540	dipeptide ABC transporter periplasmic component	COG0747	
+648180424	Dda3937_02541	dipeptide ABC transporter membrane protein	COG0601	
+648180425	Dda3937_02542	dipeptide ABC transporter membrane protein	COG1173	
+648180426	Dda3937_02543	dipeptide ABC transporter ATP-binding protein	COG0444	
+648180427	Dda3937_01979	dipeptide ABC transporter ATP-binding protein	COG4608	
+648180431	Dda3937_01983	transcriptional regulator, GntR family	COG1167	
+648180466	Dda3937_02017	high-affinity leucine-specific ABC transport system; periplasmic binding protein	COG0683	
+648180467	Dda3937_02018	leucine/isoleucine/valine ABC transporter membrane protein	COG0559	
+648180468	Dda3937_02019	leucine/isoleucine/valine ABC transporter membrane protein	COG4177	
+648180469	Dda3937_02020	L-leucine ABC transporter ATP-binding protein/L-isoleucine ABC transporter ATP-binding protein/L-valine ABC transporter ATP-binding protein	COG0411	
+648180470	Dda3937_02021	leucine/isoleucine/valine ABC transporter ATP-binding protein	COG0410	
+648180471	Dda3937_02022	putative valine-pyruvate aminotransferase	COG1167	
+648180505	Dda3937_03869	agmatine deiminase (EC 3.5.3.12)	COG2957	
+648180524	Dda3937_03887	methionine repressor, MetJ	COG3060	
+648180525	Dda3937_03888	cystathionine gamma-synthase (EC 2.5.1.48)	COG0626	
+648180526	Dda3937_03889	aspartate kinase (EC 2.7.2.4)	COG0527	
+648180527	Dda3937_03890	5,10-methylenetetrahydrofolate reductase (NAD(P)) (EC 1.5.1.20)	COG0685	
+648180563	Dda3937_00224	putative regulator	COG1167	
+648180591	Dda3937_01575	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)	COG1126	
+648180592	Dda3937_01576	amino acid ABC transporter membrane protein 2, PAAT family (TC 3.A.1.3.-)	COG0765	
+648180593	Dda3937_01577	putative transport system permease	COG4597	
+648180594	Dda3937_01578	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648180596	Dda3937_01580	putative transporter membrane protein	COG0765	
+648180597	Dda3937_01581	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648180620	Dda3937_04029	3-dehydroquinate dehydratase (EC 4.2.1.10)	COG0757	
+648180638	Dda3937_00674	Homoserine/homoserine lactone efflux protein	COG1280	
+648180672	Dda3937_00708	glutamate synthase, 4Fe-4S protein, small subunit	COG0493	
+648180673	Dda3937_00709	glutamate synthase, large subunit	COG0069	
+648180686	Dda3937_00722	Shikimate 5-dehydrogenase	COG0169	
+648180688	Dda3937_00724	putative glutathionylspermidine synthase	COG0754	
+648180705	Dda3937_01261	cystathionine beta-lyase, PLP-dependent	COG0626	
+648180720	Dda3937_01274	homocysteine S-methyltransferase (EC 2.1.1.10)	COG2040	
+648180721	Dda3937_01275	ABC transporter periplasmic binding-protein	COG0747	
+648180722	Dda3937_01276	ABC transporter permease	COG0601	
+648180723	Dda3937_01277	ABC transporter permease	COG1173	
+648180725	Dda3937_01279	tryptophan 2-monooxygenase precursor	COG1231	
+648180735	Dda3937_01287	Ornithine carbamoyltransferase	COG0078	
+648180741	Dda3937_01292	Homoserine O-acetyltransferase	COG2021	
+648180747	Dda3937_01298	aminopeptidase A, a cyteinylglycinase	COG0260	
+648180774	Dda3937_01322	putative lysine export protein	COG1280	
+648180775	Dda3937_01323	arginine transporter	COG1279	
+648180778	Dda3937_01326	transcriptional regulator, GntR family	COG1167	
+648180798	Dda3937_01346	periplasmic binding protein of an ABC transporter	COG0747	
+648180799	Dda3937_01347	permease of an ABC transporter	COG0601	
+648180800	Dda3937_01348	permease of an ABC transporter	COG1173	
+648180801	Dda3937_01349	ABC transporter ATP-binding protein	COG0444	
+648180803	Dda3937_01351	acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase-like deacylase	COG0624	
+648180805	Dda3937_02864	1-aminocyclopropane-1-carboxylate deaminase	COG2515	
+648180809	Dda3937_02868	chorismate mutase I	COG1605	
+648180824	Dda3937_03673	ABC transporter permease	COG1173	
+648180825	Dda3937_03672	ABC transporter permease	COG0601	
+648180826	Dda3937_03671	ABC transporter periplasmic protein	COG0747	
+648180832	Dda3937_02682	proline aminopeptidase P II	COG0006	
+648180839	Dda3937_02676	phosphoserine phosphatase	COG0560	
+648180905	Dda3937_02718	aspartate ammonia-lyase	COG1027	
+648180941	Dda3937_03544	2-isopropylmalate synthase	COG0119	
+648181011	Dda3937_02310	acetolactate synthase, large subunit (EC 2.2.1.6)	COG0028	
+648181014	Dda3937_02308	aminomethyltransferase	COG0404	
+648181015	Dda3937_02307	glycine cleavage complex lipoylprotein	COG0509	
+648181016	Dda3937_02306	glycine decarboxylase, PLP-dependent, subunit (protein P) of glycine cleavage complex	COG1003	
+648181017	Dda3937_02305	Threonine efflux protein	COG1280	
+648181037	Dda3937_02286	putative threonine efflux protein	COG1280	
+648181071	Dda3937_03607	ABC transporter periplasmic protein	COG0747	
+648181072	Dda3937_03608	D-ala-D-ala transporter subunit	COG0601	
+648181073	Dda3937_03609	dipeptide transport protein (ABC superfamily, membrane)	COG1173	
+648181075	Dda3937_01164	peptide transport ATP-binding protein	COG1124	
+648181091	Dda3937_01179	Threonine efflux protein	COG1280	
+648181100	Dda3937_01188	Ornithine aminotransferase; Acetylornithine aminotransferase	COG4992	
+648181102	Dda3937_01190	amino acid permease	COG0531	
+648181131	Dda3937_01217	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648181271	Dda3937_01414	cysteine synthase B (O-acetylserine sulfhydrolase B)	COG0031	
+648181286	Dda3937_01428	cysteine synthase A, O-acetylserine sulfhydrolase A subunit	COG0031	
+648181287	Dda3937_01429	putative inner membrane protein	COG2981	
+648181289	Dda3937_01431	amino acid exporter, AAE family (TC 2.A.3.13)	COG0531	
+648181319	Dda3937_01460	Tartrate dehydrogenase/Tartrate decarboxylase/D-malic enzyme	COG0473	
+648181366	Dda3937_03405	ornithine decarboxylase, constitutive	COG1982	
+648181370	Dda3937_03402	asparagine:proton symporter, AAT family (TC 2.A.3.1.8)	COG1113	
+648181395	Dda3937_00857	N-acetylglutamate synthase (EC 2.3.1.1)	COG0548	
+648181400	Dda3937_00860	acetyltransferase	COG1246	
+648181405	Dda3937_00865	cysteine desulfurase	COG0520	
+648181419	Dda3937_00876	2,3,4,5-tetrahydropyridine-2-carboxylate N-succinyltransferase	COG2171	
+648181453	Dda3937_01905	ornithine cyclodeaminase (EC 4.3.1.12)	COG2423	
+648181454	Dda3937_01906	metal-activated pyridoxal enzyme	COG3616	
+648181470	Dda3937_01922	Phosphinothricin N-acetyltransferase	COG1247	
+648181473	Dda3937_01925	acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase-like deacylase	COG0624	
+648181475	Dda3937_01927	phosphoserine phosphatase	COG0560	
+648181477	Dda3937_01929	methionine synthase II (cobalamin-independent)	COG0620	
+648181480	Dda3937_01932	shikimate kinase (EC 2.7.1.71)	COG0703	
+648181490	Dda3937_01942	methionine synthase II (cobalamin-independent)	COG0620	
+648181491	Dda3937_01943	branched chain amino acid transporter (LIV-II)	COG1114	
+648181492	Dda3937_01944	proline:proton symporter, AAT family (TC 2.A.3.1.6)	COG1113	
+648181538	Dda3937_03313	putative cysteine synthase/cystathionine beta-synthase	COG0031	
+648181543	Dda3937_03309	nitrogen regulatory protein P-II family	COG0347	
+648181602	Dda3937_01790	multifunctional acyl-CoA thioesterase I and protease I and lysophospholipase L1	COG2755	
+648181608	Dda3937_01796	amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-)	COG0765	
+648181609	Dda3937_04495	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648181622	Dda3937_02508	DNA-binding transcriptional repressor, regulatory protein accessory to GcvA	COG2716	
+648181623	Dda3937_02507	dihydrodipicolinate synthase	COG0329	
+648181631	Dda3937_02499	succinyldiaminopimelate desuccinylase (EC 3.5.1.18)	COG0624	
+648181656	Dda3937_02475	glutamate/aspartate ABC transporter ATP-binding protein	COG1126	
+648181657	Dda3937_02474	membrane protein of an ABC superfamily glutamate/aspartate transporter	COG0765	
+648181658	Dda3937_02473	membrane protein of an ABC superfamily glutamate and aspartate transporter	COG0765	
+648181659	Dda3937_02472	glutamate/aspartate ABC transporter periplasmic-binding protein	COG0834	
+648181698	Dda3937_01544	putative enzyme subunit	COG2049	
+648181699	Dda3937_01543	putative enzyme subunit	COG1984	
+648181728	Dda3937_03987	3-deoxy-D-arabinoheptulosonate-7-phosphate synthase (EC 2.5.1.54)	COG0722	
+648181806	Dda3937_00839	ABC transporter permease	COG0601	
+648181807	Dda3937_00838	ABC transporter permease	COG1173	
+648181808	Dda3937_00837	olgopeptide transport ATP-binding protein oppD	COG0444	
+648181809	Dda3937_00836	peptide ABC transporter ATP-binding protein	COG4608	
+648181810	Dda3937_00835	dipeptide-binding ABC transporter periplasmic substrate-binding component	COG0747	
+648181847	Dda3937_00800	D-alanine aminotransferase	COG0115	
+648181891	Dda3937_00762	periplasmic binding protein for nickel	COG0747	
+648181892	Dda3937_00761	Nickel transport system permease	COG0601	
+648181893	Dda3937_00760	nickel ABC transporter , inner membrane protein	COG1173	
+648181894	Dda3937_00759	olgopeptide transporter putative ATPase domain-containing protein	COG0444	
+648181895	Dda3937_00758	ATP-binding protein of nickel transport system	COG1124	
+648181944	Dda3937_02691	D-cysteine desulfhydrase (EC 4.4.1.15)	COG2515	
+648181948	Dda3937_04316	transcriptional regulator, GntR family	COG1167	
+648181950	Dda3937_02686	diamine aminotransferase apoenzyme (EC 2.6.1.29)	COG4992	
+648181952	Dda3937_04522	Threonine efflux protein	COG1280	
+648181983	Dda3937_02856	diaminobutyrate aminotransferase apoenzyme (EC 2.6.1.76)	COG0160	
+648181986	Dda3937_02853	diaminopimelate decarboxylase	COG0019	
+648181998	Dda3937_02841	GCN5-related N-acetyltransferase	COG1247	
+648181999	Dda3937_02840	Xaa-Pro dipeptidase	COG0006	
+648182022	Dda3937_03026	Sarcosine oxidase subunit beta	COG0665	
+648182040	Dda3937_03009	methionine ABC transporter ATP-binding protein	COG1135	
+648182041	Dda3937_03008	methionine ABC transporter permease	COG2011	
+648182051	Dda3937_02998	putative periplasmic dipeptide transport protein	COG0747	
+648182052	Dda3937_02997	dihydrodipicolinate synthase	COG0329	
+648182055	Dda3937_02994	ABC transporter permease	COG0601	
+648182056	Dda3937_02993	ABC transporter permease	COG1173	
+648182060	Dda3937_02989	catabolic threonine dehydratase, PLP-dependent	COG1171	
+648182091	Dda3937_00653	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648182092	Dda3937_00652	allophanate hydrolase subunit 1	COG2049	
+648182093	Dda3937_00651	allophanate hydrolase subunit 2	COG1984	
+648182095	Dda3937_00649	aspartate aminotransferase	COG0436	
+648182099	Dda3937_00645	amino acid ABC transporter membrane protein 1, PAAT family (TC 3.A.1.3.-)	COG0765	
+648182100	Dda3937_00644	amino acid ABC transporter permease	COG0765	
+648182101	Dda3937_00643	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)	COG1126	
+648182182	Dda3937_03768	Ferric iron ABC transporter ATP-binding protein	COG3842	
+648182195	Dda3937_02915	opine transporter, periplasmic binding protein	COG0747	
+648182196	Dda3937_02914	opine ABC transporter ATP-binding protein	COG0444	
+648182198	Dda3937_02912	ABC transporter permease	COG0601	
+648182199	Dda3937_02911	opine transporter, membrane protein	COG1173	
+648182204	Dda3937_02906	Tripeptide aminopeptidase	COG2195	
+648182205	Dda3937_02905	dipeptide binding protein	COG0747	
+648182214	Dda3937_02896	4-aminobutyrate aminotransferase	COG0160	
+648182218	Dda3937_02892	putative transferase/phosphorylase	COG0547	
+648182219	Dda3937_02891	olgoendopeptidase F	COG1164	
+648182223	Dda3937_02887	glutamine ABC transporter ATP-binding protein	COG1126	
+648182224	Dda3937_02886	glutamine ABC transporter membrane protein	COG0765	
+648182225	Dda3937_02885	glutamine ABC transporter periplasmic binding protein	COG0834	
+648182229	Dda3937_02882	threonine and homoserine efflux system	COG5006	
+648182238	Dda3937_02462	allophanate hydrolase subunit 1 family	COG2049	
+648182239	Dda3937_02463	allophanate hydrolase subunit 2	COG1984	
+648182254	Dda3937_03438	oligopeptide transporter	COG0747	
+648182255	Dda3937_03439	oligopeptide transporter	COG0601	
+648182257	Dda3937_01247	ABC transporter ATPase	COG0444	
+648182258	Dda3937_01246	oligopeptide ABC transporter	COG4608	
+648182310	Dda3937_03828	putative oligopeptide ABC transporter periplasmic-binding component	COG4166	
+648182327	Dda3937_03618	lysine:proton symporter, AAT family (TC 2.A.3.1.2)	COG0833	
+648182360	Dda3937_03490	methionine ABC transporter ATP-binding protein	COG1135	
+648182361	Dda3937_03489	methionine ABC transporter permease	COG2011	
+648182374	Dda3937_03477	putrescine ABC transporter periplasmic-binding protein	COG0687	
+648182375	Dda3937_03476	putrescine ABC transporter ATP-binding protein	COG3842	
+648182376	Dda3937_03475	putrescine ABC transporter membrane protein	COG1176	
+648182377	Dda3937_03474	putrescine ABC transporter membrane protein	COG1177	
+648182381	Dda3937_04325	arginine-binding periplasmic protein 2	COG0834	
+648182382	Dda3937_00467	L-arginine ABC transporter membrane protein	COG4160	
+648182383	Dda3937_00468	arginine ABC transporter membrane protein	COG4215	
+648182384	Dda3937_00469	arginine ABC transporter periplasmic-binding protein	COG0834	
+648182385	Dda3937_02373	arginine ABC transporter subunit ATP-binding protein	COG4161	
+648182419	Dda3937_04327	phosphoserine aminotransferase apoenzyme (EC 2.6.1.52)	COG1932	
+648182420	Dda3937_04065	3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)	COG0128	
+648182425	Dda3937_02979	phosphoribosyl-AMP cyclohydrolase (EC 3.5.4.19)/phosphoribosyl-ATP pyrophosphatase (EC 3.6.1.31)	COG0139	
+648182426	Dda3937_02978	imidazole glycerol phosphate synthase, catalytic subunit with HisH	COG0107	
+648182427	Dda3937_02977	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase (EC 5.3.1.16)	COG0106	
+648182428	Dda3937_02976	imidazole glycerol phosphate synthase, glutamine amidotransferase subunit with HisF	COG0118	
+648182429	Dda3937_02975	imidazoleglycerol-phosphate dehydratase (EC 4.2.1.19)	COG0131	
+648182430	Dda3937_02974	histidinol-phosphate aminotransferase	COG0079	
+648182431	Dda3937_02973	bifunctional histidinal dehydrogenase/histidinol dehydrogenase	COG0141	
+648182432	Dda3937_02972	ATP phosphoribosyltransferase	COG0040	
+648182447	Dda3937_03732	putrescine:proton symporter, AAT family (TC 2.A.3.1.13)	COG0531	
+648182465	Dda3937_04196	oxidoreductase-related protein	COG0665	
+648182479	Dda3937_04063	putative zinc-binding hydrolase	COG1387	
+648182520	Dda3937_03570	protease II	COG1770	
+648182540	Dda3937_03325	putative transport system permease	COG0601	
+648182541	Dda3937_03326	putative solute-binding lipoprotein	COG0747	
+648182543	Dda3937_03328	ABC transporter nucleotide binding/ATPase (peptide)	COG0444	
+648182570	Dda3937_04055	hypothetical protein	COG2095	
+648182572	Dda3937_04054	oligopeptide transport; periplasmic binding protein	COG4166	
+648182573	Dda3937_04053	oligopeptide ABC transporter membrane protein	COG0601	
+648182574	Dda3937_04052	oligopeptide transport system permease OppC	COG1173	
+648182575	Dda3937_04051	oligopeptide ABC transporter ATP-binding protein	COG0444	
+648182576	Dda3937_04050	oligopeptide transport protein	COG4608	
+648182590	Dda3937_00572	tryptophan synthase, alpha chain (EC 4.2.1.20)	COG0159	
+648182591	Dda3937_00573	tryptophan synthase, subunit beta	COG0133	
+648182592	Dda3937_00574	indole-3-glycerol phosphate synthase (EC 4.1.1.48)	COG0134	
+648182593	Dda3937_00575	anthranilate phosphoribosyltransferase	COG0547	
+648182594	Dda3937_00576	anthranilate synthase component II	COG0512	
+648182595	Dda3937_00577	anthranilate synthase, component I (EC 4.1.3.27)	COG0147	
+648182675	Dda3937_01639	putative ABC transporter of substrate X, permease subunit II	COG1177	
+648182676	Dda3937_01638	ABC transporter permease	COG1176	
+648182677	Dda3937_01637	putative ABC transporter of substrate X, ATP-binding subunit	COG3842	
+648182702	Dda3937_00034	phosphoribosylpyrophosphate synthase	COG0462	
+648182743	Dda3937_02928	D-amino acid dehydrogenase	COG0665	
+648182760	Dda3937_03719	aminodeoxychorismate synthase, subunit I	COG0147	
+648182762	Dda3937_03721	L-serine deaminase I	COG1760	
+648182786	Dda3937_03365	putative transporter	COG1823	
+648182814	Dda3937_02091	peptidase T	COG2195	
+648182863	Dda3937_00627	amino acid ABC transporter periplasmic amino acid-binding protein	COG0834	
+648182866	Dda3937_00629	ABC transporter permease	COG0765	
+648182867	Dda3937_00630	ABC transporter permease	COG0765	
+648182868	Dda3937_00631	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)	COG1126	
+648182869	Dda3937_00632	branched-chain amino acid aminotransferase	COG0115	
+648182876	Dda3937_00639	ABC transporter membrane protein	COG1177	
+648182877	Dda3937_00640	ABC transporter permease membrane protein	COG1176	
+648182878	Dda3937_00641	ABC transpoter ATP binding protein	COG0687	
+648182880	Dda3937_04150	4-aminobutyrate aminotransferase	COG0160	
+648182881	Dda3937_04149	putative GntR-family regulatory protein and aminotransferase near polyamine transporter	COG1167	
+648182883	Dda3937_04148	ABC transporter ATPase	COG3842	
+648182887	Dda3937_04145	5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase	COG0620	
+648182956	Dda3937_00111	dipeptide-binding ABC transporter periplasmic substrate-binding component	COG0747	
+648182957	Dda3937_00112	putative glutathione transporter, ATP-binding protein	COG1124	
+648182958	Dda3937_00113	dipeptide transport ATP-binding protein dppD	COG0444	
+648182959	Dda3937_00114	dipeptide transport system permease dppC	COG1173	
+648182960	Dda3937_00115	putative transporter, permease	COG0601	
+648182969	Dda3937_00124	putative peptidase	COG3591	
+648182988	Dda3937_03136	ABC transporter periplasmic murein peptide-binding protein	COG4166	
+648183000	Dda3937_03124	DNA-binding protein transcriptional dual regulator, tyrosine-binding protein	COG3283	
+648183001	Dda3937_03123	acetylornithine deacetylase/Succinyl-diaminopimelate desuccinylase-like deacylase	COG0624	
+648183011	Dda3937_03113	peptide transport periplasmic protein	COG4166	
+648183032	Dda3937_04040	ABC transporter periplasmic protein	COG4166	
+648183079	Dda3937_03665	cysteine desulfurase	COG0520	
+648183091	Dda3937_03522	3-deoxy-D-arabinoheptulosonate-7-phosphate synthase (EC 2.5.1.54)	COG0722	
+648183106	Dda3937_04343	membrane alanine aminopeptidase N	COG0308	
+648183116	Dda3937_03656	aspartate transaminase	COG1448	
+648183154	Dda3937_02247	4-amino-4-deoxychorismate lyase component of para-aminobenzoate synthase multienzyme complex	COG0115	
+648183293	Dda3937_03962	D-serine/D-alanine/glycine:proton symporter, AAT family (TC 2.A.3.1.7)	COG1113	
+648183374	Dda3937_01862	Gamma-glutamyltranspeptidase	COG0405	
+648183379	Dda3937_01857	aspartate aminotransferase	COG0436	
+648183380	Dda3937_01856	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648183410	Dda3937_01828	putative DNA-binding transcriptional regulator with an aminotransferase domain	COG1167	
+648183447	Dda3937_04027	putative aminotransferase	COG0436	
+648183462	Dda3937_04214	histidine/lysine/arginine/ornithine ABC transporter ATP-binding protein	COG4598	
+648183463	Dda3937_04215	histidine/lysine/arginine/ornithine ABC transporter membrane protein	COG4160	
+648183464	Dda3937_00103	histidine/lysine/arginine/ornithine ABC transporter membrane protein	COG4215	
+648183465	Dda3937_00102	L-histidine-binding protein	COG0834	
+648183474	Dda3937_02106	putative semialdehyde dehydrogenase	COG0136	
+648183486	Dda3937_02118	branched-chain amino acid transport protein AzlC	COG1296	
+648183487	Dda3937_02119	hypothetical protein	COG4392	
+648183497	Dda3937_00493	chorismate synthase (EC 4.2.3.5)	COG0082	
+648183552	Dda3937_02410	putative aminotransferase	COG0436	
+648183553	Dda3937_02409	D-alanine aminotransferase	COG0115	
+648183586	Dda3937_01655	Starvation sensing protein rspB	COG1063	
+648183591	Dda3937_01660	urocanate hydratase (EC 4.2.1.49)	COG2987	
+648183592	Dda3937_01661	histidine ammonia-lyase (EC 4.3.1.3)	COG2986	
+648183599	Dda3937_01667	histidine ammonia-lyase	COG2986	
+648183600	Dda3937_01668	histidine ABC transporter ATP-binding protein	COG4598	
+648183601	Dda3937_01669	Octopine transport system permease occM	COG4160	
+648183602	Dda3937_01670	Octopine transport system permease occQ	COG4215	
+648183603	Dda3937_01671	ABC transporter periplasmic binding-protein	COG0834	
+648183607	Dda3937_01675	N-formylglutamate deformylase	COG3741	
+648183617	Dda3937_01684	putative serine transporter	COG0814	
+648183618	Dda3937_01685	L-serine deaminase II	COG1760	
+648183669	Dda3937_02805	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648183670	Dda3937_02804	amino acid ABC transporter membrane protein 1, PAAT family (TC 3.A.1.3.-)	COG0765	
+648183671	Dda3937_02803	amino acid ABC transporter ATP-binding protein, PAAT family (TC 3.A.1.3.-)	COG1126	
+648183672	Dda3937_02802	amino acid ABC transporter membrane protein 2, PAAT family (TC 3.A.1.3.-)	COG0765	
+648183702	Dda3937_03696	aminopeptidase B	COG0260	
+648183709	Dda3937_04379	cysteine desulfurase IscS	COG1104	
+648183720	Dda3937_02384	serine hydroxymethyltransferase	COG0112	
+648183726	Dda3937_03373	pectin acetylesterase	COG2755	
+648183728	Dda3937_03375	nitrogen regulatory protein P-II family	COG0347	
+648183736	Dda3937_03382	phosphatidylglycerophosphatase C	COG0560	
+648183809	Dda3937_04068	Ferric iron ABC transporter ATP-binding protein	COG3842	
+648183812	Dda3937_00021	spermidine synthase (putrescine aminopropyltransferase)	COG0421	
+648183813	Dda3937_03980	S-adenosylmethionine decarboxylase	COG1586	
+648183836	Dda3937_01568	chorismate mutase (EC 5.4.99.5)	COG0077	
+648183837	Dda3937_01567	chorismate mutase (EC 5.4.99.5)	COG0287	
+648183838	Dda3937_01566	3-deoxy-D-arabinoheptulosonate-7-phosphate synthase (EC 2.5.1.54)	COG0722	
+648183869	Dda3937_03160	Threonine efflux protein	COG1280	
+648183882	Dda3937_03172	dipeptidase-related protein	COG4690	
+648183893	Dda3937_03183	acetylornithine deacetylase	COG0624	
+648183894	Dda3937_03184	ABC transporter solute binding protein	COG0747	
+648183895	Dda3937_03185	ABC transporter inner membrane protein	COG0601	
+648183896	Dda3937_03186	ABC transporter permease	COG1173	
+648183898	Dda3937_03188	acetylornithine deacetylase	COG0624	
+648183925	Dda3937_00937	glutamate-5-semialdehyde dehydrogenase (EC 1.2.1.41)	COG0014	
+648183926	Dda3937_00936	gamma-glutamate kinase	COG0263	
+648183932	Dda3937_00930	aminoacyl-histidine dipeptidase	COG2195	
+648183939	Dda3937_00925	5'-methylthioribose kinase (EC 2.7.1.100)	COG4857	
+648183940	Dda3937_00924	methylthioribose-1-phosphate isomerase	COG0182	
+648183941	Dda3937_00923	1,2-dihydroxy-3-keto-5-methylthiopentene dioxygenase	COG1791	
+648183942	Dda3937_00922	2,3-diketo-5-methylthiopentyl-1-phosphate enolase-phosphatase	COG4229	
+648183944	Dda3937_00920	aspartate aminotransferase	COG0436	
+648183946	Dda3937_00918	N-carbamoyl-L-amino acid hydrolase	COG0624	
+648183947	Dda3937_00917	serine--pyruvate aminotransferase/L-alanine:glyoxylate aminotransferase	COG0075	
+648183948	Dda3937_00916	amino acid ABC transporter	COG1126	
+648183949	Dda3937_00915	putative amino acid ABC transporter permease	COG0765	
+648183950	Dda3937_00914	amino acid ABC transporter permease, 3-TM region, His/Glu/Gln/Arg/opine	COG0765	
+648183951	Dda3937_00913	putative amino acid ABC transporter periplasmic protein	COG0834	
+648183953	Dda3937_00911	Gamma-glutamyltranspeptidase	COG0405	
+648183958	Dda3937_00906	hydantoin racemase	COG4126	
+648183964	Dda3937_00901	glycine/betaine L-Proline transport ATP-binding protein	COG4175	
+648183965	Dda3937_00900	glycine betaine ABC transporter membrane protein	COG4176	
+648183966	Dda3937_00899	glycine betaine ABC transporter periplasmic-binding protein	COG2113	
+648183969	Dda3937_00896	putative amino acid transporter	COG1296	
+648183990	Dda3937_04390	D,D-heptose 1,7-bisphosphate phosphatase	COG0241	
+648183991	Dda3937_03917	DL-methionine uptake transporter ATP-binding protein (MUT)	COG1135	
+648183992	Dda3937_03916	membrane protein of DL-methionine uptake transporter (MUT)	COG2011	
+648184007	Dda3937_00213	sulfate adenylyltransferase, subunit 2	COG0175	
+648184009	Dda3937_00211	phosphoadenylylsulfate reductase (thioredoxin) (EC 1.8.4.8)	COG0175	
+648184089	Dda3937_02600	Pyrroline-5-carboxylate reductase	COG0345	
+648184114	Dda3937_02577	diaminopimelate decarboxylase, PLP-binding protein	COG0019	
+648184116	Dda3937_04076	ABC transporter ATP-binding protein	COG3842	
+648184117	Dda3937_04077	ABC transporter permease	COG1177	
+648184134	Dda3937_03448	cyclohexadienyl dehydratase (EC 4.2.1.91)	COG0834	
+648184136	Dda3937_03449	aromatic amino acid:proton symporter, AAT family (TC 2.A.3.1.3)	COG1113	
+648184139	Dda3937_03452	tyrosine aminotransferase, tyrosine-repressible, PLP-dependent	COG1448	
+648184196	Dda3937_02621	cysteine synthase	COG0031	
+648184203	Dda3937_02630	dihydrodipicolinate synthase	COG0329	
+648184204	Dda3937_02631	sodium-solute symporter	COG0591	
+648184221	Dda3937_04205	aromatic amino acid:proton symporter, AAT family (TC 2.A.3.1.3)	COG1113	
+648184256	Dda3937_02451	acetolactate synthase, small subunit (EC 2.2.1.6)	COG0440	
+648184257	Dda3937_02452	acetolactate synthase, large subunit (EC 2.2.1.6)	COG0028	
+648184260	Dda3937_04301	2-isopropylmalate synthase (EC 2.3.3.13)	COG0119	
+648184261	Dda3937_04404	3-isopropylmalate dehydrogenase	COG0473	
+648184262	Dda3937_01352	3-isopropylmalate isomerase dehydratase subunit	COG0065	
+648184263	Dda3937_01353	3-isopropylmalate isomerase subunit	COG0066	
+648184265	Dda3937_01355	tryptophanase (EC 4.1.99.1)	COG3033	
+648184271	Dda3937_01361	acetolactate synthase, large subunit (EC 2.2.1.6)	COG0028	
+648184278	Dda3937_01368	branched-chain amino-acid ABC transporter ATP-binding protein	COG0410	
+648184279	Dda3937_01369	amino acid/amide ABC transporter ATP-binding protein 1, HAAT family (TC 3.A.1.4.-)	COG0411	
+648184280	Dda3937_01370	amino acid/amide ABC transporter membrane protein 2, HAAT family (TC 3.A.1.4.-)	COG4177	
+648184281	Dda3937_01371	amino acid/amide ABC transporter membrane protein 1, HAAT family (TC 3.A.1.4.-)	COG0559	
+648184282	Dda3937_01372	amino acid/amide ABC transporter substrate-binding protein, HAAT family (TC 3.A.1.4.-)	COG0683	
+648184298	Dda3937_01388	Threonine efflux protein	COG1280	
+648184299	Dda3937_01389	carbamoyl-phosphate synthase large subunit	COG0458	
+648184300	Dda3937_01390	carbamoyl phosphate synthetase small subunit, glutamine amidotransferase	COG0505	
+648184301	Dda3937_01391	dihydrodipicolinate reductase (EC 1.3.1.26)	COG0289	
+648184320	Dda3937_00392	threonine synthase	COG0498	
+648184321	Dda3937_00393	homoserine kinase (EC 2.7.1.39)	COG0083	
+648184322	Dda3937_00394	aspartate kinase (EC 2.7.2.4)	COG0527	
+648184347	Dda3937_00418	arginine decarboxylase (EC 4.1.1.19)	COG1166	
+648184386	Dda3937_00455	amino acid ABC transporter periplasmic amino acid-binding protein	COG0834	
+648184387	Dda3937_00456	amino acid ABC transporter periplasmic amino acid-binding protein	COG0834	
+648184389	Dda3937_00458	amino acid ABC transporter permease	COG0765	
+648184390	Dda3937_00459	amino acid ABC transporter ATP-binding protein	COG1126	
+648184411	Dda3937_02173	Homocitrate synthase	COG0119	
+648184412	Dda3937_02172	cysteine desulfurase	COG1104	
+648184445	Dda3937_02140	L-lysine 2,3-aminomutase (EC 5.4.3.2)	COG1509	
+648184450	Dda3937_02135	aspartate kinase (EC 2.7.2.4)	COG0527	
+648184454	Dda3937_02131	methionine synthase (B12-dependent) (EC 2.1.1.13)	COG1410	
+648184459	Dda3937_02126	homoserine O-succinyltransferase (EC 2.3.1.46)	COG1897	
+648184467	Dda3937_01528	dehydroshikimate reductase, NAD(P)-binding protein	COG0169	
+648184525	Dda3937_00532	ethanolamine:proton symporter, EAT family (TC 2.A.3.5.1)	COG0531	
+648184534	Dda3937_00541	transporter, LysE family	COG1280	
+648184540	Dda3937_00547	Ornithine aminotransferase; Acetylornithine aminotransferase; N-succinyl-L,L-diaminopimelate aminotransferase	COG4992	
+648184541	Dda3937_00548	aminodeoxychorismate synthase, subunit II	COG0512	
+648184561	Dda3937_04183	3-dehydroquinate synthase (EC 4.2.3.4)	COG0337	
+648184562	Dda3937_04182	shikimate kinase (EC 2.7.1.71)	COG0703	
+648184591	Dda3937_00342	dihydrodipicolinate synthase	COG0329	
+648184607	Dda3937_00326	aspartate-semialdehyde dehydrogenase	COG0136	
+648184608	Dda3937_00325	hypothetical protein	COG2095	
+648184616	Dda3937_00318	glycerol 3-phosphate dehydrogenase (quinone) subunit B (EC 1.1.5.3)	COG3075	
+648184622	Dda3937_00312	Homoserine/homoserine lactone efflux protein	COG1280	
+648184638	Dda3937_00297	diaminopimelate epimerase (EC 5.1.1.7)	COG0253	
+648184648	Dda3937_00288	putative transporter ATP-binding protein	COG1126	
+648184649	Dda3937_00287	amino acid ABC transporter membrane protein, PAAT family (TC 3.A.1.3.-)	COG0765	
+648184650	Dda3937_00286	amino acid ABC transporter periplasmic amino acid-binding portion	COG0834	
+648184662	Dda3937_00278	amino acid/polyamine/organocation transporter, APC superfamily (TC 2.A.3)	COG1113	
+648184682	Dda3937_00258	L-proline dehydrogenase (EC 1.5.99.8)/delta-1-pyrroline-5-carboxylate dehydrogenase (EC 1.5.1.12)	COG4230	
+648184683	Dda3937_00257	proline:sodium symporter	COG0591	
+648184684	Dda3937_00256	ketol-acid reductoisomerase (EC 1.1.1.86)	COG0059	
+648184688	Dda3937_00252	Threonine dehydratase biosynthetic	COG1171	
+648184689	Dda3937_00251	dihydroxyacid dehydratase	COG0129	
+648184690	Dda3937_00250	branched-chain amino-acid aminotransferase	COG0115	
+648184692	Dda3937_00248	acetolactate synthase, large subunit (EC 2.2.1.6)	COG0028	
+648184707	Dda3937_02078	proline dipeptidase	COG0006	
+648184725	Dda3937_04707	argininosuccinate lyase	COG0165	
+648184726	Dda3937_02060	N-acetylglutamate kinase (EC 2.7.2.8)	COG0548	
+648184727	Dda3937_02059	N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	COG0002	
+648184728	Dda3937_02058	acetylornithine deacetylase	COG0624	
+648184733	Dda3937_02053	methionine synthase (B12-independent) (EC 2.1.1.14)	COG0620	
+648184735	Dda3937_02051	putative inner membrane protein	COG0697	
+648184737	Dda3937_02049	serine acetyltransferase	COG1045	
+648184743	Dda3937_02043	L-threonine 3-dehydrogenase (EC 1.1.1.103)	COG1063	
+648184771	Dda3937_03251	ABC transporter periplasmic protein	COG0747	
+648184772	Dda3937_03250	dipeptide transport system permease	COG0601	
+648184773	Dda3937_03249	ABC transporter permease	COG1173	
+648184774	Dda3937_03248	D-aminopeptidease	COG3191	
+648184775	Dda3937_03247	Periplasmic dipeptide transport protein of ABC transporter	COG2362	
+648184776	Dda3937_03246	L-asparaginase	COG1446	
+648184779	Dda3937_03243	ABC transporter ATP-binding protein	COG1124	
+648184780	Dda3937_03242	olgopeptide transport ATP-binding protein	COG0444	
+648184781	Dda3937_03241	dipeptide transport system permease	COG1173	
+648184782	Dda3937_03240	dipeptide transport system permease	COG0601	
+648184783	Dda3937_03239	dipeptide ABC transporter periplasmic protein	COG0747	
+648184784	Dda3937_03238	dipeptidase AC. Metallo peptidase. MEROPS family M19	COG2355	
+648184808	Dda3937_03216	diaminopimelate decarboxylase	COG0019	
+648184837	Dda3937_00975	signal receptor	COG5006	
+648184840	Dda3937_00977	argininosuccinate synthase (EC 6.3.4.5)	COG0137	
+648184882	Dda3937_01017	valine-pyruvate aminotransferase apoenzyme (EC 2.6.1.66)	COG3977	
+648184884	Dda3937_01019	ABC transporter periplasmic protein	COG0747	
+648184885	Dda3937_01020	ABC transporter permease	COG0601	
+648184886	Dda3937_01021	membrane protein, ABC transporter	COG1173	
+648184898	Dda3937_01033	putative oxalyl-CoA decarboxylase	COG0028	
+648184905	Dda3937_01040	L-lysine 2,3-aminomutase (EC 5.4.3.2)	COG1509	
+648184906	Dda3937_01041	phosphoserine aminotransferase apoenzyme (EC 2.6.1.52)	COG1932	
+648184920	Dda3937_01054	oligopeptidase A	COG0339	
+648184936	Dda3937_01069	4-hydroxyphenylpyruvate dioxygenase (EC 1.13.11.27)	COG3185	
+648184952	Dda3937_01085	Pyridine nucleotide-disulfide oxidoreductase family protein	COG0493	
+648184957	Dda3937_01090	amino acid ABC transporter membrane protein 2, PAAT family (TC 3.A.1.3.-)	COG0765	
+648184958	Dda3937_01091	amino acid ABC transporter membrane protein 1, PAAT family (TC 3.A.1.3.-)	COG0765	
+648184959	Dda3937_01092	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648184975	Dda3937_00138	cysteine synthase	COG0031	

@@ -1,0 +1,82 @@
+Gene ID	Locus Tag	Name	Function	
+648180448	Dda3937_02000	hypothetical protein	COG3077	
+648180635	Dda3937_00671	p-hydroxybenzoic acid efflux pump subunit AaeA	COG1566	
+648180728	Dda3937_01282	ketoacid-binding protein	COG0251	
+648180861	Dda3937_02656	alkyl hydroperoxide reductase, C22 subunit	COG0450	
+648180862	Dda3937_02655	alkyl hydroperoxide reductase, F52a subunit, FAD/NAD(P)-binding protein	COG3634	
+648181042	Dda3937_02282	putative Co/Zn/Cd efflux system membrane fusion protein	COG0845	
+648181043	Dda3937_02281	acriflavin resistance protein	COG0841	
+648181084	Dda3937_01173	membrane fusion component of tripartite multidrug resistance system	COG1566	
+648181138	Dda3937_01223	cation efflux system protein	COG0841	
+648181139	Dda3937_01224	RND efflux membrane fusion protein	COG0845	
+648181142	Dda3937_01227	cation efflux protein	COG0534	
+648181247	Dda3937_02549	hypothetical protein	COG2914	
+648181254	Dda3937_01397	GDP-mannose pyrophosphatase	COG0494	
+648181277	Dda3937_01420	macrolide-specific efflux protein	COG0845	
+648181333	Dda3937_01473	putative RND efflux membrane fusion protein	COG0845	
+648181334	Dda3937_01474	RND efflux transporter	COG0841	
+648181339	Dda3937_01479	membrane-fusion protein	COG0845	
+648181347	Dda3937_01487	ABC transporter permease	COG0577	
+648181349	Dda3937_01489	putative RND efflux membrane fusion protein	COG1566	
+648181386	Dda3937_03387	nucleotide hydrolase	COG0494	
+648181493	Dda3937_01945	alkyl hydroperoxide reductase subunit C-like protein	COG0450	
+648181540	Dda3937_03311	putative ATP-binding protein of multidrug ABC transporter	COG1132	
+648181541	Dda3937_03310	putative ATP-binding protein of multidrug ABC transporter	COG1132	
+648181553	Dda3937_03300	multidrug efflux system protein	COG0841	
+648181554	Dda3937_03299	acriflavin resistance protein a; putative RND efflux membrane fusion protein	COG0845	
+648181569	Dda3937_04493	UDP-sugar hydrolase; 5'-nucleotidase	COG0737	
+648181666	Dda3937_02465	Quaternary ammonium compound-resistance protein	COG2076	
+648181732	Dda3937_03991	putative Co/Zn/Cd efflux system membrane fusion protein	COG0845	
+648181801	Dda3937_00844	Non-specific DNA-binding protein Dps/Iron-binding ferritin-like antioxidant protein/Ferroxidase	COG0783	
+648181863	Dda3937_00787	RND multidrug efflux transporter; Acriflavin resistance protein	COG0841	
+648181864	Dda3937_00786	putative RND efflux membrane fusion protein	COG0845	
+648181897	Dda3937_00756	membrane fusion component of tripartite multidrug resistance system	COG1566	
+648181906	Dda3937_04519	ABC transporter ATP-binding protein	COG1132	
+648181976	Dda3937_02863	CRISPR-associated protein Cas2	COG1343	
+648181977	Dda3937_02862	CRISPR-associated protein, Cas1 family	COG1518	
+648181978	Dda3937_02861	CRISPR-associated exonuclease, Cas4 family	COG1468	
+648181979	Dda3937_02860	CRISPR-associated protein, Csd2 family	COG3649	
+648181982	Dda3937_02857	CRISPR-associated helicase, Cas3 family	COG1203	
+648182187	Dda3937_04009	YbhR	COG0842	
+648182188	Dda3937_04010	ABC-2 type transport system permease protein	COG0842	
+648182189	Dda3937_04011	ABC transporter multidrug efflux pump, fused ATP-binding domains	COG1131	
+648182190	Dda3937_04012	HlyD family secretion protein	COG1566	
+648182227	Dda3937_02884	Fe-binding and storage protein	COG0783	
+648182245	Dda3937_03431	ABC transporter ATP-binding protein	COG0577	
+648182340	Dda3937_00470	putative esterase	COG0627	
+648182453	Dda3937_03205	lipid ABC transporter membrane protein	COG1132	
+648182501	Dda3937_01617	dATP pyrophosphohydrolase	COG0494	
+648182645	Dda3937_04142	Tellurite resistance protein tehA	COG1275	
+648182661	Dda3937_01652	Proteases secretion protein prtE	COG1566	
+648182758	Dda3937_03717	hypothetical protein	COG0251	
+648182761	Dda3937_03720	putative NUDIX hydrolase	COG0494	
+648182857	Dda3937_00622	OsmC/Ohr family protein	COG1764	
+648182911	Dda3937_03781	GAF domain-containing protein	COG1956	
+648183012	Dda3937_03112	putative antimicrobial peptide ABC transporter membrane protein	COG4168	
+648183013	Dda3937_03111	putative antimicrobial peptide ABC transporter membrane protein	COG4171	
+648183014	Dda3937_03110	peptide transport system ATP-binding protein	COG4170	
+648183015	Dda3937_03109	peptide transport system ATP-binding protein	COG4167	
+648183125	Dda3937_03647	putative glutathione peroxidase	COG0386	
+648183261	Dda3937_02791	putative inner membrane protein	COG0534	
+648183275	Dda3937_04641	Na+ driven multidrug efflux pump	COG0534	
+648183278	Dda3937_03358	putative cytochrome P450 hydroxylase	COG2124	
+648183397	Dda3937_01840	Multidrug efflux protein	COG0841	
+648183398	Dda3937_01839	putative RND efflux membrane fusion protein	COG0845	
+648183488	Dda3937_02120	Organic hydroperoxide resistance protein	COG1764	
+648183652	Dda3937_02821	multidrug efflux system, subunit A	COG0845	
+648183653	Dda3937_02820	acriflavin resistance plasma membrane protein	COG0841	
+648183654	Dda3937_02819	multidrug efflux system, subunit C	COG0841	
+648183740	Dda3937_03386	Toxin secretion ATP-binding protein	COG2274	
+648183803	Dda3937_04074	putative transporter ATP-binding protein	COG1131	
+648183972	Dda3937_00893	membrane fusion component of tripartite multidrug resistance system	COG1566	
+648184063	Dda3937_00160	2',3'-cyclic-nucleotide 2'-phosphodiesterase	COG0737	
+648184129	Dda3937_03443	cytochrome P450	COG2124	
+648184145	Dda3937_03457	CRISPR-associated helicase, Cas3 family	COG1203	
+648184146	Dda3937_03458	CRISPR-associated protein, Cas1 family	COG1518	
+648184222	Dda3937_04206	putative inner membrane protein	COG3725	
+648184328	Dda3937_00400	hypothetical protein	COG1986	
+648184392	Dda3937_00461	Organic hydroperoxide resistance protein	COG1764	
+648184569	Dda3937_00362	ADP-ribose diphosphatase	COG0494	
+648184762	Dda3937_03260	deoxyuridinetriphosphatase	COG0756	
+648184778	Dda3937_03244	beta-lactamase	COG1680	
+648184830	Dda3937_00968	putative na+-driven multidrug efflux pump transmembrane protein	COG0534	

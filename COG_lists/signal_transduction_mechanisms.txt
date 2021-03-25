@@ -1,0 +1,210 @@
+Gene ID	Locus Tag	Name	Function	
+648180347	Dda3937_01110	regulator of disulfide oxidoreductase A	COG2334	
+648180354	Dda3937_01116	nitrogen regulation protein NR(I)	COG2204	
+648180355	Dda3937_01117	sensory histidine kinase in two-component regulatory system with GlnG	COG3852	
+648180357	Dda3937_01119	GTP-binding protein	COG1217	
+648180365	Dda3937_01127	GTP pyrophosphokinase/Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	COG0317	
+648180402	Dda3937_01161	universal stress global response regulator	COG0589	
+648180403	Dda3937_01162	methyl-accepting chemotaxis sensory transducer with Cache sensor	COG0840	
+648180420	Dda3937_02537	Fumarate respiration sensor kinase protein DcuS	COG3290	
+648180421	Dda3937_02538	Response regulator of the two component transcriptional regulatory system DcuR/DcuS	COG4565	
+648180472	Dda3937_02023	methyl-accepting chemotaxis protein	COG0840	
+648180474	Dda3937_02025	methyl-accepting chemotaxis protein	COG0840	
+648180475	Dda3937_02026	methyl-accepting chemotaxis protein	COG0840	
+648180476	Dda3937_02027	methyl-accepting chemotaxis protein	COG0840	
+648180477	Dda3937_02028	methyl-accepting chemotaxis protein	COG0840	
+648180489	Dda3937_03052	sensory histidine kinase in two-component regulatory system with CpxR	COG0642	
+648180490	Dda3937_03053	transcriptional regulatory protein cpxR	COG0745	
+648180567	Dda3937_00228	DNA-binding heavy metal response regulator	COG0745	
+648180568	Dda3937_00229	sensor protein	COG0642	
+648180594	Dda3937_01578	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648180597	Dda3937_01581	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648180624	Dda3937_00661	diguanylate cyclase/phosphodiesterase	COG2200	
+648180642	Dda3937_00678	HPr-like nitrogen-regulatory protein NPr	COG1925	
+648180643	Dda3937_00679	nucleotide-binding NTPase	COG1660	
+648180644	Dda3937_00680	PTS IIA-like nitrogen-regulatory protein PtsN	COG1762	
+648180658	Dda3937_00694	putative DNA-binding transcriptional regulator	COG5007	
+648180693	Dda3937_01249	Icc protein	COG1409	
+648180742	Dda3937_01293	methyl-accepting chemotaxis protein	COG0840	
+648180813	Dda3937_02872	methyl-accepting chemotaxis protein	COG0840	
+648180850	Dda3937_02665	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648180913	Dda3937_02726	DNA-binding transcriptional repressor of SOS regulon	COG1974	
+648180935	Dda3937_03550	two component transcriptional regulator, LuxR family	COG2197	
+648180936	Dda3937_03549	sensor protein uhpB	COG3851	
+648181044	Dda3937_02280	Two-component response regulator	COG0745	
+648181045	Dda3937_02279	sensor protein irlS	COG0642	
+648181055	Dda3937_02269	Icc protein	COG1409	
+648181077	Dda3937_01166	FecR family protein	COG3712	
+648181131	Dda3937_01217	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648181278	Dda3937_01421	putative two-component system response regulator	COG0745	
+648181279	Dda3937_01422	putative two-component system sensor kinase	COG0642	
+648181284	Dda3937_01427	phosphohistidinoprotein-hexose phosphotransferase component of PTS system (Hpr)	COG1925	
+648181295	Dda3937_01437	anaerobic nitric oxide reductase transcription regulator norR	COG3604	
+648181331	Dda3937_01471	Phosphate regulon transcriptional regulatory protein phoB	COG0745	
+648181332	Dda3937_01472	sensor protein baeS	COG0642	
+648181387	Dda3937_00849	PTS system nitrogen assimilation enzyme I /putative sensory transducer	COG3605	
+648181420	Dda3937_00877	UTP--GlnB (protein PII) uridylyltransferase, GlnD	COG2844	
+648181463	Dda3937_01915	sensory box/GGDEF family protein	COG2199	
+648181482	Dda3937_01934	methyl-accepting chemotaxis sensory transducer with Cache sensor	COG0840	
+648181487	Dda3937_01939	DNA-binding response regulator in two-component regulatory system with PhoR (or CreC)	COG0745	
+648181488	Dda3937_01940	PAS/PAC sensor signal transduction histidine kinase (EC 2.7.13.3)	COG5002	
+648181528	Dda3937_03967	transcriptional regulator, BolA protein family	COG0271	
+648181543	Dda3937_03309	nitrogen regulatory protein P-II family	COG0347	
+648181573	Dda3937_03899	methyl-accepting chemotaxis sensory transducer with Cache sensor	COG0840	
+648181587	Dda3937_01775	hybrid sensory kinase in two-component regulatory system with RcsB and YojN	COG0642	
+648181588	Dda3937_01776	two component transcriptional regulator, LuxR family	COG2197	
+648181589	Dda3937_01777	putative 2-component sensor protein	COG0642	
+648181609	Dda3937_04495	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648181644	Dda3937_02487	hypothetical protein	COG2921	
+648181659	Dda3937_02472	glutamate/aspartate ABC transporter periplasmic-binding protein	COG0834	
+648181663	Dda3937_02468	phosphate starvation-inducible protein PhoH	COG1702	
+648181681	Dda3937_01559	serine chemoreceptor protein	COG0840	
+648181688	Dda3937_01553	DNA-binding response regulator in two-component regulatory system with KdpD	COG0745	
+648181689	Dda3937_01552	sensory histidine kinase in two-component regulatory system with KdpE	COG2205	
+648181761	Dda3937_03928	Low molecular weight protein-tyrosine-phosphatase wzb	COG0394	
+648181785	Dda3937_03276	diguanylate cyclase	COG2199	
+648181835	Dda3937_00812	FHA domain protein	COG3456	
+648181845	Dda3937_00802	hypothetical protein	COG0790	
+648181862	Dda3937_00788	HipA protein	COG3550	
+648181865	Dda3937_00785	Phosphate regulon transcriptional regulatory protein phoB	COG0745	
+648181866	Dda3937_00784	Two-component hybrid sensor and regulator	COG0642	
+648181882	Dda3937_00771	two component transcriptional regulator, LuxR family	COG4566	
+648181916	Dda3937_00743	DNA-binding transcriptional activator	COG3604	
+648181947	Dda3937_02688	negative transcriptional regulator, PaiB family	COG2808	
+648182026	Dda3937_03022	hypothetical protein	COG2199	
+648182064	Dda3937_02985	chemotaxis protein CheV	COG0835	
+648182085	Dda3937_00658	hypothetical protein	COG1073	
+648182091	Dda3937_00653	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648182144	Dda3937_04538	hypothetical protein	COG3228	
+648182209	Dda3937_02901	adenylate cyclase	COG1437	
+648182225	Dda3937_02885	glutamine ABC transporter periplasmic binding protein	COG0834	
+648182296	Dda3937_03817	putative sensor protein	COG3275	
+648182297	Dda3937_03818	two component transcriptional regulator, LytTR family	COG3279	
+648182345	Dda3937_00072	serine chemoreceptor protein	COG0840	
+648182349	Dda3937_03501	aspartate chemoreceptor protein	COG0840	
+648182350	Dda3937_03500	aspartate chemoreceptor protein	COG0840	
+648182351	Dda3937_03499	aspartate chemoreceptor protein	COG0840	
+648182352	Dda3937_03498	ribose and galactose chemoreceptor protein	COG0840	
+648182381	Dda3937_04325	arginine-binding periplasmic protein 2	COG0834	
+648182384	Dda3937_00469	arginine ABC transporter periplasmic-binding protein	COG0834	
+648182434	Dda3937_02970	methyl-accepting chemotaxis protein	COG0840	
+648182435	Dda3937_02969	Response regulator of a two component transcriptional regulatory system (CitA/CitB)	COG4565	
+648182436	Dda3937_02968	sensory histidine kinase in two-component regulatory system with citB	COG3290	
+648182532	Dda3937_04330	Response regulator	COG1639	
+648182546	Dda3937_03331	putative serine protein kinase, PrkA	COG2766	
+648182581	Dda3937_00563	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648182682	Dda3937_01632	methyl-accepting chemotaxis protein	COG0840	
+648182689	Dda3937_00042	DNA-binding transcriptional dual regulator, global regulator of anaerobic growth	COG0664	
+648182690	Dda3937_00041	stress-induced protein	COG0589	
+648182696	Dda3937_00039	putative transcriptional regulator	COG2912	
+648182717	Dda3937_02950	putative Heme-regulated two-component response regulator	COG2199	
+648182763	Dda3937_03722	methyl-accepting chemotaxis protein	COG0840	
+648182809	Dda3937_02086	putative lysogenization regulator	COG2915	
+648182811	Dda3937_02088	DNA-binding response regulator in two-component regulatory system with PhoQ	COG0745	
+648182812	Dda3937_02089	sensory histidine kinase in two-compoent regulatory system with PhoP	COG0642	
+648182840	Dda3937_03346	two component transcriptional regulator, LuxR family	COG2197	
+648182860	Dda3937_00625	methyl-accepting chemotaxis protein	COG0840	
+648182861	Dda3937_00626	methyl-accepting chemotaxis protein	COG0840	
+648182863	Dda3937_00627	amino acid ABC transporter periplasmic amino acid-binding protein	COG0834	
+648182905	Dda3937_03787	sensory histidine kinase in two-component regulatory system with NarL	COG3850	
+648182906	Dda3937_03786	two component transcriptional regulator, LuxR family	COG2197	
+648182910	Dda3937_03782	ProP effector	COG3109	
+648182911	Dda3937_03781	GAF domain-containing protein	COG1956	
+648182916	Dda3937_03778	methyl-accepting chemotaxis protein	COG0840	
+648182949	Dda3937_00104	circadian input kinase A/Phytochrome-like protein	COG2199	
+648182950	Dda3937_00105	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648182952	Dda3937_00107	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor	COG0840	
+648182966	Dda3937_00121	DNA-binding response regulator in two-component regulatory system with RstB	COG0745	
+648182967	Dda3937_00122	sensor protein rstB	COG0642	
+648182978	Dda3937_03145	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor	COG0840	
+648182981	Dda3937_03142	methyl-accepting chemotaxis protein	COG0840	
+648183006	Dda3937_03118	phage shock protein C (PspC) family protein	COG1983	
+648183008	Dda3937_03116	phage shock protein A (PspA) family protein	COG1842	
+648183009	Dda3937_03115	DNA-binding transcriptional activator	COG1221	
+648183022	Dda3937_03102	carbon starvation protein A	COG1966	
+648183090	Dda3937_03523	hypothetical protein	COG1806	
+648183121	Dda3937_03651	hypothetical protein	COG2200	
+648183134	Dda3937_03639	Rtn protein	COG2200	
+648183181	Dda3937_00027	methyl-accepting chemotaxis protein	COG0840	
+648183197	Dda3937_03415	methyl-accepting chemotaxis protein	COG0840	
+648183198	Dda3937_03416	phosphate starvation-inducible protein PhoH	COG1702	
+648183244	Dda3937_02775	chemotaxis response - phosphatase cheZ	COG3143	
+648183246	Dda3937_02777	chemotaxis response regulator protein-glutamate methylesterase cheB	COG2201	
+648183247	Dda3937_02778	chemotaxis protein methyltransferase CheR	COG1352	
+648183248	Dda3937_02779	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648183249	Dda3937_02780	Positive regulator of CheA protein activity (CheW)	COG0835	
+648183250	Dda3937_02781	CheA signal transduction histidine kinase	COG0643	
+648183257	Dda3937_02787	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648183289	Dda3937_03960	two component transcriptional regulator, LuxR family	COG2197	
+648183375	Dda3937_01861	putative methyl-accepting chemotaxis transducer transmembrane protein	COG0840	
+648183380	Dda3937_01856	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648183465	Dda3937_00102	L-histidine-binding protein	COG0834	
+648183477	Dda3937_02109	sensor protein	COG0642	
+648183478	Dda3937_02110	transcriptional regulatory protein tctD	COG0745	
+648183500	Dda3937_00490	phosphohistidine phosphatase, SixA	COG2062	
+648183603	Dda3937_01671	ABC transporter periplasmic binding-protein	COG0834	
+648183608	Dda3937_04369	methyl-accepting chemotaxis protein	COG0840	
+648183627	Dda3937_01692	Exopolyphosphatase	COG0248	
+648183630	Dda3937_01695	Universal stress protein G	COG0589	
+648183656	Dda3937_02817	sensory histidine kinase in two-component regulatory system with BaeR	COG0642	
+648183657	Dda3937_02816	DNA-binding response regulator in two-component regulatory system with BaeS	COG0745	
+648183669	Dda3937_02805	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	
+648183690	Dda3937_03707	hypothetical protein	COG2976	
+648183728	Dda3937_03375	nitrogen regulatory protein P-II family	COG0347	
+648183729	Dda3937_03376	putative DNA-binding response regulator in two-component system	COG2204	
+648183731	Dda3937_03378	sensor histidine kinase for the two component response regulator YfhA	COG0642	
+648183734	Dda3937_03380	lytic transglycosylase	COG4623	
+648183742	Dda3937_03858	hypothetical protein	COG2199	
+648183745	Dda3937_03856	EAL domain containing protein involved in flagellar function	COG2200	
+648183754	Dda3937_03847	positive regulator of sigma(E), RseC/MucC	COG3086	
+648183755	Dda3937_03846	sigma E regulatory protein, MucB/RseB	COG3026	
+648183756	Dda3937_03845	anti sigma-E protein, RseA	COG3073	
+648183777	Dda3937_02640	regulatory protein for D-galactarate, D-glucarate, and D-glycerate metabolism	COG3835	
+648183793	Dda3937_00509	putative DNA-binding transcriptional regulator	COG1489	
+648183851	Dda3937_03941	S-ribosylhomocysteine lyase (EC 4.4.1.21)/quorum-sensing autoinducer 2 (AI-2) synthesis protein LuxS	COG1854	
+648183860	Dda3937_03151	carbon storage regulator, CsrA	COG1551	
+648183889	Dda3937_03179	carbon starvation protein A	COG1966	
+648183890	Dda3937_03180	two component transcriptional regulator, LytTR family	COG3279	
+648183891	Dda3937_03181	putative sensory kinase in two-component system with YehT	COG3275	
+648183928	Dda3937_00934	hypothetical protein	COG2199	
+648183951	Dda3937_00913	putative amino acid ABC transporter periplasmic protein	COG0834	
+648184026	Dda3937_00195	GTP pyrophosphokinase/Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	COG0317	
+648184028	Dda3937_00193	hybrid sensory histidine kinase, in two-component regulatory system with UvrY	COG0642	
+648184038	Dda3937_00184	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor	COG0840	
+648184053	Dda3937_00170	aspartate chemoreceptor protein	COG0840	
+648184075	Dda3937_02614	methyl-accepting chemotaxis protein	COG0840	
+648184083	Dda3937_02606	serine chemoreceptor protein	COG0840	
+648184086	Dda3937_02603	cell filamentation protein	COG2184	
+648184105	Dda3937_02585	cell filamentation protein	COG2184	
+648184134	Dda3937_03448	cyclohexadienyl dehydratase (EC 4.2.1.91)	COG0834	
+648184150	Dda3937_03462	serine chemoreceptor protein	COG0840	
+648184152	Dda3937_03464	GGDEF domain-containing protein	COG2199	
+648184208	Dda3937_02635	methyl-accepting chemotaxis protein	COG0840	
+648184293	Dda3937_01383	Bis(5'nucleosyl)-tetraphosphatase, ApaH	COG0639	
+648184324	Dda3937_00396	DNA-binding response regulator in two-component regulatory system with ArcB or CpxA	COG0745	
+648184325	Dda3937_00397	CreA protein	COG3045	
+648184333	Dda3937_00404	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648184363	Dda3937_00434	RNA-binding protein Hfq	COG1923	
+648184386	Dda3937_00455	amino acid ABC transporter periplasmic amino acid-binding protein	COG0834	
+648184387	Dda3937_00456	amino acid ABC transporter periplasmic amino acid-binding protein	COG0834	
+648184399	Dda3937_02184	aspartate chemoreceptor protein	COG0840	
+648184404	Dda3937_02180	Mo/Fe-nitrogenase-specific transcriptional regulator NifA	COG3604	
+648184421	Dda3937_02163	serine chemoreceptor protein	COG0840	
+648184456	Dda3937_02129	isocitrate dehydrogenase kinase/phosphatase	COG4579	
+648184518	Dda3937_00526	Response regulator of the two-component transcriptional regulatory system (PmrA-PmrB BasR-BasS)	COG0745	
+648184519	Dda3937_00527	sensory histidine kinase in two-component regulatory system with BasR	COG0642	
+648184524	Dda3937_00531	Homoserine kinase	COG2334	
+648184539	Dda3937_00546	cyclic AMP receptor protein	COG0664	
+648184577	Dda3937_00355	sensory histidine kinase in two-component regulatory system with OmpR	COG0642	
+648184578	Dda3937_00354	DNA-binding response regulator in two-component regulatory system with EnvZ	COG0745	
+648184595	Dda3937_00338	sensory box/GGDEF family protein	COG2200	
+648184604	Dda3937_00329	putative two-component system sensory kinase	COG3275	
+648184650	Dda3937_00286	amino acid ABC transporter periplasmic amino acid-binding portion	COG0834	
+648184676	Dda3937_00264	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	COG0248	
+648184721	Dda3937_02064	2-octaprenylphenol hydroxylase (EC 1.14.13.-)	COG0661	
+648184730	Dda3937_02056	hypothetical protein	COG2365	
+648184804	Dda3937_03219	Homoserine lactone synthase YpeI	COG3916	
+648184824	Dda3937_00963	Sigma-54 dependent DNA-binding response regulator, Fis family	COG2204	
+648184856	Dda3937_00992	methyl-accepting chemotaxis protein	COG0840	
+648184932	Dda3937_01065	Toxin	COG3550	
+648184959	Dda3937_01092	amino acid ABC transporter substrate-binding protein, PAAT family (TC 3.A.1.3.-)	COG0834	

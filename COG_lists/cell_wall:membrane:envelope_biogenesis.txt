@@ -1,0 +1,238 @@
+Gene ID	Locus Tag	Name	Function	
+648180369	Dda3937_01131	putative metal dependent hydrolase	COG2194	
+648180412	Dda3937_02529	dihydrodipicolinate synthase	COG0329	
+648180413	Dda3937_02530	putative cytoplasmic protein	COG4692	
+648180536	Dda3937_03898	glutamate racemase (EC 5.1.1.3)	COG0796	
+648180541	Dda3937_04216	UDP-N-acetylmuramate dehydrogenase (EC 1.1.1.158)	COG0812	
+648180628	Dda3937_00664	rod shape-determining protein MreD	COG2891	
+648180647	Dda3937_00683	LPS ABC transporter ATP-binding protein	COG1137	
+648180648	Dda3937_00684	periplasmic component of an ABC-type LPS transporter complex	COG1934	
+648180649	Dda3937_00685	lipopolysaccharide export system protein LptC	COG3117	
+648180650	Dda3937_00686	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase	COG1778	
+648180651	Dda3937_00687	D-Arabinose 5-phosphate isomerase	COG0794	
+648180653	Dda3937_00689	putative toluene transporter subunit: ATP-binding protein	COG1127	
+648180654	Dda3937_00690	putative toluene transporter subunit: membrane protein	COG0767	
+648180657	Dda3937_00693	phospholipid transport system transporter-binding protein	COG3113	
+648180659	Dda3937_00695	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	COG0766	
+648180683	Dda3937_00720	putative lipoprotein	COG3107	
+648180690	Dda3937_00726	transport channel	COG1538	
+648180700	Dda3937_01256	divisomal assembly stabilization protein	COG2132	
+648180748	Dda3937_01299	lipopolysaccharide export system permease protein	COG0795	
+648180749	Dda3937_01300	lipopolysaccharide export system permease protein	COG0795	
+648180814	Dda3937_02873	L-rhamnose mutarotase	COG3254	
+648180849	Dda3937_02666	oxidoreductase, short-chain dehydrogenase/reductase family protein	COG3967	
+648180871	Dda3937_02647	galactarate dehydratase (EC 4.2.1.42)/L-talarate dehydratase (EC 4.2.1.-)	COG4948	
+648180872	Dda3937_02646	putative UDP-glucose lipid carrier transferase	COG2148	
+648180875	Dda3937_02643	capsular polysaccharide synthesis protein CpsD	COG3206	
+648180879	Dda3937_02694	putative glycosyltransferase protein	COG0438	
+648180880	Dda3937_02695	alpha-D-GlcNAc alpha-1,2-L-rhamnosyltransferase	COG0438	
+648180964	Dda3937_02351	D-alanyl-D-alanine carboxypeptidase	COG2027	
+648180983	Dda3937_02336	lipoprotein	COG4785	
+648181034	Dda3937_02289	phospholipase C 4	COG3511	
+648181042	Dda3937_02282	putative Co/Zn/Cd efflux system membrane fusion protein	COG0845	
+648181050	Dda3937_02274	Nucleoside-diphosphate sugar epimerase/dehydratase	COG1086	
+648181051	Dda3937_02273	UDP-glucose 4-epimerase	COG0451	
+648181052	Dda3937_02272	Lipid carrier : UDP-N-acetylgalactosaminyltransferase	COG2148	
+648181070	Dda3937_03606	mandelate racemase/muconate lactonizing enzyme family protein	COG4948	
+648181086	Dda3937_01175	Protein ybiS	COG1376	
+648181098	Dda3937_01186	D-alanine--D-alanine ligase	COG1181	
+648181125	Dda3937_01212	membrane-bound lytic murein transglycosylase B	COG2951	
+648181128	Dda3937_01215	O-succinylbenzoate-CoA synthase	COG4948	
+648181139	Dda3937_01224	RND efflux membrane fusion protein	COG0845	
+648181141	Dda3937_01226	outer membrane protein	COG1538	
+648181248	Dda3937_02548	Beta-barrel assembly machine subunit BamE	COG2913	
+648181260	Dda3937_01403	outer membrane transport energization protein TonB (TC 2.C.1.1.1)	COG0810	
+648181276	Dda3937_01419	putative ABC transporter ATP-binding protein	COG1136	
+648181277	Dda3937_01420	macrolide-specific efflux protein	COG0845	
+648181330	Dda3937_01470	putative cog3713, mipa like outer membrane v transmembrane protein	COG3713	
+648181333	Dda3937_01473	putative RND efflux membrane fusion protein	COG0845	
+648181338	Dda3937_01478	outer membrane protein	COG1538	
+648181339	Dda3937_01479	membrane-fusion protein	COG0845	
+648181345	Dda3937_01485	ABC transporter ATP-binding protein	COG1136	
+648181348	Dda3937_01488	outer membrane efflux family protein	COG1538	
+648181371	Dda3937_03401	membrane-bound lytic murein transglycosylase C	COG0741	
+648181388	Dda3937_00850	Prolipoprotein diacylglyceryl transferase	COG0682	
+648181396	Dda3937_00858	N-acetylmuramoyl-L-alanine amidase AmiC	COG0860	
+648181399	Dda3937_00859	membrane-bound lytic murein transglycosylase A	COG2821	
+648181431	Dda3937_01884	Beta-barrel assembly machine subunit BamA	COG4775	
+648181432	Dda3937_01885	periplasmic chaperone for outer membrane proteins Skp	COG2825	
+648181433	Dda3937_01886	UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)	COG1044	
+648181435	Dda3937_01888	acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)	COG1043	
+648181436	Dda3937_01889	lipid-A-disaccharide synthase (EC 2.4.1.182)	COG0763	
+648181519	Dda3937_01970	hypothetical protein	COG0451	
+648181554	Dda3937_03299	acriflavin resistance protein a; putative RND efflux membrane fusion protein	COG0845	
+648181556	Dda3937_03297	Potassium efflux system kefA/Small-conductance mechanosensitive channel	COG3264	
+648181623	Dda3937_02507	dihydrodipicolinate synthase	COG0329	
+648181630	Dda3937_02500	D,D-carboxypeptidase-related protein	COG1876	
+648181645	Dda3937_02486	D-alanyl-D-alanine carboxypeptidase	COG1686	
+648181646	Dda3937_02485	minor lipoprotein	COG0797	
+648181648	Dda3937_02483	peptidoglycan synthetase, penicillin-binding protein 2	COG0768	
+648181653	Dda3937_02478	minor lipoprotein	COG2980	
+648181660	Dda3937_02471	Apolipoprotein N-acyltransferase	COG0815	
+648181718	Dda3937_00556	membrane anchored protein in TolA-TolQ-TolR complex	COG3064	
+648181720	Dda3937_00559	peptidoglycan-associated outer membrane lipoprotein	COG2885	
+648181732	Dda3937_03991	putative Co/Zn/Cd efflux system membrane fusion protein	COG0845	
+648181733	Dda3937_03992	heavy metal RND efflux outer membrane protein, CzcC family	COG1538	
+648181739	Dda3937_03998	UDP-galactose 4-epimerase (EC 5.1.3.2)	COG1087	
+648181756	Dda3937_03931	putative assembly protein	COG2982	
+648181760	Dda3937_03929	capsule polysaccharide export protein	COG1596	
+648181762	Dda3937_03927	Tyrosine-protein kinase wzc	COG3206	
+648181764	Dda3937_03926	Undecaprenyl-phosphate galactose phosphotransferase	COG2148	
+648181766	Dda3937_03924	dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	COG1088	
+648181767	Dda3937_03923	Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	COG1209	
+648181768	Dda3937_03922	dTDP-4-dehydrorhamnose 3,5-epimerase	COG1898	
+648181769	Dda3937_03921	dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)	COG1091	
+648181774	Dda3937_03267	membrane protein involved in the export of O-antigen, teichoic acid lipoteichoic acids	COG2244	
+648181776	Dda3937_04708	dTDP-glucose 4,6-dehydratase	COG0451	
+648181777	Dda3937_03269	UDP-glucose dehydrogenase	COG1004	
+648181778	Dda3937_03270	putative regulatory subunit of UTP--glucose-1-phosphate uridylyltransferase, with GalU	COG1210	
+648181848	Dda3937_00799	mandelate racemase/muconate lactonizing enzyme family protein	COG4948	
+648181864	Dda3937_00786	putative RND efflux membrane fusion protein	COG0845	
+648181879	Dda3937_00773	putative inner membrane protein	COG1346	
+648181889	Dda3937_00764	penicillin binding protein, peptidoglycan synthetase	COG0768	
+648181913	Dda3937_00744	putative aspartate racemase	COG1794	
+648181945	Dda3937_02690	putative aspartate racemase	COG1794	
+648182031	Dda3937_03018	outer membrane transport energization protein TonB (TC 2.C.1.1.1)	COG0810	
+648182052	Dda3937_02997	dihydrodipicolinate synthase	COG0329	
+648182150	Dda3937_03737	glycosyl transferase, group 2 family protein	COG0463	
+648182156	Dda3937_03743	putative inner membrane protein	COG1346	
+648182211	Dda3937_02899	D-alanyl-D-alanine carboxypeptidase	COG1686	
+648182230	Dda3937_02881	outer membrane protein	COG3637	
+648182244	Dda3937_03430	ABC transporter ATP-binding protein	COG1136	
+648182246	Dda3937_03432	outer membrane efflux family protein	COG1538	
+648182281	Dda3937_02200	Lysozyme	COG4678	
+648182293	Dda3937_02189	putative hydrolase, inner membrane	COG3083	
+648182311	Dda3937_03829	putative peptidase, outer membrane lipoprotein	COG0791	
+648182355	Dda3937_03495	SanA protein	COG2949	
+648182364	Dda3937_03486	D-alanyl-D-alanine carboxypeptidase	COG1686	
+648182388	Dda3937_02371	putative N-acetylmuramoyl-L-alanine amidase ybjR	COG3023	
+648182404	Dda3937_00130	chaperone for lipoproteins	COG2834	
+648182433	Dda3937_02971	putative epimerase, with NAD(P)-binding Rossmann-fold domain	COG0451	
+648182454	Dda3937_03204	lipid-A-disaccharide kinase (EC 2.7.1.130)	COG1663	
+648182456	Dda3937_03202	3-deoxy-manno-octulosonate cytidylyltransferase	COG1212	
+648182468	Dda3937_00009	blue copper oxidase cueO	COG2132	
+648182487	Dda3937_01605	putative inner membrane protein	COG0728	
+648182510	Dda3937_01626	putative peptidase	COG0739	
+648182547	Dda3937_03332	scaffolding protein for murein synthesizing machinery	COG3713	
+648182565	Dda3937_04059	UTP--glucose-1-phosphate uridylyltransferase	COG1210	
+648182583	Dda3937_00565	outer membrane transport energization protein TonB (TC 2.C.1.1.1)	COG0810	
+648182588	Dda3937_00570	outer membrane protein W	COG3047	
+648182643	Dda3937_04140	Integral membrane protein	COG3274	
+648182647	Dda3937_00081	hypothetical protein	COG4305	
+648182660	Dda3937_01653	outer membrane exporter of proteases	COG1538	
+648182695	Dda3937_00038	3-deoxy-D-manno-octulosonate 8-phosphate synthase	COG2877	
+648182700	Dda3937_00036	chaperone for lipoproteins	COG3017	
+648182711	Dda3937_02956	xylanase	COG5520	
+648182755	Dda3937_03714	putative lipoprotein	COG3065	
+648182833	Dda3937_03339	membrane-bound lytic murein transglycosylase B	COG2951	
+648182907	Dda3937_03785	acyltransferase	COG1835	
+648183028	Dda3937_04037	hypothetical protein	COG2956	
+648183037	Dda3937_00063	putative outer membrane lipoprotein	COG3895	
+648183038	Dda3937_00062	anhydro-N-acetylmuramic acid kinase	COG2377	
+648183039	Dda3937_00061	outer membrane lipoprotein	COG3133	
+648183046	Dda3937_00095	putative lipoprotein	COG0791	
+648183076	Dda3937_04620	murein lipoprotein	COG4238	
+648183077	Dda3937_03663	L,D-transpeptidase YcfS	COG1376	
+648183110	Dda3937_03661	outer membrane porin 1a (Ia;b;F)	COG3203	
+648183111	Dda3937_03660	outer membrane protein F	COG3203	
+648183115	Dda3937_03657	outer membrane protein F	COG3203	
+648183119	Dda3937_03653	putative carboxypeptidase	COG2989	
+648183130	Dda3937_03643	outer membrane-specific lipoprotein ABC transporter membrane protein	COG4591	
+648183131	Dda3937_03642	outer membrane-specific lipoprotein ABC transporter ATP-binding protein	COG1136	
+648183132	Dda3937_03641	outer membrane-specific lipoprotein ABC transporter membrane protein	COG4591	
+648183145	Dda3937_02256	putative outer membrane lipoprotein	COG3417	
+648183177	Dda3937_03563	glucans biosynthesis glucosyltransferase H	COG2943	
+648183178	Dda3937_03564	glucans biosynthesis protein G	COG3131	
+648183205	Dda3937_03423	Nucleotide sugar transaminase	COG0399	
+648183228	Dda3937_02211	flagellum-specific muramidase	COG1705	
+648183268	Dda3937_02796	Lysozyme	COG4678	
+648183377	Dda3937_01859	microcin C7 immunity protein. Serine peptidase. MEROPS family S66	COG1619	
+648183396	Dda3937_01841	putative outer membrane multidrug efflux lipoprotein, OMF family	COG1538	
+648183398	Dda3937_01839	putative RND efflux membrane fusion protein	COG0845	
+648183430	Dda3937_01809	putative multicopper oxidase	COG2132	
+648183496	Dda3937_00494	murein endopeptidase. Metallo peptidase. MEROPS family M74	COG3770	
+648183506	Dda3937_00484	putative lipoprotein	COG2853	
+648183554	Dda3937_02408	Mechanosensitive ion channel	COG3264	
+648183585	Dda3937_01654	Starvation sensing protein rspA	COG4948	
+648183614	Dda3937_01681	UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.54)	COG2908	
+648183647	Dda3937_02824	outer membrane protein A (3a;II*;G;d)	COG2885	
+648183652	Dda3937_02821	multidrug efflux system, subunit A	COG0845	
+648183689	Dda3937_03708	Beta-barrel assembly machine subunit BamB	COG1520	
+648183734	Dda3937_03380	lytic transglycosylase	COG4623	
+648183737	Dda3937_03383	glucokinase regulatory protein	COG2103	
+648183790	Dda3937_04295	penicillin-binding protein 1B (PBP1B)	COG0744	
+648183802	Dda3937_00518	putative transporter membrane protein	COG1682	
+648183823	Dda3937_03971	membrane-bound lytic murein transglycosylase D	COG0741	
+648183833	Dda3937_01571	Beta-barrel assembly machine subunit BamD	COG4105	
+648183905	Dda3937_03195	D-alanyl transfer protein DltB	COG1696	
+648183935	Dda3937_04297	hypothetical protein	COG3034	
+648183957	Dda3937_00907	allantoinase	COG0726	
+648183998	Dda3937_03910	putative outer membrane lipoprotein	COG0739	
+648184032	Dda3937_00189	D-glucarate dehydratase	COG4948	
+648184033	Dda3937_00188	D-glucarate dehydratase-related protein	COG4948	
+648184045	Dda3937_00178	bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase	COG2870	
+648184057	Dda3937_00166	autotransporter secretion outer membrane protein TamA	COG0729	
+648184132	Dda3937_03446	alanine racemase 1, PLP-binding, biosynthetic	COG0787	
+648184203	Dda3937_02630	dihydrodipicolinate synthase	COG0329	
+648184205	Dda3937_02632	expressed protein	COG4692	
+648184224	Dda3937_02245	Nucleoside-specific channel-forming protein tsx	COG3248	
+648184237	Dda3937_02232	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)	COG0774	
+648184241	Dda3937_02437	UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	COG0773	
+648184242	Dda3937_02438	UDP-N-acetylglucosamine-N-acetylmuramylpentapeptide N-acetylglucosamine transferase	COG0707	
+648184244	Dda3937_02440	UDP-N-acetylmuramoylalanine--D-glutamate ligase (EC 6.3.2.9)	COG0771	
+648184245	Dda3937_02441	Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	COG0472	
+648184246	Dda3937_02442	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)	COG0770	
+648184247	Dda3937_02443	UDP-N-acetylmuramoylalanyl-D-glutamate--2,6-diaminopimelate ligase (EC 6.3.2.13)	COG0769	
+648184248	Dda3937_02444	penicillin-binding protein 3; peptidoglycan synthetase	COG0768	
+648184288	Dda3937_01378	exported protein required for envelope biosynthesis and integrity	COG1452	
+648184294	Dda3937_01384	Exopolysaccharide production protein exoZ	COG1835	
+648184305	Dda3937_01395	prolipoprotein signal peptidase (signal peptidase II)	COG0597	
+648184330	Dda3937_00402	lytic murein transglycosylase, soluble	COG0741	
+648184341	Dda3937_00412	MscS family mechanosensitive ion channel	COG0668	
+648184357	Dda3937_00428	UDP-N-acetylmuramate: L-alanyl-gamma-D-glutamyl-meso-diaminopimelate ligase	COG0773	
+648184366	Dda3937_00437	N-acetylmuramoyl-l-alanine amidase II	COG0860	
+648184372	Dda3937_00442	Mannose-1-phosphate guanylyltransferase (GDP)	COG0836	
+648184374	Dda3937_00444	GDP-D-mannose dehydratase, NAD(P)-binding protein	COG1089	
+648184375	Dda3937_00445	O-antigen export system permease RfbD	COG1682	
+648184376	Dda3937_00446	O-antigen export system, ATP-binding protein	COG1134	
+648184377	Dda3937_00447	GDP-L-fucose synthetase; Colanic acid biosynthesis protein wcaG	COG0451	
+648184378	Dda3937_00448	WbeA	COG0438	
+648184379	Dda3937_00449	glycosyltransferase WbpZ	COG0438	
+648184414	Dda3937_02170	Phage lysozyme	COG3772	
+648184436	Dda3937_02149	Potassium efflux system kefA/Small-conductance mechanosensitive channel	COG3264	
+648184442	Dda3937_02143	outer membrane lipoprotein blc	COG3040	
+648184476	Dda3937_01519	Large-conductance mechanosensitive channel	COG1970	
+648184517	Dda3937_00525	lipid A ethanolaminephosphotransferase	COG2194	
+648184555	Dda3937_04189	mandelate racemase/muconate lactonizing enzyme family protein	COG4948	
+648184568	Dda3937_00363	penicillin-binding protein 1A (PBP1A)	COG5009	
+648184591	Dda3937_00342	dihydrodipicolinate synthase	COG0329	
+648184628	Dda3937_00307	outer membrane phospholipase A	COG2829	
+648184663	Dda3937_00277	UDP-N-acetyl-D-mannosaminuronic acid (ManNAcA) transferase	COG1922	
+648184666	Dda3937_00274	lipid III translocase	COG2244	
+648184667	Dda3937_00273	dTDP-4-keto-6-deoxy-D-glucose aminotransferase	COG0399	
+648184669	Dda3937_00271	UDP-N-acetyl-D-mannosamine dehydrogenase	COG0677	
+648184670	Dda3937_00270	UDP-N-acetylglucosamine 2-epimerase	COG0381	
+648184671	Dda3937_00269	Enterobacterial Common Antigen (ECA) polysaccharide chain length modulator	COG3765	
+648184672	Dda3937_00268	Undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase	COG0472	
+648184745	Dda3937_02041	ADP-glyceromanno-heptose 6-epimerase precursor (EC 5.1.3.20)	COG0451	
+648184746	Dda3937_02040	ADP-heptose:LPS heptosyltransferase II	COG0859	
+648184747	Dda3937_02039	ADP-heptose:LPS heptosyl transferase I	COG0859	
+648184748	Dda3937_02038	lipopolysaccharide core biosynthesis protein	COG0859	
+648184749	Dda3937_02037	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG	COG0438	
+648184751	Dda3937_02035	ADP-heptose--lipooligosaccharide heptosyltransferase II	COG0859	
+648184752	Dda3937_02034	glycosyl transferase, group 1	COG0438	
+648184753	Dda3937_02033	3-deoxy-D-manno-octulosonic-acid transferase	COG1519	
+648184754	Dda3937_02032	Lipopolysaccharide core biosynthesis glycosyl transferase kdtX	COG0463	
+648184756	Dda3937_02030	glycosyltransferase	COG0463	
+648184769	Dda3937_03253	Muconate cycloisomerase	COG4948	
+648184826	Dda3937_00965	ABC transporter ATP-binding protein	COG1136	
+648184911	Dda3937_01046	putative poly(beta-D-mannuronate) O-acetylase	COG1696	
+648184929	Dda3937_01062	hypothetical protein	COG0759	
+648184930	Dda3937_01063	cytoplasmic insertase into membrane protein, Sec system	COG0706	
+648184943	Dda3937_01076	4-amino-4-deoxy-L-arabinose transferase	COG1807	
+648184944	Dda3937_01077	undecaprenyl phosphate-alpha-L-Ara4FN (4-deoxy-4-formamido-L-arabinose) deformylase	COG0726	
+648184946	Dda3937_01079	Undecaprenyl-phosphate 4-amino-4-deoxy-L-arabinose transferase	COG0463	
+648184947	Dda3937_01080	UDP-4-amino-4-deoxy-L-arabinose alpha-ketoglutarate aminotransferase	COG0399	
+648184951	Dda3937_01084	putative lipoprotein	COG1462	
+648184978	Dda3937_00141	L-glutamine:D-fructose-6-phosphate aminotransferase	COG0449	
+648184979	Dda3937_00142	bifunctional N-acetyl glucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyl transferase	COG1207	

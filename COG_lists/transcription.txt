@@ -1,0 +1,300 @@
+Gene ID	Locus Tag	Name	Function	
+648180330	Dda3937_00156	DNA-binding transcriptional dual regulator	COG1522	
+648180339	Dda3937_02360	transcriptional regulator, LacI family	COG1609	
+648180365	Dda3937_01127	GTP pyrophosphokinase/Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	COG0317	
+648180366	Dda3937_01128	RNA polymerase, omega subunit	COG1758	
+648180375	Dda3937_01136	transcription regulator	COG0583	
+648180389	Dda3937_01149	transcriptional regulator FrcR for fructose utilization, ROK family	COG1940	
+648180406	Dda3937_02523	transcriptional regulator NanR	COG2186	
+648180415	Dda3937_02532	transcriptional regulator/transcriptional regulator, LacI family	COG1609	
+648180421	Dda3937_02538	Response regulator of the two component transcriptional regulatory system DcuR/DcuS	COG4565	
+648180431	Dda3937_01983	transcriptional regulator, GntR family	COG1167	
+648180433	Dda3937_01985	putative transcription regulator protein, deoR family	COG2378	
+648180464	Dda3937_02015	RNA polymerase sigma-32 (sigma H) factor	COG0568	
+648180471	Dda3937_02022	putative valine-pyruvate aminotransferase	COG1167	
+648180490	Dda3937_03053	transcriptional regulatory protein cpxR	COG0745	
+648180521	Dda3937_03885	transcriptional regulator, LacI family	COG1609	
+648180524	Dda3937_03887	methionine repressor, MetJ	COG3060	
+648180529	Dda3937_03892	DNA-binding transcriptional dual regulator	COG0583	
+648180531	Dda3937_03894	transcriptional regulator, TetR family	COG1309	
+648180552	Dda3937_00216	transcription antitermination protein nusG	COG0250	
+648180558	Dda3937_00221	RNA polymerase, beta prime subunit	COG0086	
+648180563	Dda3937_00224	putative regulator	COG1167	
+648180567	Dda3937_00228	DNA-binding heavy metal response regulator	COG0745	
+648180575	Dda3937_00236	anti-sigma D	COG3160	
+648180600	Dda3937_01584	transcriptional regulator, LysR family	COG0583	
+648180606	Dda3937_01590	transcriptional regulator, AlpA family	COG3311	
+648180613	Dda3937_01595	global DNA-binding transcriptional dual regulator	COG2901	
+648180633	Dda3937_00669	putative transcriptional regulator LYSR-type	COG0583	
+648180641	Dda3937_00677	regulator of nucleoside diphosphate kinase	COG0782	
+648180646	Dda3937_00682	RNA polymerase, sigma 54 subunit, RpoN/SigL	COG1508	
+648180667	Dda3937_00703	transcriptional regulator, TetR family	COG1309	
+648180696	Dda3937_01252	LysR family transcriptional regulator	COG0583	
+648180703	Dda3937_01259	transcriptional regulator, AraC family	COG2207	
+648180710	Dda3937_01265	transcriptional regulator, LacI family	COG1609	
+648180739	Dda3937_01290	transcriptional regulator, XRE family with cupin sensor	COG1396	
+648180755	Dda3937_01305	transcriptional regulator, AlpA family	COG3311	
+648180759	Dda3937_01308	transcriptional regulator, Nlp family	COG3423	
+648180769	Dda3937_01317	AsnC family transcriptional regulator	COG1522	
+648180778	Dda3937_01326	transcriptional regulator, GntR family	COG1167	
+648180784	Dda3937_01332	transcriptional regulator, DeoR family	COG1349	
+648180804	Dda3937_04305	Regulatory protein, LysR:LysR, substrate-binding protein	COG0583	
+648180808	Dda3937_02867	AsnC family transcriptional regulator	COG1522	
+648180812	Dda3937_02871	transcriptional regulator, IclR family	COG1414	
+648180869	Dda3937_02649	Regulatory protein, MerR	COG0789	
+648180870	Dda3937_02648	transcriptional regulator, LacI family	COG1609	
+648180901	Dda3937_02714	transcriptional regulator, TetR family	COG1309	
+648180913	Dda3937_02726	DNA-binding transcriptional repressor of SOS regulon	COG1974	
+648180916	Dda3937_02729	putative DNA-binding transcriptional regulator	COG0583	
+648180924	Dda3937_02737	DNA-binding transcriptional regulatory protein ExuR	COG2186	
+648180935	Dda3937_03550	two component transcriptional regulator, LuxR family	COG2197	
+648180942	Dda3937_03543	AraC family transcriptional regulator	COG2207	
+648180944	Dda3937_03539	transcriptional regulator, TetR family	COG1309	
+648180950	Dda3937_03534	RNA polymerase sigma-70 (sigma D) factor	COG0568	
+648180954	Dda3937_03530	transcriptional regulator, ArgR family	COG1438	
+648180956	Dda3937_03528	transcriptional regulator, Nlp family	COG3423	
+648180965	Dda3937_02350	transcription elongation factor	COG0782	
+648180976	Dda3937_02342	NusA antitermination factor	COG0195	
+648180997	Dda3937_02322	transcriptional regulator, LysR family	COG0583	
+648181004	Dda3937_02315	putative transcription regulator protein	COG0583	
+648181009	Dda3937_02312	putative transcriptional regulator	COG0583	
+648181036	Dda3937_02287	transcriptional regulator, AraC family	COG2207	
+648181044	Dda3937_02280	Two-component response regulator	COG0745	
+648181049	Dda3937_02275	transcriptional regulator, HxlR family	COG1733	
+648181076	Dda3937_01165	heme uptake regulator	COG1595	
+648181081	Dda3937_01170	XRE family transcriptional regulator	COG3655	
+648181085	Dda3937_01174	MarR family transcriptional regulator	COG1846	
+648181099	Dda3937_01187	AraC-type DNA-binding domain-containing protein	COG2207	
+648181104	Dda3937_01192	transcriptional regulator, LysR family	COG0583	
+648181107	Dda3937_01195	transcriptional regulator, RpiR family	COG1737	
+648181126	Dda3937_01213	LysR family transcriptional regulator	COG0583	
+648181134	Dda3937_01219	transcriptional regulator, HxlR family	COG1733	
+648181140	Dda3937_01225	transcriptional regulator, TetR family	COG1309	
+648181176	Dda3937_01733	transcriptional regulator, Nlp family	COG3423	
+648181177	Dda3937_01734	transcriptional regulator, LysR family	COG0583	
+648181197	Dda3937_01751	DNA-binding protein H-NS	COG2916	
+648181201	Dda3937_01755	transcriptional regulator, Nlp family	COG3423	
+648181209	Dda3937_01763	hypothetical protein	COG4933	
+648181266	Dda3937_01409	transcriptional regulator, Nlp family	COG3423	
+648181278	Dda3937_01421	putative two-component system response regulator	COG0745	
+648181281	Dda3937_01424	transcriptional regulator, HxlR family	COG1733	
+648181295	Dda3937_01437	anaerobic nitric oxide reductase transcription regulator norR	COG3604	
+648181297	Dda3937_01439	putative lysR-family transcriptional regulatory protein	COG0583	
+648181308	Dda3937_01450	aromatic hydrocarbon utilization transcriptional regulator CatR	COG0583	
+648181310	Dda3937_01452	transcriptional regulator, LacI family	COG1609	
+648181320	Dda3937_01461	Positive regulator of Tartrate dehydrogenase/decarboxylase/D-malic enzyme	COG0583	
+648181326	Dda3937_04308	LysR-family transcriptional regulator	COG0583	
+648181331	Dda3937_01471	Phosphate regulon transcriptional regulatory protein phoB	COG0745	
+648181336	Dda3937_01476	transcriptional regulator, HxlR family	COG1733	
+648181354	Dda3937_04031	hypothetical protein	COG3177	
+648181360	Dda3937_03633	transcriptional regulator, Nlp family	COG3423	
+648181408	Dda3937_00867	DNA-binding transcriptional dual regulator	COG0583	
+648181442	Dda3937_01895	transcriptional antiterminator, Rof	COG4568	
+648181450	Dda3937_01902	transcriptional regulator, MarR family	COG1846	
+648181451	Dda3937_01903	transcriptional regulator, AraC family	COG2207	
+648181455	Dda3937_01907	LysR family transcriptional regulator	COG0583	
+648181462	Dda3937_01914	phosphonoacetate hydrolase	COG2824	
+648181469	Dda3937_01921	hydrogen peroxide-inducible genes activator	COG0583	
+648181474	Dda3937_01926	LysR family regulatory protein	COG0583	
+648181484	Dda3937_01936	manno(fructo)kinase	COG1940	
+648181487	Dda3937_01939	DNA-binding response regulator in two-component regulatory system with PhoR (or CreC)	COG0745	
+648181502	Dda3937_01954	Ribonucleotide reductase transcriptional regulator NrdR	COG1327	
+648181505	Dda3937_01957	NusB antitermination factor	COG0781	
+648181520	Dda3937_01971	AraC-type DNA-binding domain-containing protein	COG2207	
+648181539	Dda3937_03312	transcriptional regulator, AsnC family	COG1522	
+648181547	Dda3937_03305	O(6)-alkylguanine repair protein YbaZ	COG3695	
+648181555	Dda3937_03298	transcriptional regulator, TetR family	COG1309	
+648181579	Dda3937_04160	copper responsive transcription regulator	COG0789	
+648181588	Dda3937_01776	two component transcriptional regulator, LuxR family	COG2197	
+648181613	Dda3937_02517	transcriptional regulator, LacI family	COG1609	
+648181636	Dda3937_02496	DNA-binding transcriptional repressor	COG1278	
+648181674	Dda3937_04498	DNA-binding transcriptional dual regulator, repressor of N-acetylglucosamine	COG1940	
+648181688	Dda3937_01553	DNA-binding response regulator in two-component regulatory system with KdpD	COG0745	
+648181741	Dda3937_04000	molybdate transport repressor, ModE	COG2005	
+648181786	Dda3937_03277	transcriptional repressor of aerobactin receptor iutA	COG1802	
+648181865	Dda3937_00785	Phosphate regulon transcriptional regulatory protein phoB	COG0745	
+648181867	Dda3937_00783	LysR-family transcriptional regulator	COG0583	
+648181875	Dda3937_00775	AraC family transcriptional regulator	COG2207	
+648181882	Dda3937_00771	two component transcriptional regulator, LuxR family	COG4566	
+648181896	Dda3937_00757	Multiple antibiotic resistance protein marR	COG1846	
+648181899	Dda3937_00754	Right origin-binding protein	COG2207	
+648181912	Dda3937_00745	transcriptional regulator, LacI family	COG1609	
+648181914	Dda3937_04313	putative transcriptional regulator LYSR-type	COG0583	
+648181916	Dda3937_00743	DNA-binding transcriptional activator	COG3604	
+648181934	Dda3937_04117	transcriptional regulator of cysteine biosynthesis (LysR family)	COG0583	
+648181948	Dda3937_04316	transcriptional regulator, GntR family	COG1167	
+648181958	Dda3937_04087	transcriptional regulator, GntR family	COG2188	
+648181969	Dda3937_04098	transcriptional regulator, LysR family	COG0583	
+648182005	Dda3937_02834	transcriptional regulator, LysR family	COG0583	
+648182018	Dda3937_03030	transcriptional regulator, LacI family	COG1609	
+648182036	Dda3937_03013	LysR family transcriptional regulator	COG0583	
+648182048	Dda3937_03001	LysR family transcriptional regulator	COG0583	
+648182050	Dda3937_02999	transcriptional activator protein lysR	COG0583	
+648182061	Dda3937_02988	putative DNA-binding protein	COG2964	
+648182074	Dda3937_00372	malonate utilization transcriptional regulator	COG0583	
+648182080	Dda3937_00377	transcriptional regulator	COG0583	
+648182087	Dda3937_00656	AraC family transcriptional regulator	COG2207	
+648182096	Dda3937_00648	nitrogen assimilation control protein	COG0583	
+648182111	Dda3937_03586	transcriptional regulator, TetR family	COG1309	
+648182115	Dda3937_03589	AraC family transcriptional regulator	COG2207	
+648182136	Dda3937_00054	H-NS family DNA-binding protein	COG2916	
+648182201	Dda3937_04540	transcriptional regulator, AraC family	COG2207	
+648182213	Dda3937_02897	transcriptional regulator, DeoR family	COG1349	
+648182232	Dda3937_02879	transcriptional regulator, MarR family	COG1846	
+648182234	Dda3937_02458	LysR family transcriptional regulator	COG0583	
+648182259	Dda3937_01245	transcriptional regulator, HxlR family	COG1733	
+648182267	Dda3937_01235	transcriptional regulator, LysR family	COG0583	
+648182289	Dda3937_02192	transcriptional regulator, AlpA family	COG3311	
+648182297	Dda3937_03818	two component transcriptional regulator, LytTR family	COG3279	
+648182300	Dda3937_04324	putative ATP-dependet helicase	COG1061	
+648182317	Dda3937_03628	transcriptional regulator, IclR family	COG1414	
+648182326	Dda3937_03619	putative DNA-binding transcriptional regulator	COG0583	
+648182342	Dda3937_00070	putative regulatory protein	COG0583	
+648182365	Dda3937_03485	transcriptional regulator, DeoR family	COG1349	
+648182394	Dda3937_02365	cold-shock DNA-binding protein family	COG1278	
+648182402	Dda3937_00128	DNA-binding protein transcriptional dual regulator, leucine-binding protein	COG1522	
+648182411	Dda3937_03355	LysR-family transcriptional regulator	COG0583	
+648182413	Dda3937_03353	LysR family transcriptional regulator	COG0583	
+648182435	Dda3937_02969	Response regulator of a two component transcriptional regulatory system (CitA/CitB)	COG4565	
+648182469	Dda3937_00010	transcriptional regulator, HxlR family	COG1733	
+648182474	Dda3937_00015	transcriptional regulator, DeoR family	COG1349	
+648182502	Dda3937_01618	hypothetical protein	COG0217	
+648182515	Dda3937_03575	transcriptional regulator, RpiR family	COG1737	
+648182566	Dda3937_04058	global DNA-binding transcriptional dual regulator H-NS	COG2916	
+648182606	Dda3937_00588	DNA-binding protein transcriptional dual regulator, O-acetyl-L-serine-binding protein	COG0583	
+648182620	Dda3937_00602	DNA-binding transcriptional dual regulator	COG2207	
+648182626	Dda3937_00068	transcriptional regulator, AsnC family	COG1522	
+648182632	Dda3937_04129	putative DNA-binding transcriptional regulator	COG0583	
+648182633	Dda3937_04130	DNA-binding transcriptional repressor	COG1940	
+648182654	Dda3937_04333	transcriptional regulator, TetR family	COG1309	
+648182678	Dda3937_01636	transcriptional regulator	COG1940	
+648182679	Dda3937_01635	LysR family transcriptional regulator	COG0583	
+648182705	Dda3937_00066	transcriptional regulator	COG0583	
+648182714	Dda3937_02953	RNA polymerase sigma-54 factor rpoN	COG1595	
+648182715	Dda3937_02952	hypothetical protein	COG5662	
+648182736	Dda3937_02933	antitoxin ParD1/3/4	COG3609	
+648182745	Dda3937_02926	DNA-binding transcriptional dual regulator of fatty acid metabolism	COG2186	
+648182772	Dda3937_00017	cold-shock DNA-binding protein family	COG1278	
+648182799	Dda3937_03685	transcriptional regulator, IclR family	COG1414	
+648182811	Dda3937_02088	DNA-binding response regulator in two-component regulatory system with PhoQ	COG0745	
+648182840	Dda3937_03346	two component transcriptional regulator, LuxR family	COG2197	
+648182842	Dda3937_00607	RNA polymerase sigma-54 factor rpoN	COG1595	
+648182873	Dda3937_00636	transcriptional regulator, DeoR family	COG1349	
+648182881	Dda3937_04149	putative GntR-family regulatory protein and aminotransferase near polyamine transporter	COG1167	
+648182902	Dda3937_03790	putative lysR-family transcriptional regulator	COG0583	
+648182906	Dda3937_03786	two component transcriptional regulator, LuxR family	COG2197	
+648182966	Dda3937_00121	DNA-binding response regulator in two-component regulatory system with RstB	COG0745	
+648182998	Dda3937_03126	transcriptional regulator, LysR family	COG0583	
+648183000	Dda3937_03124	DNA-binding protein transcriptional dual regulator, tyrosine-binding protein	COG3283	
+648183006	Dda3937_03118	phage shock protein C (PspC) family protein	COG1983	
+648183008	Dda3937_03116	phage shock protein A (PspA) family protein	COG1842	
+648183009	Dda3937_03115	DNA-binding transcriptional activator	COG1221	
+648183017	Dda3937_03107	hydrogen peroxide-inducible genes activator	COG0583	
+648183020	Dda3937_03104	ribonuclease II	COG4776	
+648183040	Dda3937_00475	DNA-binding transcriptional activator	COG1846	
+648183049	Dda3937_00097	transcriptional regulator, LacI family	COG1609	
+648183129	Dda3937_03644	N-acetyl-D-glucosamine kinase	COG1940	
+648183133	Dda3937_03640	transcription-repair coupling factor	COG1197	
+648183139	Dda3937_00472	transcriptional regulator, LacI family	COG1609	
+648183194	Dda3937_03413	transcriptional regulator, TetR family	COG1309	
+648183200	Dda3937_03418	RNA polymerase sigma-28 (sigma F) factor	COG1191	
+648183238	Dda3937_02202	anti-sigma-28 factor, FlgM family	COG2747	
+648183289	Dda3937_03960	two component transcriptional regulator, LuxR family	COG2197	
+648183308	Dda3937_02767	transcriptional regulator, Nlp family	COG3423	
+648183312	Dda3937_02763	transcriptional regulator, Nlp family	COG3423	
+648183317	Dda3937_02760	transcriptional regulator, AlpA family	COG3311	
+648183378	Dda3937_01858	LysR family transcriptional regulator	COG0583	
+648183399	Dda3937_01838	transcriptional regulator, TetR family	COG1309	
+648183410	Dda3937_01828	putative DNA-binding transcriptional regulator with an aminotransferase domain	COG1167	
+648183444	Dda3937_00364	putative HTH-type transcriptional regulator lrhA	COG0583	
+648183478	Dda3937_02110	transcriptional regulatory protein tctD	COG0745	
+648183485	Dda3937_02117	L-rhamnose operon transcriptional activator rhaR	COG2207	
+648183492	Dda3937_02124	LysR-family transcriptional regulator	COG0583	
+648183568	Dda3937_02397	transcriptional regulator, LysR family	COG0583	
+648183569	Dda3937_02396	transcriptional regulator, LacI family	COG1609	
+648183590	Dda3937_01659	GntR family transcriptional regulator	COG1802	
+648183598	Dda3937_01666	transcriptional regulator, GntR family	COG2188	
+648183644	Dda3937_02826	regulator of competence-specific genes	COG3070	
+648183657	Dda3937_02816	DNA-binding response regulator in two-component regulatory system with BaeS	COG0745	
+648183665	Dda3937_02809	transcriptional regulator, LacI family	COG1609	
+648183679	Dda3937_00007	transcriptional regulator, Nlp family	COG3423	
+648183710	Dda3937_02374	transcriptional regulator, BadM/Rrf2 family	COG1959	
+648183751	Dda3937_03850	RNase III	COG0571	
+648183757	Dda3937_03844	RNA polymerase, sigma-24 subunit, RpoE	COG1595	
+648183777	Dda3937_02640	regulatory protein for D-galactarate, D-glucarate, and D-glycerate metabolism	COG3835	
+648183872	Dda3937_03163	transcriptional regulator, MarR family	COG1846	
+648183884	Dda3937_03174	transcriptional regulator, AraC family	COG2207	
+648183890	Dda3937_03180	two component transcriptional regulator, LytTR family	COG3279	
+648183892	Dda3937_03182	transcriptional regulator, GntR family	COG2188	
+648183902	Dda3937_03192	AraC family transcriptional regulator	COG4977	
+648183918	Dda3937_00943	transcriptional regulator, AlpA family	COG3311	
+648183952	Dda3937_00912	transcriptional regulator, RpiR family	COG1737	
+648183959	Dda3937_00905	GntR family transcriptional regulator	COG1802	
+648183962	Dda3937_00902	GntR family transcriptional regulator	COG1802	
+648183971	Dda3937_00894	DNA-binding transcriptional repressor of microcin B17 synthesis and multidrug efflux	COG1846	
+648183997	Dda3937_03911	RNA polymerase, sigma 38 subunit, RpoS	COG0568	
+648184026	Dda3937_00195	GTP pyrophosphokinase/Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase	COG0317	
+648184080	Dda3937_02609	RNAse R (EC 3.1.-.-)	COG0557	
+648184081	Dda3937_02608	transcriptional regulator, BadM/Rrf2 family	COG1959	
+648184104	Dda3937_02586	transcriptional regulator, LacI family	COG1609	
+648184108	Dda3937_02583	DNA-binding transcriptional repressor	COG2186	
+648184113	Dda3937_02578	transcriptional regulator, LacI family	COG1609	
+648184115	Dda3937_04075	DNA-binding transcriptional dual regulator	COG0583	
+648184121	Dda3937_04081	2-aminoethylphosphonate uptake and metabolism regulator	COG2188	
+648184137	Dda3937_03450	AsnC family transcriptional regulator	COG1522	
+648184177	Dda3937_03076	transcriptional regulator, LacI family	COG1609	
+648184199	Dda3937_02626	transcriptional regulator, DeoR family	COG1349	
+648184214	Dda3937_03093	transcriptional regulator, AraC family	COG2207	
+648184220	Dda3937_03099	DNA-binding transcriptional dual regulator	COG2186	
+648184255	Dda3937_02450	transcriptional regulator, LacI family	COG1609	
+648184266	Dda3937_01356	SgrR, sugar-phosphate stress, transcriptional activator of SgrS small RNA	COG4533	
+648184284	Dda3937_01374	RNA polymerase-associated helicase protein (ATPase and RNA polymerase recycling factor)	COG0553	
+648184309	Dda3937_00382	DNA-binding transcriptional activator	COG0583	
+648184324	Dda3937_00396	DNA-binding response regulator in two-component regulatory system with ArcB or CpxA	COG0745	
+648184326	Dda3937_00398	DNA-binding transcriptional activator	COG2207	
+648184329	Dda3937_00401	Trp operon repressor	COG2973	
+648184334	Dda3937_00405	transcriptional regulator, LysR family	COG0583	
+648184338	Dda3937_00409	DNA-binding transcriptional activator, replication initiation inhibitor	COG0583	
+648184340	Dda3937_00411	transcriptional regulator, IclR family	COG1414	
+648184354	Dda3937_00425	putative transcriptional regulator	COG1678	
+648184355	Dda3937_00426	putative Holliday junction resolvase	COG0816	
+648184393	Dda3937_00462	transcriptional regulator, MarR family	COG1846	
+648184398	Dda3937_02185	Regulatory protein (induces abgABT, used to catabolize p-aminobenzoyl-glutamate)	COG0583	
+648184404	Dda3937_02180	Mo/Fe-nitrogenase-specific transcriptional regulator NifA	COG3604	
+648184455	Dda3937_02130	transcriptional regulator, IclR family	COG1414	
+648184480	Dda3937_01515	DNA-directed RNA polymerase subunit alpha	COG0202	
+648184516	Dda3937_00524	putative DNA-binding transcriptional regulator	COG2964	
+648184518	Dda3937_00526	Response regulator of the two-component transcriptional regulatory system (PmrA-PmrB BasR-BasS)	COG0745	
+648184523	Dda3937_00530	AraC family transcriptional regulator	COG2207	
+648184578	Dda3937_00354	DNA-binding response regulator in two-component regulatory system with EnvZ	COG0745	
+648184579	Dda3937_00353	transcription elongation factor GreB	COG0782	
+648184581	Dda3937_04417	putative transcriptional accessory protein	COG2183	
+648184588	Dda3937_00345	transcriptional regulator, DeoR family	COG1349	
+648184605	Dda3937_00328	cold-shock DNA-binding protein family	COG1278	
+648184606	Dda3937_00327	transcriptional regulator, CopG family	COG0864	
+648184611	Dda3937_00322	transcriptional regulator, LacI family	COG1609	
+648184653	Dda3937_00283	transcriptional regulator, AraC family	COG2207	
+648184673	Dda3937_00267	transcription termination factor Rho	COG1158	
+648184685	Dda3937_00255	DNA-binding transcriptional dual regulator	COG0583	
+648184696	Dda3937_04419	DNA-binding transcriptional regulator	COG0583	
+648184712	Dda3937_02073	ArsR family transcriptional regulator	COG0640	
+648184715	Dda3937_02070	transcription antiterminator protein	COG0250	
+648184734	Dda3937_02052	DNA-binding protein transcriptional activator, homocysteine-binding protein	COG0583	
+648184763	Dda3937_03259	transcriptional regulator, TetR family	COG1309	
+648184785	Dda3937_03237	LysR-family transcriptional regulator	COG0583	
+648184788	Dda3937_03234	transcriptional regulator, Nlp family	COG3423	
+648184805	Dda3937_03218	DNA-binding transcriptional regulatory protein ExpR	COG2771	
+648184828	Dda3937_00966	AraC family transcriptional regulator	COG2207	
+648184839	Dda3937_00976	DNA-binding transcriptional regulatory protein PecS	COG1846	
+648184842	Dda3937_00979	putative alpha helix chain yaiN	COG1937	
+648184844	Dda3937_00981	transcriptional regulator, AraC family	COG1609	
+648184857	Dda3937_00993	mannitol repressor, MtlR	COG3722	
+648184871	Dda3937_01007	glucokinase	COG1940	
+648184872	Dda3937_01008	putative ROK-family transcriptional regulator	COG1940	
+648184893	Dda3937_01028	MarR family transcriptional regulator	COG1846	
+648184896	Dda3937_01031	LysR family transcriptional regulator YfeR	COG0583	
+648184907	Dda3937_01042	transcriptional regulator BkdR of isoleucine and valine catabolism operon	COG1522	
+648184913	Dda3937_01047	transcriptional regulator, GntR family	COG2188	
+648184934	Dda3937_01067	transcriptional regulator containing an amidase domain and an AraC-type DNA-binding HTH domain	COG4977	
+648184937	Dda3937_01070	transcriptional regulator, HxlR family	COG1733	
+648184940	Dda3937_01073	Regulatory protein, LysR:LysR, substrate-binding protein	COG0583	

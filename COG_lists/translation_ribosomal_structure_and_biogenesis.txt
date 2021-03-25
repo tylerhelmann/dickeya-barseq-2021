@@ -1,0 +1,230 @@
+Gene ID	Locus Tag	Name	Function	
+648180352	Dda3937_01114	hypothetical protein	COG3078	
+648180359	Dda3937_01121	D-Tyr-tRNA(Tyr) deacylase	COG1490	
+648180384	Dda3937_01145	putative acetyltransferase	COG1670	
+648180460	Dda3937_02011	16S rRNA m(2)G-966 methyltransferase (EC 2.1.1.52)	COG0742	
+648180485	Dda3937_03048	putative rRNA methylase	COG0219	
+648180516	Dda3937_03880	ribonuclease E (RNase E) inhibitor protein	COG0684	
+648180523	Dda3937_04717	LSU ribosomal protein L31P	COG0254	
+648180534	Dda3937_03896	tRNA (uracil-5-)-methyltransferase	COG2265	
+648180550	Dda3937_00214	translation elongation factor 1A (EF-1A/EF-Tu)	COG0050	
+648180553	Dda3937_00217	LSU ribosomal protein L11P	COG0080	
+648180554	Dda3937_00218	50S ribosomal subunit protein L1	COG0081	
+648180555	Dda3937_00219	LSU ribosomal protein L10P	COG0244	
+648180556	Dda3937_04437	LSU ribosomal protein L12P	COG0222	
+648180614	Dda3937_01596	tRNA-U20-dihydrouridine synthase	COG0042	
+648180615	Dda3937_01597	methylase for 50S ribosomal subunit protein L11	COG2264	
+648180630	Dda3937_00666	cytoplasmic axial filament protein CafA and Ribonuclease G	COG1530	
+648180639	Dda3937_00675	ribosome-associated protein	COG3028	
+648180645	Dda3937_00681	Ribosome-associated factor	COG1544	
+648180665	Dda3937_00701	LSU ribosomal protein L13P	COG0102	
+648180666	Dda3937_00702	30S ribosomal subunit protein S9	COG0103	
+648180684	Dda3937_00721	16S rRNA C1402 ribose 2'-O-methyltransferase	COG0313	
+648180726	Dda3937_01280	indole-3-acetamide amidohydrolase	COG0154	
+648180736	Dda3937_01288	ribonuclease E inhibitor protein	COG3076	
+648180745	Dda3937_01296	valyl-tRNA synthetase (EC 6.1.1.9)	COG0525	
+648180811	Dda3937_02870	metal-dependent phosphohydrolase	COG1418	
+648180843	Dda3937_02672	peptide chain release factor RF-3	COG4108	
+648180921	Dda3937_02734	hypothetical protein	COG4575	
+648180932	Dda3937_03553	putative methyltransferase small domain-containing protein	COG2813	
+648180952	Dda3937_03532	SSU ribosomal protein S21P	COG0828	
+648180953	Dda3937_03531	putative peptidase	COG0533	
+648180960	Dda3937_04463	50S ribosomal subunit protein L21	COG0261	
+648180961	Dda3937_02354	50S ribosomal subunit protein L27	COG0211	
+648180966	Dda3937_02349	putative RNA-binding protein	COG1534	
+648180967	Dda3937_02348	cell division protein ftsJ/Ribosomal RNA large subunit methyltransferase J	COG0293	
+648180975	Dda3937_02343	ribosome maturation factor RimP	COG0779	
+648180977	Dda3937_02341	translation initiation factor IF2	COG0532	
+648180978	Dda3937_02340	30S ribosome binding factor	COG0858	
+648180979	Dda3937_02339	tRNA U55 pseudouridine synthase	COG0130	
+648180980	Dda3937_02338	30S ribosomal subunit protein S15	COG0184	
+648180982	Dda3937_02337	polynucleotide phosphorylase/polyadenylase	COG1185	
+648181000	Dda3937_02319	acetylase for 30S ribosomal subunit protein S18	COG0456	
+648181002	Dda3937_02317	Ribosomal RNA small subunit methyltransferase C	COG2813	
+648181029	Dda3937_02293	bacterial peptide chain release factor 2 (bRF-2)	COG1186	
+648181030	Dda3937_02292	lysyl-tRNA synthetase, class II (EC 6.1.1.6)	COG1190	
+648181090	Dda3937_01178	putative acetyltransferase	COG1670	
+648181246	Dda3937_02550	hypothetical protein	COG2867	
+648181259	Dda3937_01402	putative acyltransferase with acyl-CoA N-acyltransferase domain	COG0456	
+648181311	Dda3937_01453	metal-dependent hydrolases of the beta-lactamase superfamily III	COG1234	
+648181321	Dda3937_01462	NADPH dependent preQ0 reductase	COG2904	
+648181374	Dda3937_03398	tRNA (m7G46) methyltransferase, SAM-dependent	COG0220	
+648181403	Dda3937_00863	hypothetical protein	COG1179	
+648181410	Dda3937_04309	putative methyltransferase	COG2933	
+648181416	Dda3937_00873	tRNA pseudouridine synthase	COG0564	
+648181421	Dda3937_00878	methionine aminopeptidase	COG0024	
+648181423	Dda3937_00879	30S ribosomal subunit protein S2	COG0052	
+648181424	Dda3937_00880	translation elongation factor Ts (EF-Ts)	COG0264	
+648181426	Dda3937_00882	ribosome recycling factor	COG0233	
+648181441	Dda3937_01894	tRNA(Ile)-lysidine synthetase	COG0037	
+648181479	Dda3937_01931	L-asparaginase	COG0252	
+648181495	Dda3937_01947	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	COG0809	
+648181496	Dda3937_01948	tRNA-guanine transglycosylase	COG0343	
+648181511	Dda3937_01963	sulfur transfer protein	COG0301	
+648181537	Dda3937_03314	enzyme in preQ0 biosynthesis	COG0603	
+648181552	Dda3937_03301	50S ribosomal protein L31p	COG0254	
+648181559	Dda3937_03294	tRNA-(MS[2]IO[6]A)-hydroxylase	COG4445	
+648181575	Dda3937_04156	bifunctional cys-tRNA Pro deacetylase/cys-tRNA Cys deacylase	COG2606	
+648181605	Dda3937_01793	spermidine N1-acetyltransferase	COG1670	
+648181627	Dda3937_02503	tRNA(Met)-cytidine N(4)-acetyltransferase	COG1444	
+648181649	Dda3937_02482	23S rRNA (pseudouridine1915-N3)-methyltransferase	COG1576	
+648181650	Dda3937_02481	ribosome-associated protein	COG0799	
+648181654	Dda3937_02477	leucyl-tRNA synthetase (EC 6.1.1.4)	COG0495	
+648181662	Dda3937_02469	probable rRNA maturation factor	COG0319	
+648181664	Dda3937_02467	isopentenyl-adenosine A37 tRNA methylthiolase	COG0621	
+648181678	Dda3937_01562	glutaminyl-tRNA synthetase (EC 6.1.1.18)	COG0008	
+648181751	Dda3937_03935	methionyl-tRNA synthetase (EC 6.1.1.10)	COG0143	
+648181995	Dda3937_02844	S-adenosylmethionine:2-demethylmenaquinone methyltransferase	COG0684	
+648182000	Dda3937_02839	putative acetyltransferase	COG1670	
+648182206	Dda3937_02904	tRNA-U20a,U20b-dihydrouridine synthase	COG0042	
+648182299	Dda3937_03820	50S ribosomal subunit protein L25	COG1825	
+648182302	Dda3937_03822	16S rRNA pseudouridylate 516 synthase	COG1187	
+648182315	Dda3937_04552	putative translation elongation factor	COG0231	
+648182356	Dda3937_03494	MiaB-like tRNA modifying enzyme YliG, TIGR01125	COG0621	
+648182371	Dda3937_03479	Ribosomal protein S6 modification protein	COG0189	
+648182379	Dda3937_03472	23S rRNA m(5)U-747 methyltransferase (EC 2.1.1.189)	COG2265	
+648182397	Dda3937_02362	bacterial translation initiation factor 1 (bIF-1)	COG0361	
+648182406	Dda3937_00132	seryl-tRNA synthetase (EC 6.1.1.11)	COG0172	
+648182418	Dda3937_03348	ribosomal protein S12 methylthiotransferase accessory factor	COG1944	
+648182422	Dda3937_04328	30S ribosomal subunit protein S1	COG0539	
+648182472	Dda3937_00013	Ribonuclease	COG3719	
+648182484	Dda3937_01603	ribosomal-protein-S5-alanine N-acetyltransferase	COG1670	
+648182488	Dda3937_01606	arginyl-tRNA synthetase (EC 6.1.1.19)	COG0018	
+648182500	Dda3937_01616	aspartyl-tRNA synthetase	COG0173	
+648182502	Dda3937_01618	hypothetical protein	COG0217	
+648182554	Dda3937_04331	cytoplasmic L-asparaginase I	COG0252	
+648182597	Dda3937_00579	putative RNA-binding protein	COG0009	
+648182598	Dda3937_00580	23S rRNA pseudouridylate synthase	COG1187	
+648182697	Dda3937_00040	release factors RF-1 and RF-2 N5-glutamine methyltransferase	COG2890	
+648182698	Dda3937_04587	peptide chain release factor RF-1	COG0216	
+648182707	Dda3937_02959	peptidyl-tRNA hydrolase	COG0193	
+648182708	Dda3937_02958	putative GTP-binding protein	COG0012	
+648182754	Dda3937_02918	ribonuclease D	COG0349	
+648182756	Dda3937_03715	putative peptidase	COG1214	
+648182792	Dda3937_03678	phenylalanyl-tRNA synthetase beta subunit (EC 6.1.1.20)	COG0072	
+648182793	Dda3937_03679	phenylalanyl-tRNA synthetase, alpha subunit (EC 6.1.1.20)	COG0016	
+648182794	Dda3937_03680	LSU ribosomal protein L20P	COG0292	
+648182795	Dda3937_03681	50S ribosomal subunit protein L35	COG0291	
+648182796	Dda3937_03682	bacterial translation initiation factor 3 (bIF-3)	COG0290	
+648182797	Dda3937_03683	threonyl-tRNA synthetase (EC 6.1.1.3)	COG0441	
+648182808	Dda3937_02085	tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase	COG0482	
+648182813	Dda3937_02090	50S ribosomal protein L16 3-hydroxylase	COG2850	
+648182914	Dda3937_03780	16S rRNA m(5)C-1407 methyltransferase (EC 2.1.1.178)	COG0144	
+648182974	Dda3937_04705	ATP-dependent helicase hrpA	COG1643	
+648182985	Dda3937_03138	tRNA s(2)C-32 sulfurtransferase (EC 2.8.1.4)	COG0037	
+648182994	Dda3937_03130	putative ribosomal-protein-serine acetyltransferase	COG1670	
+648183026	Dda3937_04611	translation initiation factor	COG0023	
+648183036	Dda3937_00065	tyrosyl-tRNA synthetase (EC 6.1.1.1)	COG0162	
+648183096	Dda3937_03517	23S rRNA m2G2445 methyltransferase	COG0116	
+648183109	Dda3937_03662	asparaginyl-tRNA synthetase (EC 6.1.1.22)	COG0017	
+648183161	Dda3937_04201	50S ribosomal subunit protein L32	COG0333	
+648183164	Dda3937_04198	Ribosomal large subunit pseudouridine synthase C	COG0564	
+648183166	Dda3937_00056	RNAse E (EC 3.1.26.12)	COG1530	
+648183473	Dda3937_02105	tRNA pseudouridine synthase A	COG0101	
+648183484	Dda3937_02116	bifunctional 5-carboxymethylamino-methyl-2-thiouridine oxidoreductase/5-aminomethyl-2-thiouridine methylase	COG4121	
+648183494	Dda3937_04360	putative transporting ATPase	COG3101	
+648183498	Dda3937_00492	ribosomal protein L3 N5-glutamine methyltransferase	COG2890	
+648183536	Dda3937_02426	putative cytoplasmic protein	COG2606	
+648183563	Dda3937_02402	50S ribosomal protein L16 3-hydroxylase	COG2850	
+648183610	Dda3937_01677	putative RNA-binding protein	COG2501	
+648183611	Dda3937_01678	cysteinyl-tRNA synthetase (EC 6.1.1.16)	COG0215	
+648183691	Dda3937_03706	histidyl-tRNA synthetase (EC 6.1.1.21)	COG0124	
+648183695	Dda3937_03702	23S rRNA m(2)A2503 methyltransferase	COG0820	
+648183711	Dda3937_02375	tRNA:Cm32/Um32 methyltransferase	COG0565	
+648183735	Dda3937_03381	tRNA-specific adenosine-34 deaminase	COG0590	
+648183750	Dda3937_03851	membrane-associated, 16S rRNA-binding GTPase	COG1159	
+648183753	Dda3937_03848	GTP-binding membrane protein	COG0481	
+648183760	Dda3937_03842	putative S-adenosyl-L-methionine-dependent methyltransferase	COG4123	
+648183766	Dda3937_03502	glutamyl-tRNA synthetase	COG0008	
+648183791	Dda3937_00507	putative ATP-dependent helicase	COG1643	
+648183792	Dda3937_00508	2'-5' RNA ligase	COG1514	
+648183794	Dda3937_00510	transcriptional regulator, TraR/DksA family	COG1734	
+648183797	Dda3937_00513	poly(A) polymerase I	COG0617	
+648183832	Dda3937_01572	23S rRNA pseudouridine synthase	COG0564	
+648183834	Dda3937_01570	cold shock protein associated with 30S ribosomal subunit	COG1544	
+648183844	Dda3937_03948	50S ribosomal subunit protein L19	COG0335	
+648183845	Dda3937_03947	tRNA (Guanine37-N(1)-) methyltransferase (EC 2.1.1.31)	COG0336	
+648183846	Dda3937_03946	16S rRNA processing protein	COG0806	
+648183847	Dda3937_03945	SSU ribosomal protein S16P	COG0228	
+648183861	Dda3937_03152	alanyl-tRNA synthetase (EC 6.1.1.7)	COG0013	
+648183865	Dda3937_03156	GCN5-related N-acetyltransferase	COG0456	
+648183955	Dda3937_00909	putative amidase	COG0154	
+648183961	Dda3937_00903	allophanate hydrolase	COG0154	
+648183974	Dda3937_00891	putative methyltransferase	COG0566	
+648183995	Dda3937_03913	hypothetical protein	COG1720	
+648183996	Dda3937_03912	prolyl-tRNA synthetase (EC 6.1.1.15)	COG0442	
+648184000	Dda3937_03908	tRNA(Glu) U13 pseudouridine synthase	COG0585	
+648184027	Dda3937_00194	23S rRNA (Uracil-5-) -methyltransferase rumA	COG2265	
+648184049	Dda3937_00174	multifunctional tRNA nucleotidyl transferase, 2'3'-cyclic phosphodiesterase, 2'-nucleotidase, and phosphatase	COG0617	
+648184069	Dda3937_00466	50S ribosomal subunit protein L9	COG0359	
+648184070	Dda3937_02619	SSU ribosomal protein S18P	COG0238	
+648184072	Dda3937_02617	30S ribosomal subunit protein S6	COG0360	
+648184079	Dda3937_02610	23S rRNA (Gm2251)-methyltransferase	COG0566	
+648184127	Dda3937_03441	tRNA-U16,U17-dihydrouridine synthase	COG0042	
+648184250	Dda3937_02446	16S rRNA m(4)C1402 methyltransferase	COG0275	
+648184251	Dda3937_02447	MraZ protein	COG2001	
+648184285	Dda3937_01375	ribosomal large subunit pseudouridine synthase A (EC 5.4.99.-)	COG0564	
+648184291	Dda3937_01381	S-adenosylmethionine-6-N',N'-adenosyl (rRNA) dimethyltransferase	COG0030	
+648184306	Dda3937_01396	Isoleucyl-tRNA synthetase (EC 6.1.1.5)	COG0060	
+648184308	Dda3937_00381	SSU ribosomal protein S20P	COG0268	
+648184323	Dda3937_00395	RNA methyltransferase, TrmH family, group 1	COG0565	
+648184352	Dda3937_00423	16S rRNA (uracil1498-N3)-methyltransferase	COG1385	
+648184353	Dda3937_00424	glutathione synthase (EC 6.3.2.3)	COG0189	
+648184362	Dda3937_00433	putative GTPase	COG2262	
+648184364	Dda3937_00435	delta(2)-isopentenylpyrophosphate tRNA-adenosine transferase	COG0324	
+648184367	Dda3937_00438	ATPase with strong ADP affinity	COG0802	
+648184370	Dda3937_00441	putative Fe-S electron transport protein	COG1600	
+648184434	Dda3937_02151	ribosome small subunit-dependent GTPase A	COG1162	
+648184437	Dda3937_02148	putative lysyl-tRNA synthetase	COG2269	
+648184444	Dda3937_02141	Elongation factor EF-P	COG0231	
+648184468	Dda3937_01527	tRNA (ANN) t(6)A37 threonylcarbamoyladenosine biosynthesis protein	COG0009	
+648184472	Dda3937_01523	peptide deformylase	COG0242	
+648184473	Dda3937_01522	methionyl-tRNA formyltransferase (EC 2.1.2.9)	COG0223	
+648184474	Dda3937_01521	16S rRNA m(5)C-967 methyltransferase (EC 2.1.1.176)	COG0144	
+648184477	Dda3937_01518	alternative ribosome-rescue factor	COG3036	
+648184479	Dda3937_01516	50S ribosomal subunit protein L17	COG0203	
+648184481	Dda3937_01514	30S ribosomal subunit protein S4	COG0522	
+648184482	Dda3937_01513	SSU ribosomal protein S11P	COG0100	
+648184483	Dda3937_01512	30S ribosomal subunit protein S13	COG0099	
+648184484	Dda3937_04714	LSU ribosomal protein L36P	COG0257	
+648184486	Dda3937_01510	LSU ribosomal protein L15P	COG0200	
+648184487	Dda3937_01509	50S ribosomal subunit protein L30	COG1841	
+648184488	Dda3937_01508	30S ribosomal subunit protein S5	COG0098	
+648184489	Dda3937_01507	LSU ribosomal protein L18P	COG0256	
+648184490	Dda3937_01506	50S ribosomal subunit protein L6	COG0097	
+648184491	Dda3937_01505	30S ribosomal subunit protein S8	COG0096	
+648184492	Dda3937_04411	SSU ribosomal protein S14P	COG0199	
+648184493	Dda3937_01504	50S ribosomal subunit protein L5	COG0094	
+648184494	Dda3937_04715	LSU ribosomal protein L24P	COG0198	
+648184495	Dda3937_01503	LSU ribosomal protein L14P	COG0093	
+648184496	Dda3937_01502	30S ribosomal subunit protein S17	COG0186	
+648184497	Dda3937_01501	LSU ribosomal protein L29P	COG0255	
+648184498	Dda3937_01500	50S ribosomal subunit protein L16	COG0197	
+648184499	Dda3937_01499	30S ribosomal subunit protein S3	COG0092	
+648184500	Dda3937_01498	50S ribosomal subunit protein L22	COG0091	
+648184501	Dda3937_01497	SSU ribosomal protein S19P	COG0185	
+648184502	Dda3937_04706	50S ribosomal protein L2p (L8e)	COG0090	
+648184503	Dda3937_01496	50S ribosomal subunit protein L23	COG0089	
+648184504	Dda3937_01495	50S ribosomal subunit protein L4	COG0088	
+648184505	Dda3937_04221	50S ribosomal subunit protein L3	COG0087	
+648184506	Dda3937_01494	30S ribosomal subunit protein S10	COG0051	
+648184509	Dda3937_00474	translation elongation factor 1A (EF-1A/EF-Tu)	COG0050	
+648184510	Dda3937_03981	protein chain elongation factor EF-G, GTP-binding protein	COG0480	
+648184511	Dda3937_03982	30S ribosomal subunit protein S7	COG0049	
+648184512	Dda3937_04413	SSU ribosomal protein S12P	COG0048	
+648184556	Dda3937_04188	tryptophanyl-tRNA synthetase (EC 6.1.1.2)	COG0180	
+648184572	Dda3937_00359	ribosome-associated heat shock protein Hsp15	COG1188	
+648184656	Dda3937_00280	amidase	COG0154	
+648184758	Dda3937_03264	50S ribosomal subunit protein L33	COG0267	
+648184759	Dda3937_03263	50S ribosomal subunit protein L28	COG0227	
+648184765	Dda3937_03257	ribonuclease PH	COG0689	
+648184874	Dda3937_01010	glycyl-tRNA synthetase beta chain (EC 6.1.1.14)	COG0751	
+648184875	Dda3937_01011	glycyl-tRNA synthetase alpha chain (EC 6.1.1.14)	COG0752	
+648184878	Dda3937_01014	acetyltransferase	COG0456	
+648184917	Dda3937_01051	Ribonuclease Z	COG1234	
+648184918	Dda3937_01052	putative DNA (exogenous) processing protein	COG2961	
+648184928	Dda3937_01061	protein C5 component of RNase P	COG0594	
+648184931	Dda3937_01064	tRNA modification GTPase trmE	COG0486	
+648184945	Dda3937_01078	bifunctional UDP-L-Ara4N formyltransferase/UDP-GlcA C-4'-decarboxylase	COG0223	
+648184991	Dda3937_00153	16S rRNA m(7)G-527 methyltransferase (EC 2.1.1.170)	COG0357	
+648184992	Dda3937_00154	glucose-inhibited cell-division protein	COG0445	

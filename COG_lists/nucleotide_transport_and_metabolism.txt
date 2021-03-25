@@ -1,0 +1,98 @@
+Gene ID	Locus Tag	Name	Function	
+648180362	Dda3937_01124	Xanthine permease	COG2233	
+648180367	Dda3937_01129	guanylate kinase (EC 2.7.4.8)	COG0194	
+648180486	Dda3937_03049	hypothetical protein	COG0563	
+648180576	Dda3937_00237	NADH pyrophosphatase	COG2816	
+648180582	Dda3937_00243	phosphoribosylamine--glycine ligase (EC 6.3.4.13)	COG0151	
+648180583	Dda3937_00244	phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	COG0138	
+648180719	Dda3937_01273	ribonucleoside-triphosphate reductase class III catalytic subunit (EC 1.17.4.2)	COG1328	
+648180729	Dda3937_01283	aspartate carbamoyltransferase, regulatory subunit	COG1781	
+648180730	Dda3937_01284	aspartate carbamoyltransferase (EC 2.1.3.2)	COG0540	
+648180865	Dda3937_02652	transthyretin-like protein	COG2351	
+648180866	Dda3937_02651	Uricase	COG3195	
+648180991	Dda3937_02328	2-deoxyribose-5-phosphate aldolase	COG0274	
+648180992	Dda3937_02327	thymidine phosphorylase (EC 2.4.2.4)	COG0213	
+648180994	Dda3937_02325	purine-nucleoside phosphorylase	COG0813	
+648181018	Dda3937_02304	putative hydrolase	COG1896	
+648181061	Dda3937_02263	Xanthine/uracil permease family protein	COG2252	
+648181250	Dda3937_02546	NAD kinase	COG0061	
+648181269	Dda3937_01412	cytosine/purine/uracil/thiamine/allantoin permease family protein	COG1457	
+648181327	Dda3937_01467	MutT/nudix family protein	COG1051	
+648181350	Dda3937_01490	DNA topology modulation protein flar-related protein	COG0563	
+648181389	Dda3937_00851	thymidylate synthase (EC 2.1.1.45)	COG0207	
+648181425	Dda3937_00881	uridylate kinase (EC 2.7.4.22)	COG0528	
+648181561	Dda3937_03292	adenine phosphoribosyltransferase (EC 2.4.2.7)	COG0503	
+648181566	Dda3937_03287	Adenylate kinase (EC 2.7.4.3)	COG0563	
+648181569	Dda3937_04493	UDP-sugar hydrolase; 5'-nucleotidase	COG0737	
+648181583	Dda3937_04164	Ribonucleotide reductase of class Ia (aerobic), subunit beta	COG0208	
+648181584	Dda3937_04165	Ribonucleotide reductase of class Ia (aerobic), subunit alpha	COG0209	
+648181614	Dda3937_02516	phosphoribosylglycinamide formyltransferase 1	COG0299	
+648181615	Dda3937_02515	phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	COG0150	
+648181616	Dda3937_02514	uracil phosphoribosyltransferase (EC 2.4.2.9)	COG0035	
+648181617	Dda3937_02513	Uracil permease	COG2233	
+648181625	Dda3937_02505	phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	COG0152	
+648181754	Dda3937_03933	uridine kinase (EC 2.7.1.48)	COG0572	
+648181755	Dda3937_03932	2'-deoxycytidine 5'-triphosphate deaminase	COG0717	
+648181811	Dda3937_00834	AMP nucleosidase	COG0775	
+648182053	Dda3937_02996	Inosine-uridine preferring nucleoside hydrolase	COG1957	
+648182054	Dda3937_02995	Inosine-uridine preferring nucleoside hydrolase	COG1957	
+648182114	Dda3937_03588	glutamine amidotransferase, class I	COG0518	
+648182155	Dda3937_03742	cytidine deaminase (EC 3.5.4.5)	COG0295	
+648182421	Dda3937_04066	cytidylate kinase	COG0283	
+648182519	Dda3937_03571	formate-dependent phosphoribosylglycinamide formyltransferase (EC 6.3.4.-)	COG0027	
+648182562	Dda3937_04046	Formyltetrahydrofolate deformylase	COG0788	
+648182567	Dda3937_04057	thymidine kinase (EC 2.7.1.21)	COG1435	
+648182624	Dda3937_00606	adenosine deaminase	COG1816	
+648182702	Dda3937_00034	phosphoribosylpyrophosphate synthase	COG0462	
+648182810	Dda3937_02087	adenylosuccinate lyase	COG0015	
+648182897	Dda3937_03795	Mutator mutT protein (7, 8-dihydro-8-oxoguanine-triphosphatase)/Thiamin-phosphate pyrophosphorylase-like protein	COG1051	
+648182948	Dda3937_04713	guanine deaminase (EC 3.5.4.3)	COG0402	
+648183027	Dda3937_04038	orotidine-5'-phosphate decarboxylase (EC 4.1.1.23)	COG0284	
+648183099	Dda3937_03514	dihydroorotate oxidase A (EC 1.3.3.1)	COG0167	
+648183147	Dda3937_02254	purine nucleoside phosphoramidase	COG0537	
+648183152	Dda3937_02249	thymidylate kinase	COG0125	
+648183168	Dda3937_03554	dihydroorotase (EC 3.5.2.3)	COG0418	
+648183204	Dda3937_03422	carbamoyl-phosphate synthase small subunit	COG0027	
+648183411	Dda3937_01827	glutamine-hydrolyzing GMP synthase	COG0518	
+648183448	Dda3937_04026	nucleotidase	COG1896	
+648183467	Dda3937_02099	amidophosphoribosyltransferase (EC 2.4.2.14)	COG0034	
+648183605	Dda3937_01673	Formiminoglutamic iminohydrolase	COG0402	
+648183615	Dda3937_01682	5-(carboxyamino)imidazole ribonucleotide mutase	COG0041	
+648183616	Dda3937_01683	N5-carboxyaminoimidazole ribonucleotide synthase	COG0026	
+648183627	Dda3937_01692	Exopolyphosphatase	COG0248	
+648183651	Dda3937_02822	Nucleoside permease nupC	COG1972	
+648183682	Dda3937_00005	GMP synthetase (glutamine aminotransferase)	COG0519	
+648183683	Dda3937_00004	IMP dehydrogenase	COG0516	
+648183696	Dda3937_03701	nucleoside diphosphate kinase (EC 2.7.4.6)	COG0105	
+648183733	Dda3937_03379	phosphoribosylformyl-glycineamide synthetase	COG0046	
+648183779	Dda3937_00497	deoxyguanosine triphosphate triphosphohydrolase	COG0232	
+648183781	Dda3937_00498	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	COG0775	
+648183805	Dda3937_04072	hypoxanthine phosphoribosyltransferase	COG0634	
+648183815	Dda3937_03978	protein involved in ribonucleotide reduction	COG1780	
+648183816	Dda3937_03977	ribonucleoside-diphosphate reductase 2, subunit alpha	COG0209	
+648183817	Dda3937_03976	ribonucleoside-diphosphate reductase 2, subunit beta, ferritin-like protein	COG0208	
+648183931	Dda3937_00931	guanine-xanthine phosphoribosyltransferase	COG0503	
+648183947	Dda3937_00917	serine--pyruvate aminotransferase/L-alanine:glyoxylate aminotransferase	COG0075	
+648183960	Dda3937_00904	hydantoin permease	COG1953	
+648184024	Dda3937_00197	CTP synthase (EC 6.3.4.2)	COG0504	
+648184063	Dda3937_00160	2',3'-cyclic-nucleotide 2'-phosphodiesterase	COG0737	
+648184085	Dda3937_02604	cytosine deaminase	COG0402	
+648184092	Dda3937_02597	dITP/XTP pyrophosphatase	COG0127	
+648184197	Dda3937_02624	orotate phosphoribosyltransferase (EC 2.4.2.10)	COG0461	
+648184229	Dda3937_02240	GMP reductase	COG0516	
+648184233	Dda3937_02236	nucleoside triphosphate pyrophosphohydrolase, marked preference for dGTP	COG1051	
+648184299	Dda3937_01389	carbamoyl-phosphate synthase large subunit	COG0458	
+648184300	Dda3937_01390	carbamoyl phosphate synthetase small subunit, glutamine amidotransferase	COG0505	
+648184302	Dda3937_01392	ribonucleoside hydrolase 3	COG1957	
+648184328	Dda3937_00400	hypothetical protein	COG1986	
+648184358	Dda3937_00429	Adenylosuccinate synthetase (EC 6.3.4.4)	COG0104	
+648184368	Dda3937_00439	putative carbohydrate kinase	COG0063	
+648184641	Dda3937_00294	adenylate cyclase	COG3072	
+648184652	Dda3937_00284	adenylosuccinate lyase	COG0015	
+648184676	Dda3937_00264	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase	COG0248	
+648184731	Dda3937_02055	uridine phosphorylase	COG2820	
+648184762	Dda3937_03260	deoxyuridinetriphosphatase	COG0756	
+648184764	Dda3937_03258	orotate phosphoribosyltransferase (EC 2.4.2.10)	COG0461	
+648184836	Dda3937_00974	indigoidine biosynthesis protein	COG2313	
+648184914	Dda3937_01048	3-carboxy-cis,cis-muconate cycloisomerase	COG0015	
+648184955	Dda3937_01088	Xanthine/uracil/thiamine/ascorbate permease family protein	COG2252	

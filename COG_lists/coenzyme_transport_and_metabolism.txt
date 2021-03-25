@@ -1,0 +1,185 @@
+Gene ID	Locus Tag	Name	Function	
+648180344	Dda3937_01107	molybdopterin-guanine dinucleotide biosynthesis protein B	COG1763	
+648180345	Dda3937_01108	Molybdopterin-guanine dinucleotide biosynthesis protein A	COG0746	
+648180353	Dda3937_01115	coproporphyrinogen III oxidase, SAM and NAD(P)H dependent, oxygen-independent	COG0635	
+648180358	Dda3937_01120	putative haloacid dehalogenase-like hydrolase	COG1011	
+648180404	Dda3937_02521	multifunctional Erythrose 4-P, mannose 1-P, and alpha-D-glucose-1-P phosphatase	COG0561	
+648180517	Dda3937_03881	1,4-dihydroxy-2-naphthoate prenyltransferase (EC 2.5.1.74)	COG1575	
+648180535	Dda3937_03897	vitamin B12/cobalamin outer membrane transporter	COG4206	
+648180542	Dda3937_04217	bifunctional biotin-[acetylCoA carboxylase] holoenzyme synthetase/DNA-binding protein transcriptional repressor, bio-5'-AMP-binding protein	COG0340	
+648180543	Dda3937_04218	pantothenate kinase (EC 2.7.1.33)	COG1072	
+648180569	Dda3937_00230	tyrosine lyase ThiH	COG1060	
+648180570	Dda3937_00231	thiazole-phosphate synthase	COG2022	
+648180571	Dda3937_00232	thiamin biosynthesis protein, sulfur donor	COG2104	
+648180572	Dda3937_00233	[sulfur carrier protein ThiS] adenylyltransferase	COG0476	
+648180573	Dda3937_00234	thiamin phosphate synthase (thiamin phosphate pyrophosphorylase)	COG0352	
+648180574	Dda3937_00235	thiamin (pyrimidine moiety) biosynthesis protein	COG0422	
+648180577	Dda3937_00238	uroporphyrinogen decarboxylase (EC 4.1.1.37)	COG0407	
+648180616	Dda3937_01598	pantothenate:sodium symporter	COG4145	
+648180619	Dda3937_04028	acetyl CoA carboxylase, BCCP subunit	COG0511	
+648180830	Dda3937_02684	putative oxidoreductase with FAD/NAD(P)-binding domain	COG0654	
+648180831	Dda3937_02683	2-octaprenyl-6-methoxyphenol hydroxylase FAD/NAD(P)-binding protein	COG0654	
+648180836	Dda3937_02679	putative ligase	COG0212	
+648180837	Dda3937_02678	NadR transcriptional repressor/ribosylnicotinamide kinase/NMN adenylyltransferase	COG3172	
+648180858	Dda3937_02659	Vitamin B12 ABC transporter ATPase BtuD	COG1120	
+648180909	Dda3937_02722	chorismate lyase (EC 4.1.3.40)	COG3161	
+648180910	Dda3937_02723	4-hydroxybenzoate polyprenyltransferase (EC 2.5.1.39)	COG0382	
+648180940	Dda3937_03545	putative thiamine biosynthesis lipoprotein	COG1477	
+648180943	Dda3937_03540	Thiamin biosynthesis lipoprotein ApbE	COG1477	
+648180959	Dda3937_03525	octaprenyl diphosphate synthase	COG0142	
+648180969	Dda3937_02346	7,8-dihydropteroate synthase	COG0294	
+648180985	Dda3937_02334	hypothetical protein	COG2141	
+648181011	Dda3937_02310	acetolactate synthase, large subunit (EC 2.2.1.6)	COG0028	
+648181058	Dda3937_02266	Molybdate-binding domain of ModE	COG3585	
+648181258	Dda3937_01401	coproporphyrinogen oxidase (EC 1.3.3.3)	COG0408	
+648181291	Dda3937_01433	3,4-dihydroxy-2-butanone-4-phosphate synthase	COG0108	
+648181351	Dda3937_04484	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	COG0596	
+648181401	Dda3937_00861	D-3-phosphoglycerate dehydrogenase	COG0111	
+648181503	Dda3937_01955	diaminohydroxyphosphoribosylaminopyrimidine deaminase (EC 3.5.4.26)	COG0117	
+648181504	Dda3937_01956	6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)	COG0054	
+648181506	Dda3937_01958	thiamine-phosphate kinase	COG0611	
+648181508	Dda3937_01960	1-deoxy-D-xylulose-5-phosphate synthase (EC 2.2.1.7)	COG1154	
+648181509	Dda3937_01961	geranyltranstransferase	COG0142	
+648181511	Dda3937_01963	sulfur transfer protein	COG0301	
+648181513	Dda3937_01965	2-dehydropantoate reductase, NADPH-specific	COG1893	
+648181521	Dda3937_01972	protoheme IX farnesyltransferase	COG0109	
+648181567	Dda3937_03286	ferrochelatase (EC 4.99.1.1)	COG0276	
+648181585	Dda3937_01773	3-demethylubiquinone-9 3-methyltransferase (EC 2.1.1.64)	COG2227	
+648181592	Dda3937_01780	isochorismate synthase (EC 5.4.4.2)	COG1169	
+648181593	Dda3937_01781	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase (EC 2.2.1.9)	COG1165	
+648181594	Dda3937_01782	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (EC 4.2.99.20)	COG0596	
+648181595	Dda3937_01783	1,4-Dihydroxy-2-naphthoyl-CoA synthase (EC 4.1.3.36)	COG0447	
+648181596	Dda3937_01784	O-succinylbenzoate synthase (EC 4.2.1.113)	COG1441	
+648181642	Dda3937_02489	lipoate synthase	COG0320	
+648181643	Dda3937_02488	lipoyl-protein ligase	COG0321	
+648181651	Dda3937_02480	nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	COG1057	
+648181665	Dda3937_02466	2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase	COG0654	
+648181683	Dda3937_01557	esterase	COG0596	
+648181697	Dda3937_01545	metal-binding putative hydrolase-oxidase	COG0327	
+648181725	Dda3937_03984	quinolinate synthetase (EC 2.5.1.72)	COG0379	
+648181726	Dda3937_03985	putative nicotinamide mononucleotide transporter	COG3201	
+648181746	Dda3937_04005	pyridoxal phosphatase/fructose 1,6-bisphosphatase	COG0561	
+648181802	Dda3937_00843	tricorn interacting aminopeptidase F1. Serine peptidase. MEROPS family S33	COG0596	
+648181847	Dda3937_00800	D-alanine aminotransferase	COG0115	
+648181994	Dda3937_02845	ATP binding protein from the ferric achromobactin permease	COG1120	
+648182024	Dda3937_03024	D-3-phosphoglycerate dehydrogenase	COG0111	
+648182067	Dda3937_00365	Triphosphoribosyl-dephospho-CoA synthetase	COG1767	
+648182102	Dda3937_04319	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	COG0596	
+648182109	Dda3937_03584	alpha/beta superfamily hydrolase	COG0596	
+648182152	Dda3937_03739	[molybdopterin synthase] sulfurylase	COG0476	
+648182153	Dda3937_03740	molybdopterin biosynthesis protein	COG0303	
+648182160	Dda3937_03747	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	COG0161	
+648182161	Dda3937_03748	biotin synthase (EC 2.8.1.6)	COG0502	
+648182162	Dda3937_03749	8-amino-7-oxononanoate synthase	COG0156	
+648182164	Dda3937_03751	dethiobiotin synthetase	COG0132	
+648182168	Dda3937_03755	putative transferase with NAD(P)-binding Rossmann-fold domain	COG0391	
+648182175	Dda3937_03761	molybdopterin biosynthesis protein A	COG2896	
+648182176	Dda3937_03762	Molybdenum cofactor biosynthesis protein B	COG0521	
+648182177	Dda3937_03763	molybdopterin biosynthesis, protein C	COG0315	
+648182178	Dda3937_03764	molybdopterin synthase subunit MoaD (EC 2.8.1.12)	COG1977	
+648182179	Dda3937_03765	molybdopterin synthase, large subunit	COG0314	
+648182263	Dda3937_01241	alkanal monooxygenase subunit alpha	COG2141	
+648182353	Dda3937_03497	GTP cyclohydrolase I	COG0302	
+648182362	Dda3937_03488	(R)-3-hydroxydecanoyl-ACP:CoA transacylase	COG0596	
+648182371	Dda3937_03479	Ribosomal protein S6 modification protein	COG0189	
+648182419	Dda3937_04327	phosphoserine aminotransferase apoenzyme (EC 2.6.1.52)	COG1932	
+648182443	Dda3937_04564	apo-citrate lyase phosphoribosyl-dephospho-CoA transferase	COG3697	
+648182444	Dda3937_00043	triphosphoribosyl-dephospho-CoA transferase	COG1767	
+648182460	Dda3937_03198	putative S-adenosyl-L-methionine-dependent methyltransferase	COG2227	
+648182553	Dda3937_04576	nicotinamidase/pyrazinamidase	COG1335	
+648182594	Dda3937_00576	anthranilate synthase component II	COG0512	
+648182595	Dda3937_00577	anthranilate synthase, component I (EC 4.1.3.27)	COG0147	
+648182599	Dda3937_00581	cob(I)yrinic acid a,c-diamide adenosyltransferase (EC 2.5.1.17)	COG2109	
+648182634	Dda3937_04131	putative dethiobiotin synthetase	COG0132	
+648182699	Dda3937_00037	glutamyl-tRNA reductase (EC 1.2.1.70)	COG0373	
+648182760	Dda3937_03719	aminodeoxychorismate synthase, subunit I	COG0147	
+648182771	Dda3937_00016	23S rRNA m(1)G-745 methyltransferase (EC 2.1.1.51)	COG2226	
+648182788	Dda3937_03367	NAD synthetase	COG0171	
+648182869	Dda3937_00632	branched-chain amino acid aminotransferase	COG0115	
+648182870	Dda3937_00633	putative hydrolase	COG0561	
+648182888	Dda3937_04144	ketopantoate reductase (EC 1.1.1.169)	COG1893	
+648182979	Dda3937_03144	fermentative D-lactate dehydrogenase, NAD-dependent	COG1052	
+648183031	Dda3937_04041	GTP cyclohydrolase II	COG0807	
+648183035	Dda3937_00091	pyridoxal kinase 2/pyridoxine kinase	COG2240	
+648183051	Dda3937_04105	riboflavin synthase alpha chain (EC 2.5.1.9)	COG0307	
+648183103	Dda3937_03510	alkanesulfonate monooxygenase (EC 1.14.14.5)	COG2141	
+648183108	Dda3937_03507	Nicotinate phosphoribosyltransferase	COG1488	
+648183122	Dda3937_03650	Lipoate-protein ligase A	COG0095	
+648183124	Dda3937_03648	vitamin B12 ABC transporter ATP-binding protein	COG4138	
+648183126	Dda3937_04344	vitamin B12 ABC transporter membrane protein	COG4139	
+648183144	Dda3937_02257	thiamin kinase	COG0510	
+648183154	Dda3937_02247	4-amino-4-deoxychorismate lyase component of para-aminobenzoate synthase multienzyme complex	COG0115	
+648183386	Dda3937_01850	Uroporphyrinogen-III methyltransferase	COG0007	
+648183466	Dda3937_00101	3-octaprenyl-4-hydroxybenzoate carboxy-lyase	COG0163	
+648183470	Dda3937_02102	bifunctional folylpolyglutamate synthase/dihydrofolate synthase	COG0285	
+648183475	Dda3937_02107	erythronate-4-phosphate dehydrogenase	COG0111	
+648183519	Dda3937_03036	ferrichrysobactin transporter, permease; ATPase	COG1120	
+648183526	Dda3937_02434	isochorismate synthase (EC 5.4.4.2)	COG1169	
+648183553	Dda3937_02409	D-alanine aminotransferase	COG0115	
+648183609	Dda3937_01676	methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)/5,10-methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)	COG0190	
+648183632	Dda3937_01697	Isochorismatase	COG1335	
+648183667	Dda3937_02807	bifunctional hydroxy-methylpyrimidine kinase/hydroxy-phosphomethylpyrimidine kinase	COG0351	
+648183668	Dda3937_02806	hydroxyethylthiazole kinase	COG2145	
+648183715	Dda3937_02379	Fe3+-siderophores ABC transporters ATP-binding protein	COG1120	
+648183748	Dda3937_03853	pyridoxine 5'-phosphate synthase	COG0854	
+648183759	Dda3937_03843	L-aspartate oxidase (EC 1.4.3.16)	COG0029	
+648183762	Dda3937_03840	pyruvate formate lyase subunit	COG3445	
+648183786	Dda3937_00503	glutamate-1-semialdehyde aminotransferase (aminomutase)	COG0001	
+648183789	Dda3937_00506	iron-hydroxamate ABC transporter ATP-binding protein	COG1120	
+648183798	Dda3937_00514	2-amino-4-hydroxy-6-hydroxymethyldihyropteridine pyrophosphokinase	COG0801	
+648183799	Dda3937_00515	ketopantoate hydroxymethyltransferase (EC 2.1.2.11)	COG0413	
+648183800	Dda3937_00516	pantothenate synthetase	COG0414	
+648183801	Dda3937_00517	L-aspartate 1-decarboxylase (EC 4.1.1.11)	COG0853	
+648183853	Dda3937_03940	glutamate-cysteine ligase (EC 6.3.2.2)	COG2918	
+648183864	Dda3937_03155	nicotinamide-nucleotide amidase	COG1546	
+648183960	Dda3937_00904	hydantoin permease	COG1953	
+648184007	Dda3937_00213	sulfate adenylyltransferase, subunit 2	COG0175	
+648184008	Dda3937_00212	siroheme synthase	COG0007	
+648184009	Dda3937_00211	phosphoadenylylsulfate reductase (thioredoxin) (EC 1.8.4.8)	COG0175	
+648184016	Dda3937_00205	6-carboxy-5,6,7,8-tetrahydropterin synthase	COG0720	
+648184051	Dda3937_00172	bifunctional dihydroneopterin aldolase/dihydroneopterin triphosphate 2'-epimerase	COG1539	
+648184093	Dda3937_02596	putative oxidoreductase	COG0635	
+648184153	Dda3937_03465	hypothetical protein	COG0432	
+648184200	Dda3937_02627	4-hydroxythreonine-4-phosphate dehydrogenase	COG1995	
+648184225	Dda3937_02244	nicotinate-nucleotide pyrophosphorylase [carboxylating] (EC 2.4.2.19)	COG0157	
+648184230	Dda3937_02239	dephospho-CoA kinase	COG0237	
+648184257	Dda3937_02452	acetolactate synthase, large subunit (EC 2.2.1.6)	COG0028	
+648184267	Dda3937_01357	thiamin ABC transporter periplasmic-binding component	COG4143	
+648184269	Dda3937_01359	thiamin ABC transporter ATP-binding protein	COG3840	
+648184271	Dda3937_01361	acetolactate synthase, large subunit (EC 2.2.1.6)	COG0028	
+648184290	Dda3937_01380	4-hydroxy-L-threonine phosphate dehydrogenase	COG1995	
+648184295	Dda3937_01385	dihydrofolate reductase	COG0262	
+648184307	Dda3937_00380	bifunctional riboflavin kinase/FAD synthetase	COG0196	
+648184316	Dda3937_00388	putative molybdochelatase	COG0521	
+648184336	Dda3937_00407	D-3-phosphoglycerate dehydrogenase	COG0111	
+648184349	Dda3937_00420	methionine adenosyltransferase (EC 2.5.1.6)	COG0192	
+648184353	Dda3937_00424	glutathione synthase (EC 6.3.2.3)	COG0189	
+648184380	Dda3937_00450	D-3-phosphoglycerate dehydrogenase	COG0111	
+648184384	Dda3937_00453	Luciferase-like monooxygenase	COG2141	
+648184385	Dda3937_00454	Nitrilotriacetate monooxygenase component A	COG2141	
+648184394	Dda3937_00463	aminobenzoyl-glutamate transport protein	COG2978	
+648184541	Dda3937_00548	aminodeoxychorismate synthase, subunit II	COG0512	
+648184571	Dda3937_00360	putative hydrolase	COG1011	
+648184583	Dda3937_00350	carboxylesterase	COG0596	
+648184620	Dda3937_00314	hypothetical protein	COG0561	
+648184635	Dda3937_00300	FMN phosphatase	COG1011	
+648184642	Dda3937_00293	hydroxymethylbilane synthase (EC 2.5.1.61)	COG0181	
+648184643	Dda3937_00292	uroporphyrinogen III synthase	COG1587	
+648184684	Dda3937_00256	ketol-acid reductoisomerase (EC 1.1.1.86)	COG0059	
+648184690	Dda3937_00250	branched-chain amino-acid aminotransferase	COG0115	
+648184692	Dda3937_00248	acetolactate synthase, large subunit (EC 2.2.1.6)	COG0028	
+648184704	Dda3937_02081	protoporphyrin oxidase, flavoprotein	COG4635	
+648184714	Dda3937_02071	flavin reductase	COG0543	
+648184716	Dda3937_02069	Porphobilinogen synthase	COG0113	
+648184721	Dda3937_02064	2-octaprenylphenol hydroxylase (EC 1.14.13.-)	COG0661	
+648184722	Dda3937_02063	ubiquinone biosynthesis protein UbiJ	COG3165	
+648184723	Dda3937_02062	bifunctional 2-octaprenyl-6-methoxy-1,4-benzoquinone methylase/S-adenosylmethionine:2-DMK methyltransferase	COG2226	
+648184744	Dda3937_02042	2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	COG0156	
+648184755	Dda3937_02031	Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	COG0669	
+648184761	Dda3937_03261	bifunctional 4'-phosphopantothenoylcysteine decarboxylase/phosphopantothenoylcysteine synthetase, FMN-binding protein	COG0452	
+648184880	Dda3937_01015	2-keto-D-gluconate reductase	COG1052	
+648184889	Dda3937_01024	alkanal monooxygenase subunit alpha	COG2141	
+648184898	Dda3937_01033	putative oxalyl-CoA decarboxylase	COG0028	
+648184906	Dda3937_01041	phosphoserine aminotransferase apoenzyme (EC 2.6.1.52)	COG1932	
+648184954	Dda3937_01087	phosphopantetheinyl transferase	COG2091	
+648184977	Dda3937_00140	GTP cyclohydrolase II (EC 3.5.4.25)	COG0807	

@@ -1,0 +1,43 @@
+Gene ID	Locus Tag	Name	Function	
+648180351	Dda3937_01113	GTP-binding protein	COG0218	
+648180462	Dda3937_02013	putative transporter ATP-binding protein	COG2884	
+648180463	Dda3937_02014	putative transporter membrane protein	COG2177	
+648180515	Dda3937_03879	cell division protein ZapB	COG3074	
+648180520	Dda3937_03884	essential cell division protein	COG3087	
+648180626	Dda3937_00662	cell wall structural complex MreBCD, actin-like component MreB	COG1077	
+648180627	Dda3937_00663	cell wall structural complex MreBCD transmembrane protein MreC	COG1792	
+648180700	Dda3937_01256	divisomal assembly stabilization protein	COG2132	
+648180834	Dda3937_02680	cell division protein ZapA	COG3027	
+648180963	Dda3937_02352	GTPase involved in cell partioning and DNA repair	COG0536	
+648181288	Dda3937_01430	cell division protein involved in Z ring assembly	COG3115	
+648181639	Dda3937_02492	camphor resistance protein CrcB	COG0239	
+648181647	Dda3937_02484	cell wall shape-determining protein	COG0772	
+648181648	Dda3937_02483	peptidoglycan synthetase, penicillin-binding protein 2	COG0768	
+648181753	Dda3937_03934	antiporter inner membrane protein	COG0489	
+648181779	Dda3937_03271	Spore maturation protein	COG4641	
+648181889	Dda3937_00764	penicillin binding protein, peptidoglycan synthetase	COG0768	
+648182403	Dda3937_00129	DNA-binding membrane protein required for chromosome resolution and partitioning	COG1674	
+648182461	Dda3937_03197	bacterial condensin subunit MukF	COG3006	
+648182462	Dda3937_03196	bacterial condensin subunit MukE	COG3095	
+648182463	Dda3937_04194	bacterial condensin subunit MukB	COG3096	
+648182468	Dda3937_00009	blue copper oxidase cueO	COG2132	
+648182585	Dda3937_00567	putative inner membrane protein	COG2917	
+648182744	Dda3937_02927	hypothetical protein	COG2719	
+648182751	Dda3937_02920	cell division inhibitor	COG0850	
+648182752	Dda3937_04710	septum site-determining protein minD	COG2894	
+648182753	Dda3937_02919	cell division topological specificity factor	COG0851	
+648183153	Dda3937_02248	UPF0755 protein	COG1559	
+648183430	Dda3937_01809	putative multicopper oxidase	COG2132	
+648183469	Dda3937_02101	DedD protein	COG3147	
+648183646	Dda3937_02825	SOS cell division inhibitor	COG5404	
+648183693	Dda3937_03704	cytoskeleton protein RodZ	COG1426	
+648184003	Dda3937_03905	cell division protein FtsB	COG2919	
+648184231	Dda3937_02238	cell division protein ZapD	COG4582	
+648184238	Dda3937_02231	GTP-binding tubulin-like cell division protein	COG0206	
+648184239	Dda3937_02435	cell division protein	COG0849	
+648184240	Dda3937_02436	membrane anchored protein involved in growth of wall at septum	COG1589	
+648184243	Dda3937_02439	cell division membrane protein	COG0772	
+648184248	Dda3937_02444	penicillin-binding protein 3; peptidoglycan synthetase	COG0768	
+648184249	Dda3937_02445	membrane bound cell division protein at septum containing leucine zipper motif	COG3116	
+648184560	Dda3937_04184	membrane protein	COG3266	
+648184741	Dda3937_02045	protease with a role in cell division	COG4942	

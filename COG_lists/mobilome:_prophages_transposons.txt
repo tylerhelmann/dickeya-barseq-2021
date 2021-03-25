@@ -1,0 +1,78 @@
+Gene ID	Locus Tag	Name	Function	
+648180407	Dda3937_02524	ISEch4 transposase	COG3547	
+648180606	Dda3937_01590	transcriptional regulator, AlpA family	COG3311	
+648180610	Dda3937_01592	DNA primase	COG3378	
+648180612	Dda3937_01594	putative tail length tape measure protein	COG5281	
+648180743	Dda3937_01294	ISEch2 OrfB	COG2801	
+648180744	Dda3937_01295	ISEch2 OrfA	COG2963	
+648180751	Dda3937_01301	Integrase	COG0582	
+648180755	Dda3937_01305	transcriptional regulator, AlpA family	COG3311	
+648180757	Dda3937_01307	DNA primase	COG4643	
+648180828	Dda3937_04456	transposase	COG3547	
+648180895	Dda3937_02709	CcdA protein	COG5302	
+648180899	Dda3937_02713	Integrase	COG0582	
+648181040	Dda3937_02284	ISEch12 OrfB	COG2801	
+648181123	Dda3937_01211	ISEch1 transposase	COG3547	
+648181144	Dda3937_04473	transposase	COG2801	
+648181147	Dda3937_01705	Phage integrase	COG0582	
+648181152	Dda3937_01709	putative antitoxin of gyrase inhibiting toxin-antitoxin system	COG5302	
+648181157	Dda3937_01714	Plasmid replication initiator protein	COG5534	
+648181185	Dda3937_01742	Conjugative transfer protein TrbJ	COG5314	
+648181190	Dda3937_01747	Plasmid stabilization system protein	COG3668	
+648181206	Dda3937_01760	putative Rhs accessory genetic element	COG3501	
+648181237	Dda3937_02559	putative bacteriophage protein	COG3299	
+648181364	Dda3937_03406	Integrase	COG0582	
+648181368	Dda3937_03404	ISEch1 transposase	COG3547	
+648181369	Dda3937_03403	ISEch4 transposase	COG3547	
+648181638	Dda3937_02493	ISEch5 transposase	COG1943	
+648181813	Dda3937_00832	VgrG protein	COG3501	
+648181876	Dda3937_00774	ISEch3 transposase	COG3547	
+648182017	Dda3937_02960	ISEch1 transposase	COG3547	
+648182123	Dda3937_03597	Plasmid stabilization system protein	COG3668	
+648182128	Dda3937_03600	ISEch7 transposase	COG2826	
+648182132	Dda3937_03603	transposase, IS3 family	COG2801	
+648182139	Dda3937_00051	ISEch10 OrfB	COG2801	
+648182140	Dda3937_00050	ISEch10 OrfA	COG2963	
+648182184	Dda3937_04006	ISEch1 transposase	COG3547	
+648182277	Dda3937_04547	transposase	COG2801	
+648182281	Dda3937_02200	Lysozyme	COG4678	
+648182287	Dda3937_02194	hypothetical protein	COG3561	
+648182289	Dda3937_02192	transcriptional regulator, AlpA family	COG3311	
+648182291	Dda3937_02190	Phage integrase	COG0582	
+648182347	Dda3937_00073	ISEch3 transposase	COG3547	
+648182348	Dda3937_04558	IS and transposon-like protein	COG1943	
+648182580	Dda3937_00562	IS and transposon-like protein	COG1943	
+648182809	Dda3937_02086	putative lysogenization regulator	COG2915	
+648182892	Dda3937_03800	Death ON curing protein	COG3654	
+648182894	Dda3937_03798	ISEch2 OrfB	COG2801	
+648182895	Dda3937_03797	ISEch2 OrfA	COG2963	
+648182924	Dda3937_03772	Phage P2 tail protein	COG5004	
+648182927	Dda3937_04605	Baseplate assembly protein V	COG4540	
+648182928	Dda3937_00029	Phage baseplate assembly protein	COG3628	
+648182929	Dda3937_00030	Baseplate assembly protein J	COG3948	
+648182930	Dda3937_00031	Tail protein I	COG4385	
+648182940	Dda3937_03810	major tail sheath protein	COG3497	
+648182941	Dda3937_03811	major tail tube protein	COG3498	
+648182945	Dda3937_03815	putative bacteriophage tail fiber protein U	COG3499	
+648182946	Dda3937_03816	Gene D protein	COG3500	
+648183206	Dda3937_03425	ISEch5 transposase	COG1943	
+648183268	Dda3937_02796	Lysozyme	COG4678	
+648183297	Dda3937_00080	Integrase	COG0582	
+648183303	Dda3937_02771	putative Rhs accessory genetic element	COG3501	
+648183317	Dda3937_02760	transcriptional regulator, AlpA family	COG3311	
+648183346	Dda3937_04172	putative antitoxin of gyrase inhibiting toxin-antitoxin system	COG5302	
+648183358	Dda3937_01875	putative antitoxin of gyrase inhibiting toxin-antitoxin system	COG5302	
+648183415	Dda3937_01824	ISEch1 tranpsosase	COG3547	
+648183520	Dda3937_03037	ISEch1 transposase	COG3547	
+648183531	Dda3937_02429	ISEch3 transposase	COG3547	
+648183557	Dda3937_02407	ISEch2 OrfA	COG2963	
+648183558	Dda3937_02406	ISEch2 OrfB	COG2801	
+648183701	Dda3937_03697	ISEch1 transposase	COG3547	
+648183783	Dda3937_00500	ISEch4 transposase	COG3547	
+648183918	Dda3937_00943	transcriptional regulator, AlpA family	COG3311	
+648183923	Dda3937_00938	Integrase	COG0582	
+648184154	Dda3937_03466	ISEch1 transposase	COG3547	
+648184167	Dda3937_03066	VgrG protein	COG3500	
+648184169	Dda3937_03068	hypothetical protein	COG3628	
+648184400	Dda3937_02183	transposase	COG3547	
+648184850	Dda3937_00987	ISEch1 transposase	COG3547	

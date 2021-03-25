@@ -1,0 +1,111 @@
+Gene ID	Locus Tag	Name	Function	
+648180403	Dda3937_01162	methyl-accepting chemotaxis sensory transducer with Cache sensor	COG0840	
+648180437	Dda3937_01989	chromosome (plasmid) partitioning protein ParA	COG1192	
+648180438	Dda3937_01990	cellulose synthase (UDP-forming)	COG1215	
+648180472	Dda3937_02023	methyl-accepting chemotaxis protein	COG0840	
+648180474	Dda3937_02025	methyl-accepting chemotaxis protein	COG0840	
+648180475	Dda3937_02026	methyl-accepting chemotaxis protein	COG0840	
+648180476	Dda3937_02027	methyl-accepting chemotaxis protein	COG0840	
+648180477	Dda3937_02028	methyl-accepting chemotaxis protein	COG0840	
+648180742	Dda3937_01293	methyl-accepting chemotaxis protein	COG0840	
+648180748	Dda3937_01299	lipopolysaccharide export system permease protein	COG0795	
+648180749	Dda3937_01300	lipopolysaccharide export system permease protein	COG0795	
+648180813	Dda3937_02872	methyl-accepting chemotaxis protein	COG0840	
+648180847	Dda3937_02668	putative DNase	COG0084	
+648180850	Dda3937_02665	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648181390	Dda3937_00852	Prepilin peptidase dependent protein A	COG2165	
+648181393	Dda3937_00855	putative prepilin peptidase dependent protein	COG4967	
+648181482	Dda3937_01934	methyl-accepting chemotaxis sensory transducer with Cache sensor	COG0840	
+648181573	Dda3937_03899	methyl-accepting chemotaxis sensory transducer with Cache sensor	COG0840	
+648181681	Dda3937_01559	serine chemoreceptor protein	COG0840	
+648182064	Dda3937_02985	chemotaxis protein CheV	COG0835	
+648182345	Dda3937_00072	serine chemoreceptor protein	COG0840	
+648182349	Dda3937_03501	aspartate chemoreceptor protein	COG0840	
+648182350	Dda3937_03500	aspartate chemoreceptor protein	COG0840	
+648182351	Dda3937_03499	aspartate chemoreceptor protein	COG0840	
+648182352	Dda3937_03498	ribose and galactose chemoreceptor protein	COG0840	
+648182434	Dda3937_02970	methyl-accepting chemotaxis protein	COG0840	
+648182445	Dda3937_00044	hypothetical protein	COG5581	
+648182581	Dda3937_00563	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648182682	Dda3937_01632	methyl-accepting chemotaxis protein	COG0840	
+648182763	Dda3937_03722	methyl-accepting chemotaxis protein	COG0840	
+648182846	Dda3937_00611	type III secretory pathway, ATPase HrcN	COG1157	
+648182849	Dda3937_00614	HrcQ	COG1886	
+648182860	Dda3937_00625	methyl-accepting chemotaxis protein	COG0840	
+648182861	Dda3937_00626	methyl-accepting chemotaxis protein	COG0840	
+648182916	Dda3937_03778	methyl-accepting chemotaxis protein	COG0840	
+648182950	Dda3937_00105	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648182952	Dda3937_00107	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor	COG0840	
+648182978	Dda3937_03145	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor	COG0840	
+648182981	Dda3937_03142	methyl-accepting chemotaxis protein	COG0840	
+648183061	Dda3937_04114	general secretion pathway protein G	COG2165	
+648183062	Dda3937_04115	general secretion pathway protein F	COG1459	
+648183063	Dda3937_04615	general secretion pathway protein E	COG2804	
+648183150	Dda3937_02251	putative metallodependent hydrolase	COG0084	
+648183181	Dda3937_00027	methyl-accepting chemotaxis protein	COG0840	
+648183197	Dda3937_03415	methyl-accepting chemotaxis protein	COG0840	
+648183208	Dda3937_03427	flagellar filament structural protein (flagellin)	COG1344	
+648183209	Dda3937_02230	flagellar hook-associated protein fliD	COG1345	
+648183210	Dda3937_02229	flagellar biosynthesis protein fliS	COG1516	
+648183212	Dda3937_02227	flagellar hook-basal body complex protein fliE	COG1677	
+648183213	Dda3937_02226	flagellar M-ring protein fliF	COG1766	
+648183214	Dda3937_02225	flagellar motor switch protein fliG	COG1536	
+648183215	Dda3937_02224	flagellar assembly protein fliH	COG1317	
+648183216	Dda3937_02223	flagellum-specific ATP synthase fliI	COG1157	
+648183217	Dda3937_02222	flagellar protein fliJ	COG2882	
+648183218	Dda3937_02221	flagellar hook-length control protein fliK	COG3144	
+648183219	Dda3937_02220	flagellar biosynthesis protein fliL	COG1580	
+648183220	Dda3937_02219	flagellar motor switch protein fliM	COG1868	
+648183221	Dda3937_02218	flagellar motor switch protein fliN	COG1886	
+648183222	Dda3937_02217	flagellar biosynthesis protein fliO	COG3190	
+648183223	Dda3937_02216	flagellar biosynthesis protein fliP	COG1338	
+648183224	Dda3937_02215	flagellar biosynthesis protein fliQ	COG1987	
+648183225	Dda3937_02214	flagellar biosynthesis protein fliR	COG1684	
+648183226	Dda3937_02213	flagellar hook-associated protein flgL	COG1344	
+648183227	Dda3937_02212	flagellar hook-associated protein flgK	COG1256	
+648183228	Dda3937_02211	flagellum-specific muramidase	COG1705	
+648183229	Dda3937_02210	flagellar P-ring protein flgI	COG1706	
+648183230	Dda3937_02209	flagellar L-ring protein flgH	COG2063	
+648183231	Dda3937_02208	flagellar basal-body rod protein flgG	COG4786	
+648183232	Dda3937_02207	flagellar basal-body rod protein flgF	COG4787	
+648183233	Dda3937_02206	flagellar hook protein flgE	COG1749	
+648183234	Dda3937_02205	flagellar basal-body rod modification protein flgD	COG1843	
+648183235	Dda3937_04345	flagellar basal-body rod protein flgC	COG1558	
+648183236	Dda3937_02204	flagellar basal-body rod protein flgB	COG1815	
+648183237	Dda3937_02203	flagellar basal-body P-ring formation protein flgA	COG1261	
+648183238	Dda3937_02202	anti-sigma-28 factor, FlgM family	COG2747	
+648183239	Dda3937_04632	flagellar biosynthesis protein flgN	COG3418	
+648183241	Dda3937_03965	putative flagellar export pore protein	COG1298	
+648183242	Dda3937_02774	flagellar biosynthesis protein flhB	COG1377	
+648183244	Dda3937_02775	chemotaxis response - phosphatase cheZ	COG3143	
+648183246	Dda3937_02777	chemotaxis response regulator protein-glutamate methylesterase cheB	COG2201	
+648183247	Dda3937_02778	chemotaxis protein methyltransferase CheR	COG1352	
+648183248	Dda3937_02779	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648183249	Dda3937_02780	Positive regulator of CheA protein activity (CheW)	COG0835	
+648183250	Dda3937_02781	CheA signal transduction histidine kinase	COG0643	
+648183251	Dda3937_02782	flagellar motor rotation protein motB	COG1360	
+648183252	Dda3937_02783	flagellar motor rotation protein motA	COG1291	
+648183257	Dda3937_02787	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648183375	Dda3937_01861	putative methyl-accepting chemotaxis transducer transmembrane protein	COG0840	
+648183537	Dda3937_02425	prepilin peptidase	COG1989	
+648183544	Dda3937_02418	type II secretory pathway, component OutG	COG2165	
+648183545	Dda3937_02417	general secretion pathway protein F	COG1459	
+648183546	Dda3937_02416	general secretion pathway protein E	COG2804	
+648183608	Dda3937_04369	methyl-accepting chemotaxis protein	COG0840	
+648183694	Dda3937_03703	putative fimbrial biogenesis protein	COG3063	
+648184038	Dda3937_00184	methyl-accepting chemotaxis sensory transducer with Pas/Pac sensor	COG0840	
+648184053	Dda3937_00170	aspartate chemoreceptor protein	COG0840	
+648184075	Dda3937_02614	methyl-accepting chemotaxis protein	COG0840	
+648184083	Dda3937_02606	serine chemoreceptor protein	COG0840	
+648184087	Dda3937_02602	putative transporter	COG2805	
+648184150	Dda3937_03462	serine chemoreceptor protein	COG0840	
+648184208	Dda3937_02635	methyl-accepting chemotaxis protein	COG0840	
+648184226	Dda3937_02243	putative major pilin subunit	COG4969	
+648184227	Dda3937_02242	protein transport protein HofB	COG2804	
+648184228	Dda3937_02241	type 4 fimbrial assembly protein pilC	COG1459	
+648184333	Dda3937_00404	methyl-accepting chemotaxis sensory transducer with TarH sensor	COG0840	
+648184399	Dda3937_02184	aspartate chemoreceptor protein	COG0840	
+648184421	Dda3937_02163	serine chemoreceptor protein	COG0840	
+648184566	Dda3937_00075	type IV pilus biogenesis protein PilN	COG3166	
+648184717	Dda3937_02068	Deoxyribonuclease TatD	COG0084	
+648184856	Dda3937_00992	methyl-accepting chemotaxis protein	COG0840	

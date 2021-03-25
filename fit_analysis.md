@@ -45,5 +45,3 @@ For *Dda*3937, across 6 time0 x 3,706 genes, 0 gene fitness values (0%) had |fit
 For *Ddia*ME23, across 6 time0 x 3,761 genes, 0 gene fitness values (0%) had |fitness| > 1 and |t| > 4.  
 For *Ddia*6719, across 2 time0 x 3,528 genes, 0 gene fitness values (0%) had |fitness| > 1 and |t| > 4.  
 
-Therefore, for each library used in this study, the estimated false discovery rate for a significant phenotype was 0% / (2.9%, 1.8%, or 1.7%) = 0%.
-

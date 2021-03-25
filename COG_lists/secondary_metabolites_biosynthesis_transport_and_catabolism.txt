@@ -1,0 +1,72 @@
+Gene ID	Locus Tag	Name	Function	
+648180451	Dda3937_02002	4-oxalocrotonate tautomerase	COG1942	
+648180629	Dda3937_00665	septum formation protein	COG0424	
+648180663	Dda3937_00700	putative enzyme	COG0412	
+648180677	Dda3937_00714	isoprenoid biosynthesis protein with amidotransferase-like domain	COG3155	
+648180687	Dda3937_00723	putative dioxygenase	COG3384	
+648180701	Dda3937_01257	2,5-diketo-D-gluconate reductase A	COG0656	
+648180787	Dda3937_01335	oxidoreductase, short-chain dehydrogenase/reductase family protein	COG1028	
+648180793	Dda3937_01341	2,3-butanediol dehydrogenase/acetoin (diacetyl) reductase	COG1028	
+648180848	Dda3937_02667	4'-phosphopantetheinyl transferase entD	COG2977	
+648181010	Dda3937_02311	alpha-acetolactate decarboxylase	COG3527	
+648181105	Dda3937_01193	methylglyoxal reductase, acetol producing/2,5-diketo-D-gluconic acid reductase B	COG0656	
+648181136	Dda3937_01221	3-oxoacyl-[acyl-carrier-protein] synthase II (EC 2.3.1.41)	COG0304	
+648181329	Dda3937_01469	Nucleoside-diphosphate-sugar epimerase	COG3320	
+648181440	Dda3937_01893	putative lyase	COG0346	
+648181458	Dda3937_01910	Pyoverdine biosynthesis protein PvcA	COG3207	
+648181460	Dda3937_01912	pvcA protein	COG3207	
+648181476	Dda3937_01928	Lysophospholipase	COG1647	
+648181592	Dda3937_01780	isochorismate synthase (EC 5.4.4.2)	COG1169	
+648181597	Dda3937_01785	2-succinylbenzoyl-CoA synthetase (EC 6.2.1.26)	COG0318	
+648181603	Dda3937_01791	putative transporter ATP-binding protein	COG4181	
+648181604	Dda3937_01792	putative inner membrane protein	COG3127	
+648181788	Dda3937_03279	putative short-chain dehydrogenase	COG1028	
+648181868	Dda3937_00782	glyoxalase/bleomycin resistance protein/dioxygenase	COG0346	
+648182008	Dda3937_04524	Fumarylacetoacetate hydrolase family protein	COG0179	
+648182038	Dda3937_03011	2-Oxobutyrate oxidase	COG3491	
+648182082	Dda3937_00379	3-oxoacyl-[acyl-carrier protein] reductase	COG1028	
+648182108	Dda3937_03583	glyoxalase family protein	COG0346	
+648182121	Dda3937_03595	Nonribosomal peptide synthetase	COG1020	
+648182266	Dda3937_01236	oxidoreductase	COG1028	
+648182307	Dda3937_03825	putative ABC transporter ATP-binding protein	COG4172	
+648182308	Dda3937_03826	putative oligopeptide ABC transporter membrane protein	COG4239	
+648182309	Dda3937_03827	putative oligopeptide ABC transporter membrane protein	COG4174	
+648182438	Dda3937_02966	Fumarylacetoacetate hydrolase family protein	COG0179	
+648182548	Dda3937_03333	putative oxidoreductase	COG0656	
+648182600	Dda3937_00582	putative oxoacyl-(acyl carrier protein) reductase	COG1028	
+648182658	Dda3937_03860	secreted protease C	COG2931	
+648182680	Dda3937_01634	Phenolic acid decarboxylase	COG3479	
+648182727	Dda3937_02941	putative short-chain dehydrogenase	COG1028	
+648182749	Dda3937_02922	putative isomerase/hydrolase	COG0179	
+648182777	Dda3937_04595	2-deoxy-D-gluconate 3-dehydrogenase	COG1028	
+648182884	Dda3937_04147	putative tautomerase ydcE	COG1942	
+648182993	Dda3937_03131	Family S45 unassigned peptidase	COG2366	
+648183042	Dda3937_04613	glyoxalase I, Ni-dependent	COG0346	
+648183085	Dda3937_00002	esterase	COG2050	
+648183136	Dda3937_03637	arylamine N-acetyltransferase 1	COG2162	
+648183155	Dda3937_02246	3-oxoacyl-[acyl-carrier-protein] synthase KASII	COG0304	
+648183156	Dda3937_04625	acyl carrier protein (ACP)	COG0236	
+648183157	Dda3937_04626	3-oxoacyl-[acyl-carrier-protein] reductase (EC 1.1.1.100)	COG1028	
+648183163	Dda3937_04199	hypothetical protein	COG0424	
+648183278	Dda3937_03358	putative cytochrome P450 hydroxylase	COG2124	
+648183483	Dda3937_02115	3-oxoacyl-[acyl-carrier-protein] synthase I	COG0304	
+648183521	Dda3937_03038	chrysobactin synthetase cbsF	COG1020	
+648183526	Dda3937_02434	isochorismate synthase (EC 5.4.4.2)	COG1169	
+648183527	Dda3937_02433	2,3-dihydroxybenzoate-AMP ligase, chrysobactin biosynthesis	COG1021	
+648183528	Dda3937_02432	2,3-dihydro-2,3-dihydroxybenzoate synthetase	COG1535	
+648183529	Dda3937_02431	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase	COG1028	
+648183530	Dda3937_02430	1,4-dihydroxy-2-naphthoyl-CoA hydrolase	COG2050	
+648183606	Dda3937_01674	imidazolonepropionase (EC 3.5.2.7)	COG1228	
+648183673	Dda3937_02801	Lactoylglutathione lyase-like lyase	COG0346	
+648183871	Dda3937_03162	2,3-butanediol dehydrogenase/acetoin (diacetyl) reductase	COG1028	
+648184097	Dda3937_02592	bifunctional 2-acylglycerophospho-ethanolamine acyl transferase/acyl-acyl carrier protein synthetase	COG0318	
+648184129	Dda3937_03443	cytochrome P450	COG2124	
+648184207	Dda3937_02634	oxidoreductase, short chain dehydrogenase/reductase family protein	COG1028	
+648184216	Dda3937_03095	hypothetical protein	COG0412	
+648184629	Dda3937_00306	hypothetical protein	COG2050	
+648184732	Dda3937_02054	putative carboxymethylenebutenolidase	COG0412	
+648184774	Dda3937_03248	D-aminopeptidease	COG3191	
+648184810	Dda3937_03214	Long-chain-fatty-acid--CoA ligase	COG0318	
+648184812	Dda3937_03212	D-alanine--poly(phosphoribitol) ligase subunit 1	COG0318	
+648184813	Dda3937_03211	D-alanine--poly(phosphoribitol) ligase subunit 1	COG0318	
+648184834	Dda3937_00972	indigoidine synthase	COG1020	

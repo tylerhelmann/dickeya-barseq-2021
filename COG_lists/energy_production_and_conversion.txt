@@ -1,0 +1,221 @@
+Gene ID	Locus Tag	Name	Function	
+648180329	Dda3937_00155	FMN-binding protein MioC	COG0716	
+648180422	Dda3937_02539	malate Na(+) symporter	COG3493	
+648180443	Dda3937_01995	C4-dicarboxylic acid, orotate and citrate transporter	COG1301	
+648180510	Dda3937_03874	ferredoxin-NADP reductase	COG1018	
+648180512	Dda3937_03876	glycerol kinase (EC 2.7.1.30)	COG0554	
+648180530	Dda3937_03893	Soluble pyridine nucleotide transhydrogenase	COG1249	
+648180564	Dda3937_00225	oxidoreductase, molybdopterin-binding protein	COG2041	
+648180599	Dda3937_01583	Short chain oxidoreductase	COG4221	
+648180621	Dda3937_04030	sulfoxide reductase heme-binding subunit YedZ	COG2717	
+648180622	Dda3937_04444	putative reductase	COG2041	
+648180623	Dda3937_00660	putative oxidoreductase, Zn-dependent and NAD(P)-binding protein	COG0604	
+648180702	Dda3937_01258	NADP-dependent alcohol dehydrogenase	COG1979	
+648180792	Dda3937_01340	glycerol kinase	COG0554	
+648180830	Dda3937_02684	putative oxidoreductase with FAD/NAD(P)-binding domain	COG0654	
+648180831	Dda3937_02683	2-octaprenyl-6-methoxyphenol hydroxylase FAD/NAD(P)-binding protein	COG0654	
+648180841	Dda3937_02674	trans-aconitate 2-methyltransferase	COG4106	
+648180917	Dda3937_02730	putative glutathione S-transferase	COG0435	
+648180948	Dda3937_03535	putative zinc-containing alcohol dehydrogenase	COG0604	
+648180955	Dda3937_03529	malate dehydrogenase (NAD) (EC 1.1.1.37)	COG0039	
+648180999	Dda3937_02320	putative antibiotic biosynthesis monooxygenase	COG1359	
+648181012	Dda3937_02309	Lactaldehyde reductase	COG1454	
+648181023	Dda3937_02299	flavodoxin 2	COG0716	
+648181063	Dda3937_02261	acetate permease	COG4147	
+648181088	Dda3937_01176	Pyruvate-flavodoxin oxidoreductase	COG0674	
+648181101	Dda3937_01189	alcohol dehydrogenase	COG1454	
+648181109	Dda3937_01197	methylmalonate-semialdehyde dehydrogenase	COG1012	
+648181135	Dda3937_01220	putative short-chain dehydrogenase/reductase	COG4221	
+648181256	Dda3937_01399	NADP-linked malic enzyme	COG0281	
+648181294	Dda3937_01436	Anaerobic nitric oxide reductase flavorubredoxin	COG0426	
+648181296	Dda3937_01438	fumarase, class I, homodimeric (EC 4.2.1.2)	COG1951	
+648181301	Dda3937_01443	Fumarate reductase flavoprotein subunit	COG1053	
+648181305	Dda3937_01447	NrfC protein	COG0437	
+648181319	Dda3937_01460	Tartrate dehydrogenase/Tartrate decarboxylase/D-malic enzyme	COG0473	
+648181342	Dda3937_01482	hypothetical protein	COG3181	
+648181343	Dda3937_01483	hypothetical protein	COG3181	
+648181417	Dda3937_00874	putative flavoprotein	COG0716	
+648181448	Dda3937_01900	nitroreductase	COG0778	
+648181459	Dda3937_01911	phosphoglycolate phosphatase	COG0546	
+648181522	Dda3937_01973	cytochrome bo3 quinol oxidase subunit 4 (EC 1.10.3.-)	COG3125	
+648181523	Dda3937_01974	cytochrome o ubiquinol oxidase subunit III	COG1845	
+648181524	Dda3937_01975	cytochrome o ubiquinol oxidase subunit I	COG0843	
+648181525	Dda3937_01976	cytochrome o ubiquinol oxidase subunit II	COG1622	
+648181582	Dda3937_04163	putative 2Fe-2S cluster-containing protein	COG0633	
+648181665	Dda3937_02466	2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase	COG0654	
+648181680	Dda3937_01560	flavodoxin 1	COG0716	
+648181702	Dda3937_01540	citrate synthase (EC 2.3.3.1)	COG0372	
+648181703	Dda3937_01539	succinate dehydrogenase subunit C (EC 1.3.5.1)	COG2009	
+648181704	Dda3937_01538	succinate dehydrogenase, membrane subunit, binds cytochrome b556	COG2142	
+648181705	Dda3937_01537	succinate dehydrogenase subunit A (EC 1.3.5.1)	COG1053	
+648181706	Dda3937_01536	succinate dehydrogenase, FeS subunit	COG0479	
+648181707	Dda3937_01535	2-oxoglutarate decarboxylase, thiamin-requiring	COG0567	
+648181708	Dda3937_01534	2-oxoglutarate dehydrogenase E2 component (EC 2.3.1.61)	COG0508	
+648181709	Dda3937_01533	succinyl-CoA synthetase, subunit beta	COG0045	
+648181710	Dda3937_01532	succinyl-CoA synthetase, NAD(P)-binding, subunit alpha	COG0074	
+648181712	Dda3937_01883	cytochrome bd-I ubiquinol oxidase subunit 2 apoprotein (EC 1.10.3.10)	COG1294	
+648181871	Dda3937_00779	putative L-lactate dehydrogenase, hypothetical protein subunit YkgG	COG1556	
+648181872	Dda3937_00778	putative L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF	COG1139	
+648181902	Dda3937_00752	hypothetical protein	COG1853	
+648181915	Dda3937_04314	proton glutamate symport protein	COG1301	
+648181918	Dda3937_00741	formate dehydrogenase-H, [4Fe-4S] ferredoxin subunit	COG1142	
+648181922	Dda3937_00737	protease involved in processing C-terminal end of HycE	COG0680	
+648181924	Dda3937_00735	hydrogenase 4, Fe-S subunit	COG3260	
+648181925	Dda3937_00734	hydrogenase 4, Fe-S subunit	COG1143	
+648181926	Dda3937_00733	hydrogenase 4, subunit	COG3261	
+648181927	Dda3937_00732	hydrogenase 4, membrane subunit	COG0651	
+648181928	Dda3937_00731	hydrogenase 4, membrane subunit	COG4237	
+648181929	Dda3937_00730	hydrogenase 4, membrane subunit	COG1009	
+648181930	Dda3937_00729	hydrogenase 4, membrane subunit	COG0650	
+648181931	Dda3937_00728	hydrogenase 4, membrane subunit	COG0651	
+648181932	Dda3937_00727	hydrogenase 4, 4Fe-4S subunit	COG1142	
+648181935	Dda3937_04118	proton glutamate symport protein	COG1301	
+648181939	Dda3937_04122	glycerol dehydrogenase	COG0371	
+648181943	Dda3937_02692	malate/lactate dehydrogenase	COG2055	
+648181949	Dda3937_02687	4-aminobutyraldehyde dehydrogenase	COG1012	
+648182006	Dda3937_02833	hypothetical protein	COG2828	
+648182009	Dda3937_04525	citrate lyase synthetase	COG3053	
+648182010	Dda3937_04526	citrate lyase, acyl carrier subunit gamma	COG3052	
+648182012	Dda3937_04528	citrate lyase, citrate-ACP transferase subunit alpha	COG3051	
+648182013	Dda3937_02963	formate dehydrogenase (quinone-dependent) catalytic subunit	COG0243	
+648182014	Dda3937_02962	formate dehydrogenase (quinone-dependent) iron-sulfur subunit	COG0437	
+648182015	Dda3937_02961	formate dehydrogenase-N, cytochrome B556 subunit gamma, nitrate-inducible	COG2864	
+648182086	Dda3937_00657	NADH-dependent butanol dehydrogenase A	COG1979	
+648182098	Dda3937_00646	oxidoreductase, short chain dehydrogenase/reductase family protein	COG4221	
+648182149	Dda3937_03736	Multimeric flavodoxin WrbA	COG0655	
+648182154	Dda3937_03741	malate dehydrogenase, (decarboxylating, NAD-requiring) (malic enzyme)	COG0281	
+648182171	Dda3937_03757	putative Cytochrome bd2, subunit I	COG1271	
+648182172	Dda3937_03758	cytochrome bd-I ubiquinol oxidase subunit 2 apoprotein (EC 1.10.3.10)	COG1294	
+648182338	Dda3937_04555	putative oxidoreductase	COG0371	
+648182370	Dda3937_03480	oxygen-insensitive NADPH nitroreductase	COG0778	
+648182391	Dda3937_02368	HCP oxidoreductase, NADH-dependent	COG1018	
+648182392	Dda3937_02367	hybrid cluster protein [4Fe-2S-2O] protein in anaerobic terminal reductases	COG1151	
+648182399	Dda3937_04326	cysteine ABC transporter membrane/ATP-binding protein	COG4987	
+648182400	Dda3937_03630	cysteine ABC transporter subunit	COG4988	
+648182416	Dda3937_03350	pyruvate formate lyase I	COG1882	
+648182437	Dda3937_02967	malate Na(+) symporter	COG3493	
+648182439	Dda3937_04561	citrate lyase synthetase	COG3053	
+648182440	Dda3937_04562	citrate lyase, acyl carrier subunit gamma	COG3052	
+648182442	Dda3937_00476	citrate lyase subunit alpha	COG3051	
+648182470	Dda3937_00011	FMN oxidoreductase	COG1902	
+648182556	Dda3937_04042	putative oxidoreductase	COG0778	
+648182568	Dda3937_04056	fused acetaldehyde-CoA dehydrogenase and iron-dependent alcohol dehydrogenase and pyruvate-formate lyase deactivase	COG1454	
+648182608	Dda3937_00590	Electron transport complex protein rnfE	COG4660	
+648182609	Dda3937_00591	putative oxidoreductase	COG4659	
+648182610	Dda3937_00592	putative inner membrane oxidoreductase	COG4658	
+648182611	Dda3937_00593	inner membrane iron-sulfur protein in SoxR-reducing complex	COG4656	
+648182612	Dda3937_00594	inner membrane iron-sulfur protein in SoxR-reducing complex	COG2878	
+648182613	Dda3937_00595	inner membrane subunit of SoxR-reducing complex	COG4657	
+648182629	Dda3937_04126	fumarase, class II (EC 4.2.1.2)	COG0114	
+648182637	Dda3937_04134	NADP-dependent L-serine/L-allo-threonine dehydrogenase ydfG	COG4221	
+648182691	Dda3937_04585	pyridine nucleotide transhydrogenase, subunit beta	COG1282	
+648182692	Dda3937_00078	pyridine nucleotide transhydrogenase, subunit alpha	COG3288	
+648182805	Dda3937_02082	isocitrate dehydrogenase (NADP) (EC 1.1.1.42)	COG0538	
+648182879	Dda3937_00642	Succinate-semialdehyde dehydrogenase [NADP+]	COG1012	
+648182896	Dda3937_03796	alcohol dehydrogenase	COG1454	
+648182898	Dda3937_03794	respiratory nitrate reductase gamma subunit	COG2181	
+648182899	Dda3937_03793	respiratory nitrate reductase chaperone NarJ	COG2180	
+648182900	Dda3937_03792	respiratory nitrate reductase beta subunit	COG1140	
+648182901	Dda3937_03791	nitrate reductase 1, subunit alpha	COG5013	
+648182970	Dda3937_00125	L-lactate permease	COG1620	
+648182972	Dda3937_04340	putative L-lactate dehydrogenase, Iron-sulfur cluster-binding subunit YkgF	COG1139	
+648182973	Dda3937_00127	putative L-lactate dehydrogenase, hypothetical protein subunit YkgG	COG1556	
+648182975	Dda3937_03148	NADH-azoreductase, FMN-dependent	COG1182	
+648182979	Dda3937_03144	fermentative D-lactate dehydrogenase, NAD-dependent	COG1052	
+648182997	Dda3937_03127	putative oxidoreductase	COG1902	
+648183018	Dda3937_03106	putative formate dehydrogenase oxidoreductase protein	COG0243	
+648183033	Dda3937_04039	aconitate hydratase 1	COG1048	
+648183086	Dda3937_00003	putative FAD-linked oxidoreductase	COG0277	
+648183101	Dda3937_03512	FMN reductase	COG0431	
+648183141	Dda3937_02260	respiratory NADH dehydrogenase 2/cupric reductase	COG1252	
+648183148	Dda3937_02253	uncharacterized oxidoreductase	COG2055	
+648183167	Dda3937_00055	hypothetical protein	COG1359	
+648183171	Dda3937_03557	cytochrome b561	COG3038	
+648183174	Dda3937_03560	FMN oxidoreductase	COG1902	
+648183193	Dda3937_03412	betaine aldehyde dehydrogenase (EC 1.2.1.8)	COG1012	
+648183256	Dda3937_02786	NADP-dependent alcohol dehydrogenase	COG1979	
+648183262	Dda3937_02792	Soluble cytochrome b562	COG3783	
+648183385	Dda3937_01851	NADPH:quinone oxidoreductase	COG0431	
+648183387	Dda3937_01849	nitrate reductase large subunit	COG0243	
+648183388	Dda3937_01848	Nitrite reductase [NAD(P)H] large subunit	COG1251	
+648183402	Dda3937_01835	Tat proofreading chaperone FdhE	COG3058	
+648183407	Dda3937_01831	formate dehydrogenase-O, cytochrome b556 subunit	COG2864	
+648183408	Dda3937_01830	formate dehydrogenase (quinone-dependent) iron-sulfur subunit	COG0437	
+648183409	Dda3937_01829	formate dehydrogenase (quinone-dependent) catalytic subunit	COG0243	
+648183422	Dda3937_01817	putative maturation element for hydrogenase 2	COG0680	
+648183423	Dda3937_01816	[NiFe]-hydrogenase II apoprotein, large subunit	COG0374	
+648183424	Dda3937_01815	[NiFe]-hydrogenase II apocytochrome b subunit	COG5557	
+648183425	Dda3937_01814	[NiFe]-hydrogenase II apoprotein, ferredoxin-type subunit	COG0437	
+648183426	Dda3937_01813	[NiFe]-hydrogenase II apoprotein, small subunit	COG1740	
+648183431	Dda3937_01808	NADH:ubiquinone oxidoreductase membrane subunit N	COG1007	
+648183432	Dda3937_01807	NADH:ubiquinone oxidoreductase membrane subunit M	COG1008	
+648183433	Dda3937_01806	NADH:ubiquinone oxidoreductase membrane subunit L	COG1009	
+648183434	Dda3937_01805	NADH dehydrogenase subunit K (EC 1.6.5.3)	COG0713	
+648183435	Dda3937_01804	NADH:ubiquinone oxidoreductase membrane subunit J	COG0839	
+648183436	Dda3937_01803	NADH dehydrogenase subunit I (EC 1.6.5.3)	COG1143	
+648183437	Dda3937_01802	NADH dehydrogenase subunit H (EC 1.6.5.3)	COG1005	
+648183438	Dda3937_01801	NADH:ubiquinone oxidoreductase subunit G	COG1034	
+648183439	Dda3937_01800	NADH:ubiquinone oxidoreductase subunit F	COG1894	
+648183440	Dda3937_01799	NADH:ubiquinone oxidoreductase subunit E	COG1905	
+648183441	Dda3937_01798	NADH:ubiquinone oxidoreductase subunit C,D	COG0649	
+648183442	Dda3937_01797	NADH dehydrogenase subunit B (EC 1.6.5.3)	COG0377	
+648183443	Dda3937_04294	NADH dehydrogenase subunit A (EC 1.6.5.3)	COG0838	
+648183455	Dda3937_04019	acetate kinase A and propionate kinase 2	COG0282	
+648183456	Dda3937_04018	phosphate acetyltransferase	COG0280	
+648183479	Dda3937_02111	transport of tricarboxylates	COG3181	
+648183491	Dda3937_02123	aldehyde dehydrogenase	COG1012	
+648183533	Dda3937_02428	NADH:flavin oxidoreductases, Old Yellow Enzyme family	COG1902	
+648183565	Dda3937_02400	NADH dehydrogenase	COG1252	
+648183567	Dda3937_02398	FMN-dependent NADH-azoreductase	COG1182	
+648183636	Dda3937_01700	acylphosphatase	COG1254	
+648183658	Dda3937_02815	glutathione S-transferase domain-containing protein	COG0435	
+648183704	Dda3937_03694	[2Fe-2S] ferredoxin	COG0633	
+648183721	Dda3937_03368	bifunctional nitric oxide dioxygenase/dihydropteridine reductase 2	COG1017	
+648183868	Dda3937_03159	cytochrome b561	COG3038	
+648183883	Dda3937_03173	acetaldehyde dehydrogenase (EC 1.2.1.10)	COG1012	
+648183900	Dda3937_03190	FMN-dependent NADH-azoreductase	COG1182	
+648183978	Dda3937_00888	putative acyl-CoA synthetase	COG1042	
+648184054	Dda3937_00169	inorganic pyrophosphatase	COG0221	
+648184130	Dda3937_03444	quinone oxidoreductase, NADPH-dependent	COG0604	
+648184158	Dda3937_03469	NAD(P)H-flavin oxidoreductase	COG1853	
+648184202	Dda3937_02629	alcohol dehydrogenase	COG1454	
+648184210	Dda3937_02637	aconitase (EC 4.2.1.3)	COG1049	
+648184217	Dda3937_03096	lipoamide dehydrogenase, E3 component is part of three enzyme complexes	COG1249	
+648184218	Dda3937_03097	pyruvate dehydrogenase, dihydrolipoyltransacetylase component E2	COG0508	
+648184219	Dda3937_03098	pyruvate dehydrogenase, decarboxylase component E1, thiamin-binding protein	COG2609	
+648184261	Dda3937_04404	3-isopropylmalate dehydrogenase	COG0473	
+648184310	Dda3937_00383	sodium-proton antiporter	COG3004	
+648184314	Dda3937_00386	hypothetical protein	COG1584	
+648184335	Dda3937_00406	zinc-binding alcohol dehydrogenase	COG0604	
+648184406	Dda3937_02178	Flavodoxin	COG0716	
+648184431	Dda3937_02153	Pyruvate-flavodoxin oxidoreductase	COG0674	
+648184438	Dda3937_02147	succinate dehydrogenase subunit A (EC 1.3.5.1)	COG1053	
+648184439	Dda3937_02146	fumarate reductase (anaerobic), Fe-S subunit	COG0479	
+648184440	Dda3937_02145	fumarate reductase (anaerobic), membrane anchor subunit	COG3029	
+648184441	Dda3937_02144	succinate dehydrogenase subunit D (EC 1.3.5.1)	COG3080	
+648184457	Dda3937_02128	isocitrate lyase	COG2224	
+648184458	Dda3937_02127	malate synthase (EC 2.3.3.9)	COG2225	
+648184557	Dda3937_04187	phosphoglycolate phosphatase	COG0546	
+648184576	Dda3937_00356	phosphoenolpyruvate carboxykinase	COG1866	
+648184598	Dda3937_00335	homodimeric glycerol 3-phosphate dehydrogenase (quinone) (EC 1.1.5.3)	COG0578	
+648184615	Dda3937_00319	sn-glycerol-3-phosphate dehydrogenase (anaerobic), small subunit	COG0247	
+648184617	Dda3937_00317	glycerol 3-phosphate dehydrogenase (quinone) subunit A (EC 1.1.5.3)	COG0578	
+648184691	Dda3937_00249	acetolactate synthase, small subunit (EC 2.2.1.6)	COG3978	
+648184714	Dda3937_02071	flavin reductase	COG0543	
+648184729	Dda3937_02057	Phosphoenolpyruvate carboxylase, type 1 (EC 4.1.1.31)	COG2352	
+648184738	Dda3937_02048	glycerol-3-phosphate dehydrogenase (NAD+)	COG0240	
+648184835	Dda3937_00973	putative hydrolase	COG0546	
+648184852	Dda3937_00988	aldehyde dehydrogenase B	COG1012	
+648184853	Dda3937_00989	formate dehydrogenase formation protein	COG1526	
+648184880	Dda3937_01015	2-keto-D-gluconate reductase	COG1052	
+648184916	Dda3937_01050	NADPH-glutathione reductase (EC 1.8.1.7)	COG1249	
+648184953	Dda3937_01086	Electron transport protein hydN	COG1142	
+648184976	Dda3937_00139	putative flavoprotein	COG0431	
+648184981	Dda3937_00144	ATP synthase F1 subcomplex epsilon subunit	COG0355	
+648184982	Dda3937_00145	ATP synthase F1 subcomplex beta subunit	COG0055	
+648184983	Dda3937_00146	F1 sector of membrane-bound ATP synthase, subunit gamma	COG0224	
+648184984	Dda3937_00147	F1 sector of membrane-bound ATP synthase, subunit alpha	COG0056	
+648184985	Dda3937_00148	F1 sector of membrane-bound ATP synthase, subunit delta	COG0712	
+648184986	Dda3937_00149	ATP synthase F0 subcomplex B subunit	COG0711	
+648184988	Dda3937_00151	F0 sector of membrane-bound ATP synthase, subunit a	COG0356	
+648184989	Dda3937_00152	ATP synthase, membrane-bound accesory subunit	COG3312	

@@ -1,0 +1,2 @@
+Gene ID	Locus Tag	Name	Function	
+648184433	Dda3937_02152	oligoribonuclease	COG1949	
