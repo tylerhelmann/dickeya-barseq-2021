@@ -33,4 +33,4 @@ Dda3937_feature_list$COG[Dda3937_feature_list$attributes %in% transcription$Locu
 Dda3937_feature_list$COG[Dda3937_feature_list$attributes %in% translation_ribosomal_structure_and_biogenesis$Locus.Tag] <- "translation, ribosomal structure, and biogenesis"
 
 # Save file.
-write.csv(Dda3937_feature_list, "analysis/Dda3937_feature_table_COG.txt")
+write.csv(Dda3937_feature_list, "analysis/Dda3937_feature_table_COG.txt", row.names = F)
