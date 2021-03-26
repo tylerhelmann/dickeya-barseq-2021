@@ -1,6 +1,6 @@
 ## Analysis of BarSeq fitness data
 
-#### Calculate FDR
+#### Estimate FDR
 
 Overall, we attempted 36 genome-wide fitness experiments for each of three transposon libraries, of which 35 (*Dda*3937), 36 (*Ddia*ME23), and 33 (*Ddia*6719) passed metrics for internal consistency (Wetmore *et al*. 2015). 
 
@@ -45,3 +45,73 @@ For *Dda*3937, across 6 time0 x 3,706 genes, 0 gene fitness values (0%) had |fit
 For *Ddia*ME23, across 6 time0 x 3,761 genes, 0 gene fitness values (0%) had |fitness| > 1 and |t| > 4.  
 For *Ddia*6719, across 2 time0 x 3,528 genes, 0 gene fitness values (0%) had |fitness| > 1 and |t| > 4.  
 
+#### Summarize genes (with phenotype) by treatment
+
+Load lists of genes where |fit| > 1 and |t| > 4.
+
+~~~ r
+fit_Dda3937 <- read.csv("analysis/Dda3937_phenotype.tab", header = T)
+fit_DdiaME23 <- read.csv("analysis/DdiaME23_phenotype.tab", header = T)
+fit_Ddia6719 <- read.csv("analysis/Ddia6719_phenotype.tab", header = T)
+~~~
+
+Add orthogroup info (from PyParanoid database).
+
+~~~ r
+locustag_matrix <- read.csv("dickeya_db/locustag_matrix_with_genes.txt", header = T)
+
+fit_Dda3937$group <- locustag_matrix$X[match(fit_Dda3937$locusId, locustag_matrix$Dda3937_locus)]
+fit_DdiaME23$group <- locustag_matrix$X[match(fit_DdiaME23$locusId, locustag_matrix$DdiaME23_locus)]
+fit_Ddia6719$group <- locustag_matrix$X[match(fit_Ddia6719$locusId, locustag_matrix$Ddia6719_locus)]
+~~~
+
+Add COG info to Dda3937 feature table.  
+(Necessary because COG lists reference GenBank locusIds.)
+
+~~~ r
+# Import all COG lists.
+source("src/import_COG_lists.R")
+# Save new feature table.
+source("src/annotate_COGs.R") 
+~~~
+
+Add COG info to PyParanoid homolog matrix.
+(Links COGs to all strains.)
+
+~~~ r 
+Dda3937_feature_table_COG <- read.csv("analysis/Dda3937_feature_table_COG.txt")
+locustag_matrix_with_genes <- read.csv("dickeya_db/locustag_matrix_with_genes.txt")
+
+locustag_matrix_with_genes$COG <- Dda3937_feature_table_COG$COG[match(locustag_matrix_with_genes$Dda3937_locus,
+	Dda3937_feature_table_COG$locus_tag)]
+~~~
+
+Split by treatment. (Combines tuber cultivar data.)
+
+~~~ r
+fit_Dda3937_LB <- fit_Dda3937[grep("LB", fit_Dda3937$short),] 
+fit_Dda3937_M9 <- fit_Dda3937[grep("M9", fit_Dda3937$short),] 
+fit_Dda3937_tuber <- fit_Dda3937[grep("Atlantic|Norland|Upstate", fit_Dda3937$short),]
+
+fit_DdiaME23_LB <- fit_DdiaME23[grep("LB", fit_DdiaME23$short),] 
+fit_DdiaME23_M9 <- fit_DdiaME23[grep("M9", fit_DdiaME23$short),] 
+fit_DdiaME23_tuber <- fit_DdiaME23[grep("Atlantic|Norland|Upstate", fit_DdiaME23$short),]
+
+fit_Ddia6719_LB <- fit_Ddia6719[grep("LB", fit_Ddia6719$short),] 
+fit_Ddia6719_M9 <- fit_Ddia6719[grep("M9", fit_Ddia6719$short),] 
+fit_Ddia6719_tuber <- fit_Ddia6719[grep("Atlantic|Norland|Upstate", fit_Ddia6719$short),]
+~~~
+
+Print frequency for Dda3937, including COG info.  
+Frequency indicates number of reps where that gene had a significant phenotype.
+
+~~~ r
+source("src/gene_phenotype_freq_functions.R")
+
+create_freq_lists()
+add_gene_desc_and_COG()
+save_freq_lists()
+
+q()
+
+~~~
