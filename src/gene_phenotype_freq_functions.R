@@ -27,6 +27,10 @@ add_gene_desc_and_COG <- function(){
   freq_Dda3937_M9$COG <<- locustag_matrix_with_genes$COG[match(freq_Dda3937_M9$Var1, locustag_matrix_with_genes$Dda3937_locus)]
   freq_Dda3937_tuber$COG <<- locustag_matrix_with_genes$COG[match(freq_Dda3937_tuber$Var1, locustag_matrix_with_genes$Dda3937_locus)]
   
+  freq_Dda3937_LB$group <<- locustag_matrix_with_genes$X[match(freq_Dda3937_LB$Var1, locustag_matrix_with_genes$Dda3937_locus)]
+  freq_Dda3937_M9$group <<- locustag_matrix_with_genes$X[match(freq_Dda3937_M9$Var1, locustag_matrix_with_genes$Dda3937_locus)]
+  freq_Dda3937_tuber$group <<- locustag_matrix_with_genes$X[match(freq_Dda3937_tuber$Var1, locustag_matrix_with_genes$Dda3937_locus)]
+  
   freq_DdiaME23_LB$desc <<- fit_DdiaME23$desc[match(freq_DdiaME23_LB$Var1, fit_DdiaME23$locusId)]
   freq_DdiaME23_M9$desc <<- fit_DdiaME23$desc[match(freq_DdiaME23_M9$Var1, fit_DdiaME23$locusId)]
   freq_DdiaME23_tuber$desc <<- fit_DdiaME23$desc[match(freq_DdiaME23_tuber$Var1, fit_DdiaME23$locusId)]
@@ -34,6 +38,10 @@ add_gene_desc_and_COG <- function(){
   freq_DdiaME23_LB$COG <<- locustag_matrix_with_genes$COG[match(freq_DdiaME23_LB$Var1, locustag_matrix_with_genes$DdiaME23_locus)]
   freq_DdiaME23_M9$COG <<- locustag_matrix_with_genes$COG[match(freq_DdiaME23_M9$Var1, locustag_matrix_with_genes$DdiaME23_locus)]
   freq_DdiaME23_tuber$COG <<- locustag_matrix_with_genes$COG[match(freq_DdiaME23_tuber$Var1, locustag_matrix_with_genes$DdiaME23_locus)]
+  
+  freq_DdiaME23_LB$group <<- locustag_matrix_with_genes$X[match(freq_DdiaME23_LB$Var1, locustag_matrix_with_genes$DdiaME23_locus)]
+  freq_DdiaME23_M9$group <<- locustag_matrix_with_genes$X[match(freq_DdiaME23_M9$Var1, locustag_matrix_with_genes$DdiaME23_locus)]
+  freq_DdiaME23_tuber$group <<- locustag_matrix_with_genes$X[match(freq_DdiaME23_tuber$Var1, locustag_matrix_with_genes$DdiaME23_locus)]
   
   freq_Ddia6719_LB$desc <<- fit_Ddia6719$desc[match(freq_Ddia6719_LB$Var1, fit_Ddia6719$locusId)]
   freq_Ddia6719_M9$desc <<- fit_Ddia6719$desc[match(freq_Ddia6719_M9$Var1, fit_Ddia6719$locusId)]
@@ -43,6 +51,9 @@ add_gene_desc_and_COG <- function(){
   freq_Ddia6719_M9$COG <<- locustag_matrix_with_genes$COG[match(freq_Ddia6719_M9$Var1, locustag_matrix_with_genes$Ddia6719_locus)]
   freq_Ddia6719_tuber$COG <<- locustag_matrix_with_genes$COG[match(freq_Ddia6719_tuber$Var1, locustag_matrix_with_genes$Ddia6719_locus)]
   
+  freq_Ddia6719_LB$group <<- locustag_matrix_with_genes$X[match(freq_Ddia6719_LB$Var1, locustag_matrix_with_genes$Ddia6719_locus)]
+  freq_Ddia6719_M9$group <<- locustag_matrix_with_genes$X[match(freq_Ddia6719_M9$Var1, locustag_matrix_with_genes$Ddia6719_locus)]
+  freq_Ddia6719_tuber$group <<- locustag_matrix_with_genes$X[match(freq_Ddia6719_tuber$Var1, locustag_matrix_with_genes$Ddia6719_locus)]
 }
 
 save_freq_lists <- function(){

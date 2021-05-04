@@ -65,7 +65,7 @@ fit_DdiaME23$group <- locustag_matrix$X[match(fit_DdiaME23$locusId, locustag_mat
 fit_Ddia6719$group <- locustag_matrix$X[match(fit_Ddia6719$locusId, locustag_matrix$Ddia6719_locus)]
 ~~~
 
-Add COG info to Dda3937 feature table.  
+Add COG info to *Dda*3937 feature table.  
 (Necessary because COG lists reference GenBank locusIds.)
 
 ~~~ r
@@ -75,7 +75,7 @@ source("src/import_COG_lists.R")
 source("src/annotate_COGs.R") 
 ~~~
 
-Add COG info to PyParanoid homolog matrix.
+Add COG info to PyParanoid homolog matrix, based on *Dda*3937 gemes.
 (Links COGs to all strains.)
 
 ~~~ r 
@@ -102,7 +102,7 @@ fit_Ddia6719_M9 <- fit_Ddia6719[grep("M9", fit_Ddia6719$short),]
 fit_Ddia6719_tuber <- fit_Ddia6719[grep("Atlantic|Norland|Upstate", fit_Ddia6719$short),]
 ~~~
 
-Print frequency for Dda3937, including COG info.  
+Print frequency for all genes x treateatments x strains, including COG and orthogroup info.  
 Frequency indicates number of reps where that gene had a significant phenotype.
 
 ~~~ r
