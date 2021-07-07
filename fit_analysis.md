@@ -47,6 +47,13 @@ For *Ddia*6719, across 2 time0 x 3,528 genes, 0 gene fitness values (0%) had |fi
 
 #### Summarize genes (with phenotype) by treatment
 
+Create analysis R script for all library x treatment combinations.  
+(All other steps in R.)
+
+~~~ bash
+./src/write_analysis_R_scripts.sh > src/freq_functions.R
+~~~
+
 Load lists of genes where |fit| > 1 and |t| > 4.
 
 ~~~ r
@@ -89,29 +96,25 @@ locustag_matrix_with_genes$COG <- Dda3937_feature_table_COG$COG[match(locustag_m
 Split by treatment. (Combines tuber cultivar data.)
 
 ~~~ r
-fit_Dda3937_LB <- fit_Dda3937[grep("LB", fit_Dda3937$short),] 
+fit_Dda3937_LB <- fit_Dda3937[grep("LB", fit_Dda3937$short),]
+fit_Dda3937_PDB <- fit_Dda3937[grep("PDB", fit_Dda3937$short),]
 fit_Dda3937_M9 <- fit_Dda3937[grep("M9", fit_Dda3937$short),] 
 fit_Dda3937_tuber <- fit_Dda3937[grep("Atlantic|Norland|Upstate", fit_Dda3937$short),]
 
 fit_DdiaME23_LB <- fit_DdiaME23[grep("LB", fit_DdiaME23$short),] 
+fit_DdiaME23_PDB <- fit_DdiaME23[grep("PDB", fit_DdiaME23$short),] 
 fit_DdiaME23_M9 <- fit_DdiaME23[grep("M9", fit_DdiaME23$short),] 
 fit_DdiaME23_tuber <- fit_DdiaME23[grep("Atlantic|Norland|Upstate", fit_DdiaME23$short),]
 
 fit_Ddia6719_LB <- fit_Ddia6719[grep("LB", fit_Ddia6719$short),] 
+fit_Ddia6719_PDB <- fit_Ddia6719[grep("PDB", fit_Ddia6719$short),] 
 fit_Ddia6719_M9 <- fit_Ddia6719[grep("M9", fit_Ddia6719$short),] 
 fit_Ddia6719_tuber <- fit_Ddia6719[grep("Atlantic|Norland|Upstate", fit_Ddia6719$short),]
 ~~~
 
-Print frequency for all genes x treateatments x strains, including COG and orthogroup info.  
+Print gene frequencies for all treatments x strains, including COG and orthogroup info.  
 Frequency indicates number of reps where that gene had a significant phenotype.
 
-~~~ r
-source("src/gene_phenotype_freq_functions.R")
-
-create_freq_lists()
-add_gene_desc_and_COG()
-save_freq_lists()
-
-q()
-
+~~~r 
+source("src/freq_functions.R")
 ~~~
