@@ -113,7 +113,8 @@ fit_Ddia6719_tuber <- fit_Ddia6719[grep("Atlantic|Norland|Upstate", fit_Ddia6719
 ~~~
 
 Print gene frequencies for all treatments x strains, including COG and orthogroup info.  
-Frequency indicates number of reps where that gene had a significant phenotype.
+Frequency indicates number of reps where that gene had a significant phenotype.  
+Note: these lists do not distinguish +/- fitness values. 
 
 ~~~r 
 source("src/freq_functions.R")
