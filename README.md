@@ -20,7 +20,8 @@ Data included in [dickeya\_db/](dickeya_db/)
 
 Data included in [library\_mapping/](library_mapping/)
 
-Includes predicted essential genes tables.
+Includes predicted essential genes tables.  
+Process tables to add ortholog groups: [ess_analysis.md](ess_analysis.md)
 
 ### Measuring genome-wide fitness with BarSeq *in vitro* and *in planta*
 

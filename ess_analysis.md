@@ -14,6 +14,12 @@ Write group names for predicted essential genes.
 source("src/save_ess_groups.R")
 ~~~
 
+Lists of genes with essentiality predictions and PyParanoid groups:
+
+- [Dda3937.ess.csv](analysis/Dda3937.ess.csv)
+- [DdiaME23.ess.csv](analysis/DdiaME23.ess.csv)
+- [Ddia6719.ess.csv](analysis/Ddia6719.ess.csv)
+
 How many predicted essential genes do not have predicted groups?
 
 ~~~ bash
