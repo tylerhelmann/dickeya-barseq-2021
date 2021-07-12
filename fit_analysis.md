@@ -91,6 +91,7 @@ locustag_matrix_with_genes <- read.csv("dickeya_db/locustag_matrix_with_genes.tx
 
 locustag_matrix_with_genes$COG <- Dda3937_feature_table_COG$COG[match(locustag_matrix_with_genes$Dda3937_locus,
 	Dda3937_feature_table_COG$locus_tag)]
+write.csv(locustag_matrix_with_genes, "analysis/locustag_matrix_with_genes_COG.txt", row.names = F)
 ~~~
 
 Split by treatment. (Combines tuber cultivar data.)
