@@ -13,7 +13,7 @@ source("src/write_genes_with_phenotype.R")
 
 Considering only experiments that passed internal QC metrics:
 
-For *Dda*3937, across all 35 experiments x 3,706 genes, 3,715 gene fitness values (2.9%) had |fitness| > 1 and |t| > 4.  
+For *Dda*3937, across all 35 experiments x 3,706 genes, 3,718 gene fitness values (2.9%) had |fitness| > 1 and |t| > 4.  
 For *Ddia*ME23, across all 36 experiments x 3,761 genes, 2,396 gene fitness values (1.8%) had |fitness| > 1 and |t| > 4.  
 For *Ddia*6719, across all 33 experiments x 3,528 genes, 1,936 gene fitness values (1.7%) had |fitness| > 1 and |t| > 4.  
 

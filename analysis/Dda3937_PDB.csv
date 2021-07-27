@@ -126,7 +126,7 @@
 "DDA3937_RS09505",5,"arginine ABC transporter permease ArtQ","amino acid transport and metabolism","group_02178"
 "DDA3937_RS09515",3,"arginine ABC transporter ATP-binding protein ArtP","amino acid transport and metabolism","group_02081"
 "DDA3937_RS09585",2,"thioredoxin-disulfide reductase","postranslational modification, protein turnover, chaperones","group_01352"
-"DDA3937_RS09670",3,"3-phosphoserine/phosphohydroxythreonine transaminase","coenzyme transport and metabolism","group_01070"
+"DDA3937_RS09670",2,"3-phosphoserine/phosphohydroxythreonine transaminase","coenzyme transport and metabolism","group_01070"
 "DDA3937_RS09745",1,"SDR family oxidoreductase","cell wall/membrane/envelope biogenesis","group_01756"
 "DDA3937_RS09815",1,"APC family permease","amino acid transport and metabolism","group_00675"
 "DDA3937_RS09825",2,"DUF496 family protein","function unknown","group_02996"
@@ -287,6 +287,7 @@
 "DDA3937_RS21605",3,"tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG","translation, ribosomal structure, and biogenesis","group_00225"
 "DDA3937_RS21905",1,"restriction endonuclease",NA,NA
 "DDA3937_RS21960",2,"helix-turn-helix transcriptional regulator","none","group_03140"
+"DDA3937_RS22350",1,"hypothetical protein",NA,NA
 "DDA3937_RS22370",1,"His-Xaa-Ser repeat protein HxsA",NA,NA
 "DDA3937_RS22535",1,"DMT family transporter","general function prediction only","group_01542"
 "DDA3937_RS23165",6,"hypothetical protein",NA,NA
