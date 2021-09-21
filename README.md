@@ -1,5 +1,7 @@
 # Scripts and data used in Helmann *et al*. 2021
 
+Preprint: [doi.org/10.1101/2021.09.16.460530](https://doi.org/10.1101/2021.09.16.460530)
+
 #### Title: Genome-wide identification of genes important for growth of *Dickeya dadantii* and *D. dianthicola* in potato (*Solanum tuberosum*) tubers
 
 Abstract: 
