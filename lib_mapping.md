@@ -84,6 +84,9 @@ Split NextSeq fastq files to use all cores for NextSeq mapping. Round total line
 
 ~~~ bash
 # Unzip all fastq.gz files.
+for i in $(ls *gz); do 
+gunzip $i &  
+done
 
 # Split large (NextSeq) fastq files.
 split -l 45340312 -d 10435840_Dda3937.fastq Dda3937- &
@@ -151,7 +154,8 @@ Use -minN 10 to set minimum 10 reads per barcode to be included in pool.
 for lib in Dda3937 DdiaME23 Ddia6719; do
 ./feba/bin/DesignRandomPool.pl -minN 10 \
 -genes ${lib}_data/genes.tab \
--pool ${lib}.pool ${lib}_data/${lib}-mapped.txt \
+-pool ${lib}.pool \
+$(ls ${lib}_data/*-mapped.txt) \
 2>&1 | tee ${lib}.stats &
 done
 ~~~
