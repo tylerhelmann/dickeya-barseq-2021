@@ -1,8 +1,10 @@
 # Scripts and data used in Helmann *et al*. 2022
 
-Publication: 
+Publication: [https://doi.org/10.3389/fmicb.2022.778927](https://doi.org/10.3389/fmicb.2022.778927)
 
-Preprint: [doi.org/10.1101/2021.09.16.460530](https://doi.org/10.1101/2021.09.16.460530)
+Citation: Helmann TC, Filiatrault MJ and Stodghill PV (2022) Genome-Wide Identification of Genes Important for Growth of *Dickeya dadantii* and *Dickeya dianthicola* in Potato (*Solanum tuberosum*) Tubers. *Front. Microbiol.* 13:778927. doi: 10.3389/fmicb.2022.778927
+
+Preprint: [https://doi.org/10.1101/2021.09.16.460530](https://doi.org/10.1101/2021.09.16.460530)
 
 #### Title: Genome-wide identification of genes important for growth of *Dickeya dadantii* and *D. dianthicola* in potato (*Solanum tuberosum*) tubers
 
